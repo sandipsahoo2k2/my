@@ -3,7 +3,7 @@
 > - Stop grinding 1000s questions !!
 > - Practice before your next interview
 > - *Mind works just like* a **[LRU cache](https://www.geeksforgeeks.org/lru-cache-implementation/)**
-> - No strings attached ! Love this ? <a href="/publish" target="_blank">Join the club</a>
+> - No strings attached ! Love this ? [Join the club](/publish)
 
 <table class="table">
   <thead>
