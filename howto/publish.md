@@ -1,5 +1,3 @@
-# <center>Publish and Empower</center>
-
 #### Why share with us?
 
 - **Amplify Your Reach:** Join the community of like-minded individuals, share your insights, and reach a global audience.
