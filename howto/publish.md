@@ -7,5 +7,5 @@
 
 ### Share Questions and Elevate Collective Success
 
-At InterviewDose, we believe in the strength of a united students and professional community. Your unique experiences and interview insights can be invaluable to your fellow students. It's time to come together and create a supportive environment where sharing interview questions becomes a powerful tool for success.
+At InterviewDose, we believe that knowledge is the most valuable gift one can give. Your experience, gained through years of hard work and dedication, can pave the way for the success of aspiring professionals. It's time to pay it forward and help students navigate the path to their dream careers by sharing interview questions and insights.
 > You will get a unique link once you publish and also can claim a premium handle to share with your network.
