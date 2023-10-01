@@ -1,9 +1,9 @@
 ### Prepare just these 100 coding interview questions &#x1F4D6;
 
-> - Stop grinding 1000s questions !!
-> - Practice before your next interview
-> - *Mind works just like* a **[LRU cache](https://www.geeksforgeeks.org/lru-cache-implementation/)**
-> - No strings attached ! Love this ? [Join the club](/publish)
+- Stop grinding 1000s questions !!
+- Practice before your next interview
+- *Mind works just like* a **[LRU cache](https://www.geeksforgeeks.org/lru-cache-implementation/)**
+- No strings attached ! Love this ? [Join the club](/publish)
 
 <table class="table">
   <thead>
