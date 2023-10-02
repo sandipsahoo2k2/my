@@ -4,6 +4,7 @@
 - Practice before your next interview
 - *Mind works just like* a **[LRU cache](https://www.geeksforgeeks.org/lru-cache-implementation/)**
 - No strings attached ! Love this ? [Join the club](/publish)
+- Explainer and integration with leetcode [ coming soon ]
 
 <table class="table">
   <thead>
@@ -14,10 +15,11 @@
     </tr>
   </thead>
   <tbody>
+    https://youtu.be/JcUj2X-gLrA
   <tr>
       <td><a href="https://youtube.com/embed/7NLjV3rIfKQ" target="_blank">Two sum</a></td>
-      <td><a href="https://youtube.com/embed/K8MyVUBnQQ" target="_blank">Minimum depth iterative</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
+      <td><a href="https://youtube.com/embed/lthRF-FN7R0" target="_blank">Word break ii</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
@@ -26,7 +28,7 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/23PIu2qUWNg" target="_blank">Best time to buy & Sell</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
+      <td><a href="https://youtube.com/embed/RgYLxtlkKo8" target="_blank">Reverse words in a string</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
     </tr>
     <tr>
