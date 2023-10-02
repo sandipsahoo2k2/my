@@ -1,4 +1,4 @@
-### Prepare just these 100 coding interview questions &#x1F4D6;
+### Prepare just these 100 coding interview questions [Subscribe](https://www.youtube.com/c/InterviewDose){: .btn .btn-danger}
 
 - Stop grinding 1000s questions !!
 - Practice before your next interview
