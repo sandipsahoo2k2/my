@@ -4,7 +4,7 @@
 - Practice before your next interview
 - *Mind works just like* a **[LRU cache](https://www.geeksforgeeks.org/lru-cache-implementation/)**
 - No strings attached ! Love this ? [Join the club](/publish)
-- Explainer and integration with leetcode [ coming soon ]
+- Articles and integration with leetcode [ coming soon ]
 
 <table class="table">
   <thead>
