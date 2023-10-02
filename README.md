@@ -119,7 +119,6 @@
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Sum of Left Leaves</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Serialize a B-Tree</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Sum of distances in Tree</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Concatenated words</a></td>
     </tr>
     <tr>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Check if a number is Happy</a></td>
