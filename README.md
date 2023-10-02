@@ -18,37 +18,37 @@
   <tr>
       <td><a href="https://youtube.com/embed/7NLjV3rIfKQ" target="_blank">Two sum</a></td>
       <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
-      <td><a href="https://youtube.com/embed/lthRF-FN7R0" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtube.com/embed/_KAjEdomX7M" target="_blank">Sum of distance in Tree</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtu.be/lthRF-FN7R0" target="_blank">Trapping rain water</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/23PIu2qUWNg" target="_blank">Best time to buy & Sell</a></td>
       <td><a href="https://youtube.com/embed/RgYLxtlkKo8" target="_blank">Reverse words in a string</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtube.com/embed/PY1LSBx-cNs" target="_blank">Concatenated words</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtube.com/embed/vjMMBIfvXxI" target="_blank">Meeting rooms</a></td>
+      <td><a href="https://youtube.com/embed/8KGSnEQ9s8Q" target="_blank">Decode ways</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/JrrPcXix8zo" target="_blank">Minimum depth of a binary tree</a></td>
       <td><a href="https://youtube.com/embed/K8MyVUBnQQ" target="_blank">Minimum depth iterative</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtu.be/EIfDP5GH7Vs" target="_blank">Serialize & Deserialize binary tree</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/SJC0DN93EU0" target="_blank">Deepest Node</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Check if two strings are anagram</a></td>
+      <td><a href="https://youtu.be/u0J17e8477U" target="_blank">Serialize & Deserialize N-ary tree</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/vh1AciQLF5w" target="_blank">Range Sum of BST</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtu.be/x6oAGPNqGzY" target="_blank">Vertical order traversal</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/jZ5Vi2w1WUo" target="_blank">Sum of Left leaves</a></td>
