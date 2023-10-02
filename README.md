@@ -11,7 +11,6 @@
       <th scope="col">Easy</th>
       <th scope="col">Medium</th>
       <th scope="col">Hard</th>
-      <th scope="col">Practice</th>
     </tr>
   </thead>
   <tbody>
