@@ -4,7 +4,7 @@
 - Practice before your next interview
 - *Mind works just like* a **[LRU cache](https://www.geeksforgeeks.org/lru-cache-implementation/)**
 - No strings attached ! Love this ? [Join our Elite club](/publish)
-- Stay connected [Subscribe](https://www.youtube.com/c/InterviewDose)
+- Stay connected <a href="https://www.youtube.com/c/InterviewDose" target="_blank">Subscribe</a>
 
 <table class="table">
   <thead>
