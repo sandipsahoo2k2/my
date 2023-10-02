@@ -4,7 +4,6 @@
 - Practice before your next interview
 - *Mind works just like* a **[LRU cache](https://www.geeksforgeeks.org/lru-cache-implementation/)**
 - No strings attached ! Love this ? [Join the club](/publish)
-- Articles and integration with leetcode [ coming soon ]
 
 <table class="table">
   <thead>
@@ -47,22 +46,22 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/vh1AciQLF5w" target="_blank">Range Sum of BST</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
+      <td><a href="https://youtube.com/embed/DfDep1TtzeE" target="_blank">Next permutation</a></td>
       <td><a href="https://youtu.be/x6oAGPNqGzY" target="_blank">Vertical order traversal</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/jZ5Vi2w1WUo" target="_blank">Sum of Left leaves</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtube.com/embed/HGnHfU3cHc8" target="_blank">Minm Size sub array sum</a></td>
+      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Sliding window MAX</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
+      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Preorder Traversal(iterative)</a></td>
+      <td><a href="https://youtube.com/embed/cQRBzejYzEo" target="_blank">Daily temperatures</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
     </tr>
     <tr>
@@ -111,7 +110,7 @@
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Sum of distances in Tree</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/11ubO5zSmBc" target="_blank">A number is power of 2</a></td>
+      <td><a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Binary Search</a></td>
       <td><a href="https://youtube.com/embed/F5ylYjN40WY" target="_blank">Dice Roll</a></td>
     </tr>
