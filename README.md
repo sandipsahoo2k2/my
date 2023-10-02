@@ -78,4 +78,4 @@
   </tbody>
 </table>
 
-[More questions >>](/questions)
+[**More questions >>**](/questions)
