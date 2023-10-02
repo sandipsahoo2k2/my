@@ -2,7 +2,7 @@
 
 - Stop grinding 1000s questions !!
 - Practice before your next interview
-- *Mind works just like* a **[LRU cache](https://www.geeksforgeeks.org/lru-cache-implementation/)**
+- *Mind works just like a* <a href="https://www.geeksforgeeks.org/lru-cache-implementation" target="_blank">**LRU cache**</a>
 - No strings attached ! Love this ? [Join our Elite club](/publish)
 - Stay connected <a href="https://www.youtube.com/c/InterviewDose" target="_blank">Subscribe</a>
 
