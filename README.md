@@ -23,7 +23,7 @@
     <tr>
       <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
       <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
-      <td><a href="https://youtube.com/embed/lthRF-FN7R0" target="_blank">Trapping rain water</a></td>
+      <td><a href="https://youtube.com/embed/lthRF-FN7R0?start=13" target="_blank">Trapping rain water</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/23PIu2qUWNg" target="_blank">Best time to buy & Sell</a></td>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a></td>
-      <td><a href="https://youtube.com/embed/MdI6sXCAiso" target="_blank">Redundatnt Connection</a></td>
+      <td><a href="https://youtube.com/embed/MdI6sXCAiso" target="_blank">Redundant Connection</a></td>
       <td><a href="https://youtube.com/embed/_KAjEdomX7M" target="_blank">Sum of distances in Tree</a></td>
     </tr>
     <tr>
