@@ -88,4 +88,4 @@
   </tbody>
 </table>
 
-[Back to first page](/#questions)
+[<< Prev questions](/#questions)
