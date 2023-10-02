@@ -88,4 +88,4 @@
   </tbody>
 </table>
 
-[<< Prev questions](/#questions)
+[**<< Prev questions**](/#questions)
