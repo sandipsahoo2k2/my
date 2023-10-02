@@ -15,7 +15,6 @@
     </tr>
   </thead>
   <tbody>
-    https://youtu.be/JcUj2X-gLrA
   <tr>
       <td><a href="https://youtube.com/embed/7NLjV3rIfKQ" target="_blank">Two sum</a></td>
       <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
