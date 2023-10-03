@@ -17,18 +17,18 @@
   <tbody>
   <tr>
       <td><a href="https://youtube.com/embed/7NLjV3rIfKQ" target="_blank">Two sum</a></td>
+      <td><a href="https://youtube.com/embed/RgYLxtlkKo8" target="_blank">Reverse words in a string</a></td>
+    <td><a href="https://youtube.com/embed/lthRF-FN7R0?start=13" target="_blank">Trapping rain water</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://youtube.com/embed/23PIu2qUWNg" target="_blank">Best time to buy & Sell</a></td>
       <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
-      <td><a href="https://youtube.com/embed/_KAjEdomX7M" target="_blank">Sum of distance in Tree</a></td>
+      <td><a href="https://youtube.com/embed/PY1LSBx-cNs" target="_blank">Concatenated words</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
       <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
-      <td><a href="https://youtube.com/embed/lthRF-FN7R0?start=13" target="_blank">Trapping rain water</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://youtube.com/embed/23PIu2qUWNg" target="_blank">Best time to buy & Sell</a></td>
-      <td><a href="https://youtube.com/embed/RgYLxtlkKo8" target="_blank">Reverse words in a string</a></td>
-      <td><a href="https://youtube.com/embed/PY1LSBx-cNs" target="_blank">Concatenated words</a></td>
+      <td><a href="https://youtube.com/embed/5PoVGnbju0Y" target="_blank">Create Sorted Array through Instructions</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
