@@ -36,8 +36,8 @@
       <td><a href="https://youtube.com/embed/8KGSnEQ9s8Q" target="_blank">Decode ways</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/JrrPcXix8zo" target="_blank">Minimum depth of a binary tree</a></td>
-      <td><a href="https://youtube.com/embed/K8MyVUBnQQ" target="_blank">Minimum depth iterative</a></td>
+      <td><a href="https://youtube.com/embed/JrrPcXix8zo?start=11" target="_blank">Minimum depth of a binary tree</a></td>
+      <td><a href="https://youtube.com/embed/-K8MyVUBnQQ?start=210" target="_blank">Minimum depth iterative</a></td>
       <td><a href="https://youtube.com/embed/EIfDP5GH7Vs" target="_blank">Serialize & Deserialize binary tree</a></td>
     </tr>
     <tr>
