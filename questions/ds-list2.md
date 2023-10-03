@@ -36,12 +36,17 @@
       <td><a href="https://youtube.com/embed/F5ylYjN40WY" target="_blank">Dice Roll</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/Wrjg_nKEbzw" target="_blank">Find the max element in a binary tree</a></td>
+      <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
       <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Valid palindrome</a></td>
       <td><a href="https://youtube.com/embed/W0PTd05dZJQ" target="_blank">Distance of a node from root</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
+      <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
+      <td><a href="https://youtube.com/embed/cQRBzejYzEo" target="_blank">Daily temperatures</a></td>
+      <td><a href="" target="_blank">Coming soon</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://youtube.com/embed/Wrjg_nKEbzw" target="_blank">Find the max element in a binary tree</a></td>
       <td><a href="" target="_blank">Coming soon</a></td>
       <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
@@ -62,11 +67,6 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/xeMzm4sWtTs" target="_blank">Delete a node from Circular list</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
       <td><a href="" target="_blank">Coming soon</a></td>
       <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
