@@ -71,17 +71,7 @@
       <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/DSFbeKNN4Ac" target="_blank">Merge two sorted array</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Sum of Left Leaves</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Check if a number is Happy</a></td>
+      <td><a href="https://youtube.com/embed/ZTD9Zb2BwC4" target="_blank">Check if a number is Happy</a></td>
       <td><a href="" target="_blank">Coming soon</a></td>
       <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
