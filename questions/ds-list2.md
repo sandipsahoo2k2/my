@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a></td>
-      <td><a href="https://youtube.com/embed/cQRBzejYzEo" target="_blank">Daily temperatures</a></td>
+      <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
       <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
     <tr>
