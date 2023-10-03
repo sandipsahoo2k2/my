@@ -22,13 +22,18 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/23PIu2qUWNg" target="_blank">Best time to buy & Sell</a></td>
-      <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
+      <td><a href="https://youtube.com/embed/cQRBzejYzEo" target="_blank">Daily temperatures</a></td>
       <td><a href="https://youtube.com/embed/PY1LSBx-cNs" target="_blank">Concatenated words</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
-      <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
+      <td><a href="https://youtube.com/embed/vh1AciQLF5w" target="_blank">Range Sum of BST</a></td>
+      <td><a href="https://youtube.com/embed/DfDep1TtzeE" target="_blank">Next permutation</a></td>
       <td><a href="https://youtube.com/embed/5PoVGnbju0Y" target="_blank">Create Sorted Array through Instructions</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">*Level order traversal</a></td>
+      <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
+      <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
@@ -46,11 +51,6 @@
       <td><a href="https://youtube.com/embed/u0J17e8477U" target="_blank">Serialize & Deserialize N-ary tree</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/vh1AciQLF5w" target="_blank">Range Sum of BST</a></td>
-      <td><a href="https://youtube.com/embed/DfDep1TtzeE" target="_blank">Next permutation</a></td>
-      <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a></td>
-    </tr>
-    <tr>
       <td><a href="https://youtube.com/embed/jZ5Vi2w1WUo" target="_blank">Sum of Left leaves</a></td>
       <td><a href="https://youtube.com/embed/HGnHfU3cHc8" target="_blank">Minm Size sub array sum</a></td>
       <td><a href="https://youtube.com/embed/CynfIgY6Aek" target="_blank">Sliding window max</a></td>
@@ -61,7 +61,7 @@
       <td><a href="https://youtube.com/embed/0EjPBPRLyjE" target="_blank">Distance of node from root</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a></td>
+      <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
       <td><a href="https://youtube.com/embed/MdI6sXCAiso?start=19" target="_blank">Redundant Connection</a></td>
       <td><a href="https://youtube.com/embed/WuBTG71yOek" target="_blank">Similar string group</a></td>
     </tr>
