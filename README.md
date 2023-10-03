@@ -62,12 +62,12 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a></td>
-      <td><a href="https://youtube.com/embed/cQRBzejYzEo" target="_blank">Daily temperatures</a></td>
+      <td><a href="https://youtube.com/embed/MdI6sXCAiso?start=19" target="_blank">Redundant Connection</a></td>
       <td><a href="https://youtube.com/embed/WuBTG71yOek" target="_blank">Similar string group</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a></td>
-      <td><a href="https://youtube.com/embed/MdI6sXCAiso" target="_blank">Redundant Connection</a></td>
+      <td><a href="https://youtube.com/embed/0EjPBPRLyjE?start=4" target="_blank">*Total distance of a Tree</a></td>
       <td><a href="https://youtube.com/embed/_KAjEdomX7M" target="_blank">Sum of distances in Tree</a></td>
     </tr>
     <tr>
