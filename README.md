@@ -72,8 +72,8 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
-      <td><a href="https://youtube.com/embed/HmZSrU21lrQ?start=39" target="_blank">Reverse link list</a></td>
-      <td><a href="https://youtube.com/embed/PY1LSBx-cNs" target="_blank">Coming Soon</a></td>
+      <td><a href="https://youtube.com/embed/eDsc4Mce0LQ?start=20" target="_blank">Word break</a></td>
+      <td><a href="https://youtube.com/embed/HLOwaCIN3S4" target="_blank">Word break II</a></td>
     </tr>
   </tbody>
 </table>
