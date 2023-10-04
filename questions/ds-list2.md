@@ -18,62 +18,52 @@
     <tr>
       <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
       <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Word break ii</a></td>
+      <td><a href="https://youtube.com/embed/F5ylYjN40WY" target="_blank">Dice Roll</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a></td>
-      <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
+      <td><a href="https://youtube.com/embed/HmZSrU21lrQ?start=39" target="_blank">Reverse link list</a></td>
+      <td><a href="https://youtube.com/embed/W0PTd05dZJQ" target="_blank">Distance of a node from root</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a></td>
       <td><a href="https://youtube.com/embed/4baFHiSEkgg?end=1704" target="_blank">* Create BST from sorted list</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a></td>
       <td><a href="https://youtube.com/embed/I6viYY0mS6I?start=581" target="_blank">* Binary Search</a></td>
-      <td><a href="https://youtube.com/embed/F5ylYjN40WY" target="_blank">Dice Roll</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
-      <td><a href="https://youtu.be/HLOwaCIN3S4" target="_blank">Valid palindrome</a></td>
-      <td><a href="https://youtube.com/embed/W0PTd05dZJQ" target="_blank">Distance of a node from root</a></td>
+      <td><a href="https://youtube.com/embed/flc19LGlCDE" target="_blank">First and Last element</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
       <td><a href="https://youtube.com/embed/cQRBzejYzEo" target="_blank">Daily temperatures</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/Wrjg_nKEbzw" target="_blank">Find the max element in a binary tree</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
+      <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/wSqjf01vBZ4" target="_blank">Remove duplicates from a LinkList</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
+      <td><a href="https://youtube.com/embed/VWGk_Mo_gRU" target="_blank">Valid parenthesis</a></td>
+      <td><a href="https://youtube.com/embed/LScsC-C5gvg" target="_blank">*Minm insertion to balance</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/G78_qD2C3Gc" target="_blank">Find the N'th node</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
+      <td><a href="https://youtube.com/embed/-dbtvD0GkcE?start=350" target="_blank">Valid palindrome</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/YlIHZNUnwNY" target="_blank">Find the max repetation</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/xeMzm4sWtTs" target="_blank">Delete a node from Circular list</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/ZTD9Zb2BwC4" target="_blank">Check if a number is Happy</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
-      <td><a href="" target="_blank">Coming soon</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://youtube.com/embed/wSqjf01vBZ4" target="_blank">Remove duplicates from a LinkList</a></td>
     </tr>
   </tbody>
 </table>
