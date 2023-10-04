@@ -55,16 +55,24 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/YlIHZNUnwNY" target="_blank">Find the max repetation</a></td>
+      <td><a href="https://youtube.com/embed/zb4Mw_FFBaA" target="_blank">*1 Edit distance</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/xeMzm4sWtTs" target="_blank">Delete a node from Circular list</a></td>
+      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">*Course schedule</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/ZTD9Zb2BwC4" target="_blank">Check if a number is Happy</a></td>
+      <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Valid anagram</a></td>
+      <td><a href="https://youtube.com/embed/-UhqRVFnwOY" target="_blank">Subsets</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/wSqjf01vBZ4" target="_blank">Remove duplicates from a LinkList</a></td>
+      <td><a href="https://youtube.com/embed/siNWNRgtlEk" target="_blank">K Equal sum subsets</a></td>
     </tr>
+    <tr>
+      <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Valid anagram</a></td>
+    </tr>
+    <td><a href="https://youtube.com/embed/ZTD9Zb2BwC4" target="_blank">Check if a number is Happy</a></td>
   </tbody>
 </table>
 
