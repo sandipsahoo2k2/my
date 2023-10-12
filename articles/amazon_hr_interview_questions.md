@@ -6,9 +6,10 @@ These questions cover a range of topics, such as your experience, problem-solvin
 - [Star answer format](#star-answer-format)
 - [Amazon Leadership principles](#amazon-leadership-principles)
 - [Behavioral questions](#behavioral-questions)
-- [Learn more](#reference)
+- [Tips for greate answers](#tips_for_greate_answers)
+- [Reference](#reference)
 
-# Star answer format
+## Star answer format
 Amazon bahavioral rounds are focused around their leadership principles. The STAR method is a structured manner of responding to a behavioral-based interview question. Here’s what it looks like:
 
  
@@ -35,7 +36,7 @@ Describe the outcome of your actions. Don’t be shy about taking credit for wha
 Consider your successes and failures in relation to the Leadership Principles. Use examples that showcase your expertise and how you’ve taken risks, succeeded, failed, and grown. Keep in mind that some of our most successful programs have risen from the ashes of failed projects. Failure is a necessary part of innovation. We believe in failing early and persevering until we get it right.
 
 
-# Amazon Leadership principles
+## Amazon Leadership principles
 We use our Leadership Principles every day. They are crucial to discussing ideas for new projects and to deciding the best ways to solve problems. They're just one of the things that makes us peculiar. All candidates are evaluated based on these principles. The best way to prepare for your interview is to consider how you’ve applied them in your past. Below are the 16 Leadership principles that are focued in the behavioral rounds.
 
  
@@ -103,7 +104,7 @@ Leaders work every day to create a safer, more productive, higher performing, mo
 Amazon started in a garage, but it's not there anymore. This is what Amazon's word to their employees ...
 We are big, we impact the world, and we are far from perfect. We must be humble and thoughtful about even the secondary effects of our actions. Our local communities, planet, and future generations need us to be better every day. We must begin each day with a determination to make better, do better, and be better for our customers, our employees, our partners, and the world at large. And we must end every day knowing we can do even more tomorrow. Leaders create more than they consume and always leave things better than how they found them.
 
-# Behavioral questions
+## Behavioral questions
 
 Amazon asks about past situations or challenges you’ve faced, using our principles to guide our discussion.
 
@@ -117,7 +118,7 @@ Here are examples of questions:
   
 Ensure your answers are well-structured. Provide examples using metrics or data if applicable. Reference recent situations when possible.
 
-# Tips for greate answers
+## Tips for greate answers
 
 - Practice using the STAR method. Frame your examples in relation to the Leadership Principles.
 
@@ -131,7 +132,7 @@ Ensure your answers are well-structured. Provide examples using metrics or data 
 
 - Be forthcoming. Don't embellish or omit parts of the story.
 
-# Reference
+## Reference
 - <a href="https://www.amazon.jobs/en/landing_pages/in-person-interview">In-Person Interview Tips</a>
 - <a href="https://youtube.com/embed/HvMc-ECHTWk" target="_blank">Amazon HR Interview Tips</a>
 - <a href="https://youtube.com/embed/Pz0CbXA4mn8" target="_blank">Amazon In-Person Interview Tips</a>
