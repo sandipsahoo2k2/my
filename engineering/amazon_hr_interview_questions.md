@@ -6,6 +6,7 @@ These questions cover a range of topics, such as your experience, problem-solvin
 - [Star answer format](#star-answer-format)
 - [Amazon Leadership principles](#amazon-leadership-principles)
 - [Behavioral questions](#behavioral-questions)
+- [Learn more](#reference)
 
 # Star answer format
 Amazon bahavioral rounds are focused around their leadership principles. The STAR method is a structured manner of responding to a behavioral-based interview question. Here’s what it looks like:
@@ -130,10 +131,10 @@ Ensure your answers are well-structured. Provide examples using metrics or data 
 
 - Be forthcoming. Don't embellish or omit parts of the story.
 
-  Reference :
-
-  <a href="https://youtube.com/embed/Pz0CbXA4mn8" target="_blank">Amazon In-Person Interview Tips</a>
-  <a href="https://youtube.com/embed/HvMc-ECHTWk" target="_blank">Amazon HR Interview Tips</a>
+# Reference
+- <a href="https://www.amazon.jobs/en/landing_pages/in-person-interview">In-Person Interview Tips</a>
+- <a href="https://youtube.com/embed/Pz0CbXA4mn8" target="_blank">Amazon In-Person Interview Tips</a>
+- <a href="https://youtube.com/embed/HvMc-ECHTWk" target="_blank">Amazon HR Interview Tips</a>
 
 
 
