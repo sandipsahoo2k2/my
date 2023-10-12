@@ -6,7 +6,7 @@ These questions cover a range of topics, such as your experience, problem-solvin
 - [Star answer format](#star-answer-format)
 - [Amazon Leadership principles](#amazon-leadership-principles)
 - [Behavioral questions](#behavioral-questions)
-- [Tips for great answers](#tips_for_great_answers)
+- [Tips for great answers](#tips-for-great-answers)
 - [Reference](#reference)
 
 ## Star answer format
