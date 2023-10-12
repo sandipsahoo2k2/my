@@ -6,7 +6,7 @@ These questions cover a range of topics, such as your experience, problem-solvin
 - [Star answer format](#star-answer-format)
 - [Amazon Leadership principles](#amazon-leadership-principles)
 - [Behavioral questions](#behavioral-questions)
-- [Tips for greate answers](#tips_for_greate_answers)
+- [Tips for great answers](#tips_for_great_answers)
 - [Reference](#reference)
 
 ## Star answer format
@@ -118,7 +118,7 @@ Here are examples of questions:
   
 Ensure your answers are well-structured. Provide examples using metrics or data if applicable. Reference recent situations when possible.
 
-## Tips for greate answers
+## Tips for great answers
 
 - Practice using the STAR method. Frame your examples in relation to the Leadership Principles.
 
