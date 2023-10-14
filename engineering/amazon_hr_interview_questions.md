@@ -134,7 +134,7 @@ Ensure your answers are well-structured. Provide examples using metrics or data 
 # Reference
 - <a href="https://www.amazon.jobs/en/landing_pages/in-person-interview">In-Person Interview Tips</a>
 - <a href="https://youtube.com/embed/HvMc-ECHTWk" target="_blank">Amazon HR Interview Tips</a>
-- [![Amazon In-Person Interview Tips](https://img.youtube.com/vi/Pz0CbXA4mn8/hqdefault.jpg)](youtube.com/embed/Pz0CbXA4mn8)
+- [![Amazon In-Person Interview Tips](https://img.youtube.com/vi/Pz0CbXA4mn8/hqdefault.jpg)](https://youtube.com/embed/Pz0CbXA4mn8)
 
 
 
