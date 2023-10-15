@@ -14,7 +14,7 @@ Sharing is caring, Happy writing :)
   - link pointing to a file in the root level
     
 [This file resides in the /hubby folder](/hubby/projects.md)
-  - Link pointing to a file inside folder (without . will look at the base as relative path)
+  - Link pointing to a file inside folder (without . will look at the base as relative path)  
     So always try to use . for all relative paths for internal files.
     
 [This file resides in the /hubby/math folder](./hubby/math/list1.md)
