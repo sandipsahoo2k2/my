@@ -15,7 +15,7 @@ Sharing is caring, Happy writing :)
     
 [This file resides in the /hubby folder](/hubby/projects.md)
   - Link pointing to a file inside folder (without . will look at the base as relative path)  
-    So always try to use . for all relative paths for internal files.
+    So always try to use dot prefix for all relative paths for internal files like below example.
     
 [This file resides in the /hubby/math folder](./hubby/math/list1.md)
   - Link pointing to a file inside and nested folders
