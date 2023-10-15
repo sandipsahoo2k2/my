@@ -1,4 +1,4 @@
-## Different types of links/texts markdown formats that you can use while publishing your content with us
+## Different types of markdown formats for links/texts that you can use
 Interviewdose.com supports a wide range of Markdown formats, including those commonly used on platforms like GitHub. While it's designed to handle a variety of Markdown styles, it may also be compatible with additional formats not specifically mentioned here.  
 
 Here in this example all most all types of types of links, text that can be used in a markdown file is listed. You can refer this as your markdown manual for writing/editing any github markdown file that can be shared with us.
