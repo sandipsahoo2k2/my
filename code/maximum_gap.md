@@ -23,7 +23,7 @@ var maximumGap = function(nums) {
       <dd>Output: 0</dd>
       <dd>Explanation: The array contains less than 2 elements, therefore return 0.</dd>
 </dl>
- 
+
 #### Constraints:
 - 1 <= nums.length <= 105
 - 0 <= nums[i] <= 109
