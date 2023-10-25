@@ -18,6 +18,7 @@ var maximumGap = function(nums) {
       <dd>Input: nums = [3,6,9,1]</dd>
       <dd>Output: 3</dd>
       <dd>Explanation: The sorted form of the array is [1,3,6,9], either (3,6) or (6,9) has the maximum difference 3.</dd>
+    
   <dt>Example 2</dt>
       <dd>Input: nums = [10]</dd>
       <dd>Output: 0</dd>
