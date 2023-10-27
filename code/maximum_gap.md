@@ -4,6 +4,7 @@ If the array contains less than two elements, return 0.
 You must write an algorithm that runs in linear time and uses linear extra space.
 
 ```javascript
+<!-- question -->
 /**
  * @param {number[]} nums
  * @return {number}
