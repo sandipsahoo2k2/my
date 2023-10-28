@@ -5,10 +5,6 @@ Zero to Hero
 
 https://lnkd.in/dGrGmhut
 
-#### Jenkins CI CD By Mr. Ashok | DevOps Tools
-
-https://lnkd.in/d9swuiWJ
-
 #### Jenkins Full Course | Jenkins Tutorial For Beginners
 
 https://lnkd.in/d-_qhBXM
