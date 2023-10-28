@@ -23,4 +23,49 @@ You can return the answer in any order.
   
 Only one valid answer exists.
 
+```javascript
+<!-- question -->
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    
+};
+```
+```javascript
+<!-- correct_solution -->
+var twoSum = function(nums, target) {
+    
+};
+```
+```javascript
+<!-- runOneTestCaseHandler -->
+var runOneTestCaseHandler(args) {
+    return twoSum(...args) ;
+}
+var result = runOneTestCaseHandler(inputArgs);
+console.log('Test case returned : ' + result) ;
+```
+```javascript
+<!-- runAllTestCases -->
+var runAllTestCases() {
+    const totalTestCases = 3 ;
+    const nums = [[2, 7, 11, 15],[3, 2, 4],[3, 3]];
+    const targets = [9, 6, 6];
+    const expectedResults = [3,0,1] ;
+    
+    for(const i = 0 ; i < totalTestCases.length ; i++) {
+        var result = twoSum(nums, target);
+        if(expectedResults[i] !== result) {
+            throw new Error('Test case failed for input : nums = ' + nums[i] + ' target = ' + targets[i]);
+        }
+    }
+    return true ;
+}
+var result = runAllTestCases();
+console.log('All test cases passed : ' + result) ;
+```
+
 Expectations: Solve the problem in Log(N) Time 
