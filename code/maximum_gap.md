@@ -38,19 +38,11 @@ var maximumGap = function(nums) {
 ```
 ```javascript
 <!-- runOneTestCaseHandler -->
-var runOneTestCaseHandler(nums, target) {
-    var result = maximumGap(nums, target);
-    var expectedResult = maximumGap_solution(nums, targets) ;
-    if(expectedResult !== result) {
-        throw new Error('Test case failed for input : nums = ' + nums + ' target = ' + targets);
-    }
-    return true ;
+var runOneTestCaseHandler(args) {
+    return maximumGap(...args) ;
 }
-
-var nums = <param1Value> ;
-var target = <param2Value> ;
-var result = runOneTestCaseHandler(nums, target);
-console.log('Test case passed : ' + result) ;
+var result = runOneTestCaseHandler(inputArgs);
+console.log('Test case returned : ' + result) ;
 ```
 ```javascript
 <!-- runAllTestCases -->
@@ -58,11 +50,11 @@ var runAllTestCases() {
     const totalTestCases = 3 ;
     const nums = [[2, 7, 11, 15],[3, 2, 4],[3, 3]];
     const targets = [9, 6, 6];
+    const expectedResults = [3,0,1] ;
     
     for(const i = 0 ; i < totalTestCases.length ; i++) {
         var result = maximumGap(nums, target);
-        var expectedResult = maximumGap_solution(nums, targets) ;
-        if(expectedResult !== result) {
+        if(expectedResults[i] !== result) {
             throw new Error('Test case failed for input : nums = ' + nums[i] + ' target = ' + targets[i]);
         }
     }
