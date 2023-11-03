@@ -27,5 +27,5 @@ Watch this video on exactly what questions should you ask in your interview and 
 
 [![Jeff on What questions](https://img.youtube.com/vi/oKO_JBtIbvg/hqdefault.jpg)](https://youtube.com/embed/oKO_JBtIbvg)
 
-What is Googlyness
+- What is Googlyness  
 [![What is Googlyness](https://img.youtube.com/vi/TWFs3dxfiOc/hqdefault.jpg)](https://youtube.com/embed/TWFs3dxfiOc)
