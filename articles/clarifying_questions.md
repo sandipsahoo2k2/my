@@ -22,8 +22,10 @@ In the fast-paced environment of an interview, clarifying questions help ensure 
 ##### How Google hires
 Refer : https://www.google.com/about/careers/applications/how-we-hire/
 
-#### Watch these two videos by Jeff to know what questions should you ask in a Google / interview and what is Googlyness 
-https://www.youtube.com/embed/oKO_JBtIbvg
+#### What questions should you ask in a Google / interview and what is Googlyness
+Watch this video on exactly what questions should you ask in your interview and how many and what strategy should you follow while asking your interviewers.
+
+[![Jeff on What questions](https://img.youtube.com/vi/oKO_JBtIbvg/hqdefault.jpg)](https://youtube.com/embed/oKO_JBtIbvg)
 
 What is Googlyness
-https://www.youtube.com/watch?v=TWFs3dxfiOc
+[![What is Googlyness](https://img.youtube.com/vi/TWFs3dxfiOc/hqdefault.jpg)](https://youtube.com/embed/TWFs3dxfiOc)
