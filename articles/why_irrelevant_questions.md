@@ -3,6 +3,8 @@
 I was talking to a friend the other day at the Winter Cafe at the south station. We were discussing about the interview questions and relevance to our day today job. Yeah you guessed right intersection is a Fi. No relevance to what so ever, we were interviewed for. Truly speaking I think the only thing a person should know is how to count money and some basic mathematics to run a big business. No need of Integration and derivatives all math puzzles etc.
 I feel like many of us wasted so much of energy solving puzzles by Shakuntala Devi, haven’t you? Now also some like to ask brainteasers and puzzles in interviews but I hate it when some one judge you on your ability to solve a brainteaser, btw Google says they use to ask before but now they don’t anymore.
 
+<img width="100%" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/77a5cddb-e1b4-4205-af2c-72343140555e">
+
 What am I trying to convey here ? It will be very clear once we read next three para of my experience with building the [links] for my articles at interviewdose.com .
 
 **The challenge was clear:** I needed to list all the files in a given folder at interviewdose.com, even if it contained subfolders within subfolders.
