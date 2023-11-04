@@ -3,19 +3,19 @@
 #### Learn Jenkins! Complete Jenkins Course -
 Zero to Hero
 
-https://lnkd.in/dGrGmhut
+https://youtu.be/6YZvp2GwT0A
 
 #### Jenkins Full Course | Jenkins Tutorial For Beginners
 
-https://lnkd.in/d-_qhBXM
+https://youtu.be/MayMkFCkzj4
 
 #### Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners
 
-https://lnkd.in/d-wjPAKh
+https://www.youtube.com/live/3a8KsB5wJDE?feature=share
 
 #### Jenkins Tutorial for Beginners 
 
-https://lnkd.in/dDrrsnTg
+https://youtu.be/EYA2YNHHPls
 
 #### Jenkins Full Course 
 
@@ -23,7 +23,7 @@ https://lnkd.in/dRXbYtXd
 
 #### Advanced Jenkins tutorial 
 
-https://lnkd.in/dVcxrYE3
+https://www.youtube.com/live/QIhRgW7OhPY?feature=share
 
 ## LABS
 
@@ -34,38 +34,38 @@ https://lnkd.in/dNG2jBFN
 #### Live DevOps Project for Resume - Jenkins
 CICD with Git Hub Integration
 
-https://lnkd.in/dGcmFHMY
+https://youtu.be/f4idgaq2VqA
 
 #### JENKINS PIPELINE FROM SCRATCH
 
-https://lnkd.in/dm29aWBa
+https://youtu.be/Tsex1y94060
 
 #### Amit Kumar Gupta : Cicd Series 1-9
 
-https://lnkd.in/dvitBdfd
+https://youtube.com/playlist?list=PLnKRMdDSbUHCN1lrfgVYsrZu1vhs4FZSk
 
 #### CICD pipeline for Java application to deploy on kubernetes cluster using Jenkins
 
-https://lnkd.in/dNG4BaJu
+https://youtu.be/adG0vq5boL8
 
 #### Jenkins Cicd deployment 
 
-https://lnkd.in/dhNjHvjH
+https://www.youtube.com/live/PXq2OsdxkqU?feature=share
 
 #### Mega Real-time End to End DevOps CI/CD Project Git Jenkins Nexus SonarQube| HandsOn Lab
 
-https://lnkd.in/deCvSKf7
+https://youtu.be/Yk7k3yEguQA
 
 #### Setting up CI-CD Pipeline for an E-Commerce App
 
-https://lnkd.in/dPH4z4Af
+https://www.youtube.com/live/jgO3u9CH5tk?feature=share
 
-https://lnkd.in/d-xzCR8F
+https://www.youtube.com/live/3ixEo13ZdsU?feature=share
 
 #### Jenkins CI/CD Workflow Implementation with Real-time
 
-https://lnkd.in/daGQ28BC
+https://youtu.be/s7pNKD1cSAM
 
 #### Production Ready CI/CD Pipeline Setup
 
-https://lnkd.in/d_BeVj65
+https://youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
