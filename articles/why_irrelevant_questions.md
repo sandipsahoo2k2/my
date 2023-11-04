@@ -11,6 +11,7 @@ The solution? A recursive algorithm! Now, you might wonder when and why you’d 
 So on the server side I had to write a DFS ( Depth First Search ) algo to list all the files and return a tree to my angular articles page and in the front end I wrote a wrapper to get all files and ran a *ngFor loop.
 
 getFiles(givenFolder) -> Directory Object -> a DFS program to Flatten the tree to array of files -> run *ngFor loop and build link/href tags.
+
 <img width="100%" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/52ae8456-0814-4a70-878f-ee193be21573">
 
 
