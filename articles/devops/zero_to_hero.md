@@ -1,5 +1,5 @@
 ## Essential Jenkin Tutorials
-Jenkin is the leading open source automation server. Jenkins provides hundreds of plugins to support building, deploying and automating any project. Here I have collected few popular and recoemneded articles from youtube and jenkin gurus which might be helpful for who wants to master jenkin.
+Jenkin is the leading open source automation server. Jenkins provides hundreds of plugins to support building, deploying and automating any project. Here I have collected few popular and recomended articles from youtube and jenkin gurus which might be helpful for who wants to master jenkin.
 
 ##### Learn Jenkins! Complete Jenkins Course
 
