@@ -1,4 +1,4 @@
-## TUTORIALS
+## Essential Jenkin Tutorials
 
 #### Learn Jenkins! Complete Jenkins Course -
 Zero to Hero
