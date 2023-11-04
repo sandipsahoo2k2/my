@@ -19,12 +19,12 @@ Employing clarifying questions signifies a commitment to learning. This can resu
 #### 6. Efficiency
 In the fast-paced environment of an interview, clarifying questions help ensure that you address the interviewer's questions accurately and save time. This showcases your communication skills and efficiency.
 
-### How Google hires
-Refer : https://www.google.com/about/careers/applications/how-we-hire/
-
 ### Watch how Jeff explains this topic and googlyness
 Watch these videoes on exactly what questions should you ask in your interview, how many questions you can ask 
 and what strategy should you follow while asking your interviewers.
 
 - Jeff on What questions we should ask : https://youtube.com/watch?v=oKO_JBtIbvg
 - What is Googlyness : https://youtube.com/watch?v=TWFs3dxfiOc
+
+### How Google hires
+Refer : https://www.google.com/about/careers/applications/how-we-hire/
