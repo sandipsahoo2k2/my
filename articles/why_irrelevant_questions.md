@@ -16,7 +16,6 @@ getFiles(givenFolder) -> Directory Object -> a DFS program to Flatten the tree t
 
 <img width="100%" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/52ae8456-0814-4a70-878f-ee193be21573">
 
-
 You can say you could have returned the flattened structure from the backend to avoid extra processing ? yes but I didn’t as I will have the luxury of traversing the n-array tree when I need to traverse the path to go to a link right ! Anyway I don’t want to deep dive into few utilities methods that I wrote to list the file names and files with folder names too as the screenshot above.
 
 *What did we learn from this article ?* Yes you may have to write a recursive algo to solve a problem in interview when you are appearing a big tech org like maang .. Does it make sense now ?
