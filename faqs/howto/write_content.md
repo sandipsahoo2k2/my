@@ -13,11 +13,11 @@ Sharing is caring, Happy writing :)
 [This file is at the root level as the README.md](file2.md)
   - link pointing to a file in the root level
     
-[This file resides in the /hubby folder](/hubby/projects.md)
+[This file resides in the /hobby folder](/hobby/projects.md)
   - Link pointing to a file inside folder (without . will look at the base as relative path)  
     So always try to use dot prefix for all relative paths for internal files like below example.
     
-[This file resides in the ./hubby/math folder](./hubby/math/list1.md)
+[This file resides in the ./hobby/math folder](./hobby/math/list1.md)
   - Link pointing to a file inside and nested folders
     
 ### External links
