@@ -50,31 +50,6 @@
       <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Check if two strings are anagram</a></td>
       <td><a href="https://youtube.com/embed/u0J17e8477U" target="_blank">Serialize & Deserialize N-ary tree</a></td>
     </tr>
-    <tr>
-      <td><a href="https://youtube.com/embed/jZ5Vi2w1WUo" target="_blank">Sum of Left leaves</a></td>
-      <td><a href="https://youtube.com/embed/HGnHfU3cHc8" target="_blank">Minm Size sub array sum</a></td>
-      <td><a href="https://youtube.com/embed/CynfIgY6Aek" target="_blank">Sliding window max</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
-      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
-      <td><a href="https://youtube.com/embed/0EjPBPRLyjE" target="_blank">Distance of node from root</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
-      <td><a href="https://youtube.com/embed/MdI6sXCAiso?start=19" target="_blank">Redundant Connection</a></td>
-      <td><a href="https://youtube.com/embed/WuBTG71yOek" target="_blank">Similar string group</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a></td>
-      <td><a href="https://youtube.com/embed/0EjPBPRLyjE?start=4" target="_blank">*Total distance of a Tree</a></td>
-      <td><a href="https://youtube.com/embed/_KAjEdomX7M" target="_blank">Sum of distances in Tree</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
-      <td><a href="https://youtube.com/embed/eDsc4Mce0LQ?start=20" target="_blank">Word break</a></td>
-      <td><a href="https://youtube.com/embed/HLOwaCIN3S4" target="_blank">Word break II</a></td>
-    </tr>
   </tbody>
 </table>
 
