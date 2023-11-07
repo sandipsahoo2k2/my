@@ -76,5 +76,3 @@ var runAllTestCases() {
 var result = runAllTestCases();
 console.log('All test cases passed : ' + result) ;
 ```
-
-Expectations: Solve the problem in Log(N) Time 
