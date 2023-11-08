@@ -9,7 +9,7 @@ It’s like a method for finding the right way through a complex choices.
 
 Following is an example of a backtracking method, I would recomend to understand and remember this method as much as you can.
 back track from definition as you might have seen that its recursive.
-I would highly recomend to watch this video to understand the backtracking concept. 
+I would highly recomend to watch this video by [Abdul Bari](https://www.youtube.com/watch?v=DKCbsiDBN6c) to understand how back tracking works.
 
 #### The backtracking template
 
@@ -187,3 +187,6 @@ public boolean isPalindrome(String s, int low, int high){
    return true;
 }
 ```
+#### Watch this video to learn solving such problems with ease  
+
+[![Watch this video to learn solving such problems with ease](https://img.youtube.com/vi/siNWNRgtlEk/hqdefault.jpg)](https://youtube.com/embed/siNWNRgtlEk)
