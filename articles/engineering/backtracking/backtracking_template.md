@@ -10,8 +10,9 @@ It’s like a method for finding the right way through a complex choices.
 Following is an example of a backtracking method, I would recomend to understand and remember these method as much as you can.
 back track from definition as you might have seen that its recursive.
 
-- I would highly recomend to watch this video by [Abdul Bari](https://www.youtube.com/watch?v=DKCbsiDBN6c) to understand how back tracking works.
 - Refer this video with explanation on the [generic template](https://youtube.com/watch?v=-UhqRVFnwOY) to solve any backtracking problem.
+- I would also highly recommend to watch this video by [Abdul Bari](https://www.youtube.com/watch?v=DKCbsiDBN6c) to understand how back tracking works.
+
 
 #### The backtracking template
 
