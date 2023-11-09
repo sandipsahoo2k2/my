@@ -11,9 +11,7 @@ Following is an example of a backtracking method, I would recomend to understand
 back track from definition as you might have seen that its recursive.
 
 - I would highly recomend to watch this video by [Abdul Bari](https://www.youtube.com/watch?v=DKCbsiDBN6c) to understand how back tracking works.
-- Refer this video with explanation on the generic template for backtracking to solve any backtracking problem.
-
-[![Watch this video to learn solving such problems with ease](https://img.youtube.com/vi/-UhqRVFnwOY/hqdefault.jpg)](https://youtube.com/embed/-UhqRVFnwOY)
+- Refer this video with explanation on the [generic template](https://youtube.com/watch?v=-UhqRVFnwOY) to solve any backtracking problem.
 
 #### The backtracking template
 
