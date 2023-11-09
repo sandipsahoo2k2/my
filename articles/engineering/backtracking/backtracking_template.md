@@ -7,9 +7,13 @@ This technique involves finding a solution incrementally by trying **different o
 In this article, we’ll explore the basics of backtracking, how it works, and how it can help solve all sorts of challenging problems. 
 It’s like a method for finding the right way through a complex choices.
 
-Following is an example of a backtracking method, I would recomend to understand and remember this method as much as you can.
+Following is an example of a backtracking method, I would recomend to understand and remember these method as much as you can.
 back track from definition as you might have seen that its recursive.
-I would highly recomend to watch this video by [Abdul Bari](https://www.youtube.com/watch?v=DKCbsiDBN6c) to understand how back tracking works.
+
+- I would highly recomend to watch this video by [Abdul Bari](https://www.youtube.com/watch?v=DKCbsiDBN6c) to understand how back tracking works.
+- Refer this video with explanation on the generic template for backtracking to solve any backtracking problem.
+
+[![Watch this video to learn solving such problems with ease](https://img.youtube.com/vi/-UhqRVFnwOY/hqdefault.jpg)](https://youtube.com/embed/-UhqRVFnwOY)
 
 #### The backtracking template
 
@@ -187,6 +191,3 @@ public boolean isPalindrome(String s, int low, int high){
    return true;
 }
 ```
-#### Watch this video to learn solving such problems with ease  
-
-[![Watch this video to learn solving such problems with ease](https://img.youtube.com/vi/-UhqRVFnwOY/hqdefault.jpg)](https://youtube.com/embed/-UhqRVFnwOY)
