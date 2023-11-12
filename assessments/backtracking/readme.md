@@ -1,15 +1,16 @@
 <!-- Knowledge Check | Backtracking | pass=100% | Certificate -->
-## General approach solving questions using backtracking
+## What's backtracking ?
 Backtracking can be defined as an algorithmic technique that considers searching every possible combination to solve a problem.
 
 In simple terms, backtracking is like trying different paths, and when you hit a dead end, you backtrack to the last choice and try a different route. This technique involves finding a solution incrementally by trying **different options** and **undoing** them if they lead to a dead end.
 
-By attempting this assesment, You will be able to master the back tracking concepts and will be able to easily attempt problems involving subsets and combinotrics.
-- You may refer this video with explanation on the [backtracking generic template](https://youtube.com/watch?v=-UhqRVFnwOY) to help you clarifying this assessment.
+Using backtracking many complex problems dealing with subsets and combinatrics can be solved. If you want to know more in detail on this topic, You may refer this detailed explainations with examples on this topic [here](../../articles/engineering/backtracking_template.md)
 
-- You may refer the detailed explainations of backtracking with examples on this topic [here](../../articles/engineering/backtracking_template.md)
-
-#### The backtracking template
+### Take this simple test to check your knowledge on this topic
+By attempting this assesment ( See to your right or scroll down to attempt the challenge ), You will be able to revise and master the back tracking concepts. It will help you easily attempt problems involving subsets and combinotrics in general.
+- You may refer this video with explanation on the [backtracking generic template](https://youtube.com/watch?v=-UhqRVFnwOY) if you are unsure how to solve backtracking questions and time complexities of different approaches.
+  
+#### General backtracking approcah and template
 
 1. general backtracking
 ```
