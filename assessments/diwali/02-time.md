@@ -1,4 +1,4 @@
-<!-- Answer = 05cf281c050be3da4eecf3bc6e8aac1b -->
+<!-- Answer =  -->
 #### When is Diwali celebrated ?
 
 #### Select two answers from below
