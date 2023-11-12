@@ -1,4 +1,4 @@
-<!-- Knowledge Check | Title | pass=100% | Certificate -->
+<!-- Knowledge Check | Backtracking | pass=100% | Certificate -->
 ## General approach solving questions using backtracking
 Backtracking can be defined as an algorithmic technique that considers searching every possible combination to solve a problem.
 
