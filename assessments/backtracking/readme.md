@@ -4,7 +4,7 @@ Backtracking can be defined as an algorithmic technique that considers searching
 
 In simple terms, backtracking is like trying different paths, and when you hit a dead end, you backtrack to the last choice and try a different route. This technique involves finding a solution incrementally by trying **different options** and **undoing** them if they lead to a dead end.
 
-Using backtracking many complex problems dealing with subsets and combinatrics can be solved. You may [**refer this article**](../../../articles/engineering/backtracking_template.md) on detailed explainations with examples on this subject.
+Using backtracking many complex problems dealing with subsets and combinatrics can be solved. You may [**refer this article**](/articles/engineering/backtracking_template.md) on detailed explainations with examples on this subject.
 
 ### Take this simple test, check your knowledge
 By attempting this assesment, You will be able to revise and master the back tracking concepts. It will help you easily attempt problems involving subsets and combinotrics in general.
