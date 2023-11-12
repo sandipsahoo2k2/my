@@ -1,4 +1,4 @@
-
+<!-- Knowledge Check | Diwali | pass=100% | Certificate -->
 <img width="100%" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/9f694958-737b-4854-a0a4-708c0fefdcab">
 
 ## What is Diwali ?
