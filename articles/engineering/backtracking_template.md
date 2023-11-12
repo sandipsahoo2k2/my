@@ -1,4 +1,4 @@
-<!-- assessment_folder : backtracking -->
+<!-- Assessment Folder : backtracking -->
 ## General approach solving questions using backtracking
 Backtracking can be defined as an algorithmic technique that considers searching every possible combination to solve a problem.
 
