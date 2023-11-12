@@ -6,7 +6,7 @@ In simple terms, backtracking is like trying different paths, and when you hit a
 
 Using backtracking many complex problems dealing with subsets and combinatrics can be solved. You may [**refer this article**](../../articles/engineering/backtracking_template.md) on detailed explainations with examples on this subject.
 
-### Take this simple test your knowledge
+### Take this simple test, check your knowledge
 By attempting this assesment, You will be able to revise and master the back tracking concepts. It will help you easily attempt problems involving subsets and combinotrics in general.
 
 - You may refer this video with explanation before starting the challenge [backtracking generic template](https://youtube.com/watch?v=-UhqRVFnwOY)
