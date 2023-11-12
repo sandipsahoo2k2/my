@@ -1,4 +1,4 @@
-<!-- Answer =  -->
+<!-- Answer = 05cf281c050be3da4eecf3bc6e8aac1b -->
 #### Problem solving approaches
 What are the general approaches you can take to solve a backtracking problem
 
