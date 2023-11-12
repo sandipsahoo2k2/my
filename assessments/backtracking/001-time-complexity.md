@@ -1,9 +1,8 @@
 <!-- Answer =  -->
 ## Time Complexity
 What's the time complexity for this subset problem ?
-````
-Given an integer array of size N, return all possible subsets.
-````
+
+_Given an integer array of size N, return all possible subsets._
 
 #### Select One answer from below
 - A) Linear - O(N)
