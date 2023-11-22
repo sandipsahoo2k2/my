@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
-      <td><a href="https://youtube.com/embed/flc19LGlCDE" target="_blank">First and Last element</a></td>
+      <td><a href="https://interviewdose.com/i/articles/engineering/ds/binary_search" target="_blank">First and Last element</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
