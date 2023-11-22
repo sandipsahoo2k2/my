@@ -19,24 +19,49 @@ We need to return the position = -1
 * mid = start + (end - start) / 2
 * if array[mid] == target ??
 
-#### Recursive approach :
+#### Recursive plain vanilla approach :
 ```
 	int bSearch(int[] array, int start, int end, int target) {
-			if(start > end || array.length == 0) {
-				return -1 ;
-			}
-		
-			int mid = start + (end - start) / 2 ;
-			if(array[mid] == target) {
-				return mid ;
-			}
-		
-			if(array[mid] < target) {
-				return bSearch(array, start + 1, end, target) ;
-			} else {
-				return bSearch(array, start, end - 1, target) ;
-			}
+		if(start > end || array.length == 0) {
+			return -1 ;
+		}
+	
+		int mid = start + (end - start) / 2 ;
+		if(array[mid] == target) {
+			return mid ;
+		}
+	
+		if(array[mid] < target) {
+			return bSearch(array, start + 1, end, target) ;
+		} else {
+			return bSearch(array, start, end - 1, target) ;
+		}
 	}
 ```
 
-Practice This easy question from [leetcode](https://leetcode.com/problems/binary-search/)
+Practice This approach with [Easy Leetcode 704](https://leetcode.com/problems/binary-search/)
+
+#### Linear approach (Exotic -> Interviewdose ) :
+Watch In detailed about this approach  in this [Video 1](https://youtu.be/I6viYY0mS6I)
+
+```
+	int exoticBSearch(int arr[], int target) {
+		int start = 0;
+		int end = nums.length ;
+		while( start < end) {
+			int mid = start + (end - start) / 2 ;
+			if( nums[mid] < target) {
+					start = mid + 1 ;
+			} else  {
+					end = mid ;
+			}
+		}
+			
+		//return start ; /* this will return the insertion point for a non existing element */
+		
+		return start ==  nums.length ? -1 : nums[start] == target ? start : -1 ;
+	}
+```
+
+Further evidence [Video 2](https://youtu.be/flc19LGlCDE)
+Practice This approach with [Medium Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
