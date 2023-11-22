@@ -42,7 +42,7 @@ We need to return the position = -1
 Practice This approach with [Easy Leetcode 704](https://leetcode.com/problems/binary-search/)
 
 #### Linear approach (Exotic -> Interviewdose ) :
-Watch In detailed about this approach  in this [Video 1](https://youtu.be/I6viYY0mS6I)
+Watch In detailed about this approach  in this [Video 1](https://www.youtube.com/watch?v=I6viYY0mS6I&t=52s)
 
 ```
 	int exoticBSearch(int arr[], int target) {
