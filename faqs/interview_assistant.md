@@ -1,7 +1,7 @@
 ## Meet IA+ - Your interview assistant
 I woke up little early on day before thanks giving. I was just browsing the internet as usual lying on the bed before being super active. I stumbled upon a youtube video where the founder of Perplexity was talking about how they built an ai platform and how is it different from others. The product is a blend of Chat GPT with mixture of posts and videos on similar topics.
 
-I thought, why not try to build something similar in interviewdose.com for interview aspirants. I remembered, I did try out something with openai an year back to test it’s api capabilities. I didn’t find that poc anymore. Doesn’t matter I could quickly wrote a simple poc in few minutes to test if I get what I want from openai and yes.
+I thought, why not build something similar in interviewdose.com for interview aspirants. I remembered, I did try out something with openai an year back to test it’s api capabilities. I didn’t find that poc anymore. Doesn’t matter I could quickly wrote a simple poc in few minutes to test if I get what I want from openai and yes.
 
 I got excited about the long weekend and thanks giving holidays. Wow what a nice coincidence. I get time to build something which will be helpful for the interview aspirants and show case my new MVP idea and a freaking passionate technologist :). I finished my day job went to Dunkin for a coffee. I like the Dunkin’s Coffee Cups design more than their coffee. They are unique try comparing how and you might like them too. I will write about them in a separate blog may be :)
 
