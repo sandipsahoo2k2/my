@@ -43,7 +43,7 @@ private void backtrack_dup(List<List<Integer>> list, List<Integer> tempList, int
 }
 ```
 
-**Solve Subsets** : https://leetcode.com/problems/subsets/
+[**Solve Subsets**](https://leetcode.com/problems/subsets/)
 
 ```
 public List<List<Integer>> subsets(int[] nums) {
@@ -54,7 +54,7 @@ public List<List<Integer>> subsets(int[] nums) {
 }
 ```
 
-**Solve Subsets with duplicate inputs** : https://leetcode.com/problems/subsets-ii/
+[**Solve Subsets with duplicate inputs**](https://leetcode.com/problems/subsets-ii/)
 
 ```
 public List<List<Integer>> subsetsWithDup(int[] nums) {
@@ -65,7 +65,7 @@ public List<List<Integer>> subsetsWithDup(int[] nums) {
 }
 ```
 
-**Solve Permutations** : https://leetcode.com/problems/permutations/
+[**Solve Permutations**](https://leetcode.com/problems/permutations/)
 
 ```
 public List<List<Integer>> permute(int[] nums) {
@@ -89,7 +89,7 @@ private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] 
 }
 ```
 
-**Solve Permutations with duplicate inputs** : https://leetcode.com/problems/permutations-ii/
+[**Solve Permutations with duplicate inputs**](https://leetcode.com/problems/permutations-ii/)
 
 ```
 public List<List<Integer>> permuteUnique(int[] nums) {
@@ -115,7 +115,7 @@ private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] 
 }
 ```
 
-**Combination Sum** : https://leetcode.com/problems/combination-sum/
+[**Combination Sum**](https://leetcode.com/problems/combination-sum/)
 
 ```
 public List<List<Integer>> combinationSum(int[] nums, int target) {
@@ -138,7 +138,7 @@ private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] 
 }
 ```
 
-**Combination Sum (can't reuse same element)** : https://leetcode.com/problems/combination-sum-ii/
+[**Combination Sum (can't reuse same element)**](https://leetcode.com/problems/combination-sum-ii/)
 
 ```
 public List<List<Integer>> combinationSum2(int[] nums, int target) {
@@ -163,7 +163,7 @@ private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] 
 }
 ```
 
-**Palindrome Partitioning** : https://leetcode.com/problems/palindrome-partitioning/
+[**Palindrome Partitioning**](https://leetcode.com/problems/palindrome-partitioning/)
 
 ```
 public List<List<String>> partition(String s) {
