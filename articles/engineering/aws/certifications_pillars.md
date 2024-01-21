@@ -44,6 +44,7 @@ Edge locations in AWS are data centers that deliver as low a latency as possible
 **Scalability** : ability of a system to increase the hardware resources for handling an increase in demand. It can be achieved by either increasing the hardware specs or increasing the number of processing nodes.
 
 #### 10. Difference between NACL and SG?
+<img width="652" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/772d9afb-5160-4451-8b29-b56b2998b699">
 
 #### 11. Difference between S3 & Glacier?
 S3 stands for Simple Storage Service and it is Object-based storage, S3 provides secure, durable, highly scalable object storage. This is easy to use with a simple web services interface to store and retrieve any amount of data from anywhere on the web.
@@ -54,44 +55,47 @@ S3 Glacier storage class is the cheapest storage class, but it can be used for a
 **Standard**: The retrieval time of the standard model is 3 to 5 hours.
 **Bulk**: The retrieval time of the bulk model is 5 to 12 hours.
 
-#### 12. What is Load Balancer and explain them?
+#### 12. What is Load Balancer ?
 Load Balancer is a virtual machine or appliance that balances your web application load that could be Http or Https traffic. It balances a load of multiple web servers so that no web server gets overwhelmed.
 
-Application Load Balancer (Layer 7 (HTTP/HTTPS traffic), Flexible)
-• ALB can in turn route traffic to different services based on either the host or the content of the path contained within that URL. It has other advantage as well like SSL Termination, Sticky Sessions
+**Application Load Balancer**(Layer 7 (HTTP/HTTPS traffic), Flexible)
+- ALB can in turn route traffic to different services based on either the host or the content of the path contained within that URL. It has other advantage as well like SSL Termination, Sticky Sessions
 
-Network Load Balancer (Layer 4 (TLS/TCP/UDP traffic), Static IPs.)
-It is context-less, caring only about the network-layer information contained within the packets it is directing this way and that.
+**Network Load Balancer** (Layer 4 (TLS/TCP/UDP traffic), Static IPs.)
+- It is context-less, caring only about the network-layer information contained within the packets it is directing this way and that.
 ELB only allows routing based on port number. TCP traffic when high performance is required.
 It makes routing decisions at the transport layer (TCP/SSL), and it can handle millions of requests per second.
 
-#### 13. What is cloud watch? Have you configured any custom metrics?
+#### 13. What is cloud watch?
 Amazon CloudWatch is a monitoring and management service that provides data and actionable insights for AWS, hybrid, and on-premises applications and infrastructure resources. With CloudWatch, you can collect and access all your performance and operational data in form of logs and metrics from a single platform.
 
-Good to Know — Must Read for Basic Understanding of Clouds
-Different types of cloud computing?
+#### Different types of cloud computing?
 There are three main types of cloud computing offered as services by the service providers..
 
-Infrastructure as a Service (IaaS) provides basic building blocks such as virtual or dedicated hardware in the form of computers, data storage space as well as networking access in the form of IT infrastructure.
-Platform as a Service (PaaS) offers managing hardware and operating systems for the customers and focusing on deploying their products.
-Software as a Service (SaaS) offers complete management of end-user applications along with management of infrastructure supporting these applications.
-What is EC2 or elastic compute cloud and their pricing model?
+**Infrastructure as a Service** (IaaS) provides basic building blocks such as virtual or dedicated hardware in the form of computers, data storage space as well as networking access in the form of IT infrastructure.
+**Platform as a Service** (PaaS) offers managing hardware and operating systems for the customers and focusing on deploying their products.
+**Software as a Service** (SaaS) offers complete management of end-user applications along with management of infrastructure supporting these applications.
+
+#### What is EC2 or elastic compute cloud and their pricing model?
 EC2 is a virtual machine that provides resizable compute capacity in the cloud. EC2 allows you to pay for the capacity that you actually use. There are 4 types of pricing options in AWS as descried below.
 
-On Demand
-It allows you to pay a fixed rate by the hour or even by the second with no commitment. It is suitable for the applications with short term, spiky or unpredictable workloads that cannot be interrupted.
-On Demand is perfect for the users who want low cost and flexibility of Amazon EC2 without any up-front investment or long-term commitment.
-Reserved
-It is useful for applications with steady state and for the applications that require reserved capacity.
-You can contract by paying some upfront for 1 or 3 years in length., so it gives you a significant discount on the hourly charge for an instance.
-Spot Instances
-It allows you to bid for a price whatever price that you want for instance capacity and providing better savings if your applications have flexible start and end times.
-It is useful for urgent need for large amounts of additional computing capacity.
-Dedicated Hosts
-Dedicated hosts are used to address compliance requirements and reduces host by allowing to use your existing server-bound server licenses.
-It can be purchased as a Reservation for up to 70% off On-Demand price.
-What are the benefits for moving into cloud computing?
-• Scalability: Cloud allows scale up or down based on usage, you only need to pay per use for the computing and storage perspective.
-• Reliability: Cloud providers offer the reliability of their infrastructure up to nearly 100%, with provision for multiple levels of redundancy and backups in case it is needed.
-• Security: Most cloud providers are compliant with industry-level security protocols like HIPAA, PCI, offer access restrictions to applications and systems at multiple levels and monitoring services at a very granular level to trigger alarms.
-• Cost Efficiency: Moving to the cloud for startup companies offers benefits of cost savings by differing from investing in expensive servers, managing, and maintaining them. Every month, companies have to pay only for the computing power and storage that are utilized by them during the month.
+- **On Demand**
+   It allows you to pay a fixed rate by the hour or even by the second with no commitment. It is suitable for the applications with short term, spiky or unpredictable workloads that cannot be interrupted.
+   On Demand is perfect for the users who want low cost and flexibility of Amazon EC2 without any up-front investment or long-term commitment.
+
+- **Reserved**
+  It is useful for applications with steady state and for the applications that require reserved capacity.
+  You can contract by paying some upfront for 1 or 3 years in length., so it gives you a significant discount on the hourly charge for an
+  instance.
+- **Spot Instances**
+   It allows you to bid for a price whatever price that you want for instance capacity and providing better savings if your applications have flexible start and end times.
+   It is useful for urgent need for large amounts of additional computing capacity.
+- **Dedicated Hosts**
+   Dedicated hosts are used to address compliance requirements and reduces host by allowing to use your existing server-bound server licenses.
+   It can be purchased as a Reservation for up to 70% off On-Demand price.
+
+#### What are the benefits for moving into cloud computing?
+- Scalability: Cloud allows scale up or down based on usage, you only need to pay per use for the computing and storage perspective.
+- Reliability: Cloud providers offer the reliability of their infrastructure up to nearly 100%, with provision for multiple levels of redundancy and backups in case it is needed.
+- Security: Most cloud providers are compliant with industry-level security protocols like HIPAA, PCI, offer access restrictions to applications and systems at multiple levels and monitoring services at a very granular level to trigger alarms.
+- Cost Efficiency: Moving to the cloud for startup companies offers benefits of cost savings by differing from investing in expensive servers, managing, and maintaining them. Every month, companies have to pay only for the computing power and storage that are utilized by them during the month.
