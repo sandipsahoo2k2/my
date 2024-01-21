@@ -12,7 +12,7 @@ Its very very simple, in this approach use a running sum and
 * update the maxSum if currentSum > maxSum
   
 
-#### Plain vanilla approach :
+#### Kadane Approach / a simple math trick :
 ```
   int sum = 0 ;
   int maxSum = Integer.MIN_VALUE ;
