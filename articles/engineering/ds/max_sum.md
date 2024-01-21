@@ -14,7 +14,7 @@ Its very very simple, in this approach use a running sum and
 
 #### Plain vanilla approach :
 ```
-	int sum = 0 ;
+  int sum = 0 ;
   int maxSum = Integer.MIN_VALUE ;
   for(int i = 0 ; i < nums.length ; i++) {
       sum += nums[i] ;
