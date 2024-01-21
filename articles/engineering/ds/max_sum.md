@@ -37,7 +37,7 @@ This is a very beautiful question ! Because you not only have to go thorugh each
 So we definitely have to find the number of all possible subarrays right ?
 
 Let's first write the program to find all possible subarrays for a given array.
-It's exactly similar to all possible substring for a given string, So how will we do it ?
+**_It's very similar to all possible substring for a given string, So how will we write all substring ?_**
 
 * Use substring() method which is like given two index it returns the substring from location 1st to the last index(excluded).
 * Use a simple for loops to find all possible substring
