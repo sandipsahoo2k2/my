@@ -1,4 +1,4 @@
-## Max subarray sum
+## 1. Max subarray sum
 
 When we look at this question We tend to think about finding all subarrays for a given array and find the max sum from those list right.
 Which is actually a correct answer but when ever there are numbers and some math operation there is always a trick. 
@@ -11,8 +11,7 @@ Its very very simple, in this approach use a running sum and
 * if running sum is less than zero then maxSum = 0
 * update the maxSum if currentSum > maxSum
   
-
-#### Kadane Approach / a simple math trick :
+#### Kadane's Approach / a simple math trick :
 ```
   int sum = 0 ;
   int maxSum = Integer.MIN_VALUE ;
@@ -29,7 +28,7 @@ Its very very simple, in this approach use a running sum and
 
 Practice This approach with [Medium Leetcode 53](https://leetcode.com/problems/maximum-subarray)
 
-#### Subarray Sum Equals K :
+## 2. Subarray Sum Equals K :
 Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
 
 This is a very beautiful question ! Because you not only have to go thorugh each possible subarray but also at the same time you need to make sure the sum is the given sum and finally count how many such subarray exists.
