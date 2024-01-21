@@ -1,4 +1,4 @@
-## Important fundamental Questions for AWS interviews /  Certifications
+## Fundamental Questions for AWS interviews / Certifications
 
 #### Explain about the SNS, SQS and SES services?
 Amazon Simple Notification Service (SNS) is fully managed, secured, available messaging services by AWS that help decouple server less applications, micro-services, and distributed systems. SNS can be started within minutes from either AWS management console, command-line interface, or software development kit.
