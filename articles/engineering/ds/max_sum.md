@@ -40,8 +40,9 @@ Let's first write the program to find all possible subarrays for a given array.
 It's exactly similar to all possible substring for a given string, So how will we do it ?
 
 * Use substring() method which is like given two index it returns the substring from location 1st to the last index(excluded).
-*  Use a simple for loops to find all possible substring
+* Use a simple for loops to find all possible substring
 
+**For Example :**
 - O N^3 -> for substring method
 	```
 	
