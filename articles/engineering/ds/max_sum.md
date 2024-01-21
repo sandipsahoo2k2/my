@@ -31,4 +31,36 @@ Practice This approach with [Medium Leetcode 53](https://leetcode.com/problems/m
 
 #### Subarray Sum Equals K :
 Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
+
+This is a very beautiful question ! Because you not only have to go thorugh each possible subarray but also at the same time you need to make sure the sum is the given sum and finally count how many such subarray exists.
+
+So we definitely have to find the number of all possible subarrays right ?
+
+Let's first write the program to find all possible subarrays for a given array.
+It's exactly similar to all possible substring for a given string, So how will we do it ?
+
+* Use substring() method which is like given two index it returns the substring from location 1st to the last index(excluded).
+*  Use a simple for loops to find all possible substring
+
+- O N^3 -> for substring method
+	```
+	
+	for(int i = 0 ; i < givenString.length() ; i ++) {
+		for(int j = i + 1 ; j <= givenString.length() ; j ++) { // Note : <=
+			System.out.println(givenString.substring(i, j));
+		}
+	}
+	```
+- O N^2 -> not using substring but use i to start the index for j
+  
+	```
+	for(int i = 0 ; i < givenString.length() ; i ++) {
+ 		String subString = "" ;
+		for(int j = i ; j < givenString.length() ; j ++) { // Note : <
+ 			String subString += givenString.charAt(j) ;
+			System.out.println(subString);
+		}
+	}
+	```
+
 [Video 1](https://www.youtube.com/watch?v=I6viYY0mS6I&start=52s)
