@@ -58,7 +58,7 @@ Let's first write the program to find all possible subarrays for a given array.
 	for(int i = 0 ; i < givenString.length() ; i ++) {
  		String subString = "" ;
 		for(int j = i ; j < givenString.length() ; j ++) { // Note : <
- 			String subString += givenString.charAt(j) ;
+ 			subString += givenString.charAt(j) ;
 			System.out.println(subString);
 		}
 	}
