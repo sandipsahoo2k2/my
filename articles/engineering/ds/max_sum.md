@@ -64,7 +64,7 @@ Let's first write the program to find all possible subarrays for a given array.
 	}
 	```
 
-- **Solution**
+#### **ID Solution Approach-1**
   We can simply write the solution with any of the above approach e.g lets take the second approach
   
   ```
