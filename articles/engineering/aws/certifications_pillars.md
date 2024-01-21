@@ -1,9 +1,9 @@
 ## Fundamental Questions for AWS interviews / Certifications
 
 #### Explain about the SNS, SQS and SES services?
-Amazon Simple Notification Service (SNS) is fully managed, secured, available messaging services by AWS that help decouple server less applications, micro-services, and distributed systems. SNS can be started within minutes from either AWS management console, command-line interface, or software development kit.
-• Amazon Simple Queue Service (SQS) is a fully managed message queues for server less applications, micro-services, and distributed systems. The advantage of SQS FIFO guarantees single time processing and exact order sent by this kind of messaging service.
-• Amazon Simple Email Service (SES) offers sending and receiving email services for informal, notify, and marketing correspond
+Amazon Simple Notification Service (**SNS**) is fully managed, secured, available messaging services by AWS that help decouple server less applications, micro-services, and distributed systems. SNS can be started within minutes from either AWS management console, command-line interface, or software development kit.
+• Amazon Simple Queue Service (**SQS**) is a fully managed message queues for server less applications, micro-services, and distributed systems. The advantage of SQS FIFO guarantees single time processing and exact order sent by this kind of messaging service.
+• Amazon Simple Email Service (**SES**) offers sending and receiving email services for informal, notify, and marketing correspond
 ence via email for their cloud customers through SMTP interface.
 
 #### 1. What’s the difference between on-demand and spot instance?
@@ -19,16 +19,16 @@ A virtual private cloud (VPC) is an isolated private cloud environment typically
 
 Security within a VPC is provided through
 
-Security groups — Act as a firewall for associated EC2 instances, controlling both inbound and outbound traffic at the instance level
+- **Security groups** — Act as a firewall for associated EC2 instances, controlling both inbound and outbound traffic at the instance level
 Network access control lists (ACLs) — Act as a firewall for associated subnets, controlling both inbound and outbound traffic at the subnet level
-Flow logs — VPC Flow Logs is a feature that enables you to capture information about the IP traffic going to and from network interfaces in the VPC and can help in monitoring the traffic or troubleshooting any connectivity issues
+- **Flow logs** — VPC Flow Logs is a feature that enables you to capture information about the IP traffic going to and from network interfaces in the VPC and can help in monitoring the traffic or troubleshooting any connectivity issues
 
 #### 5. What is the IGW and NAT?
-Its highly available VPC component that allows communication between instances in the VPC and the Internet.An Internet gateway serves two purposes:
-
-To provide a target in the VPC route tables for Internet-routable traffic,
-To perform network address translation (NAT) for instances that have been assigned public IP addresses.
-NAT - device enables instances in a private subnet to connect to the Internet or other AWS services, but prevents the Internet from initiating connections with the instances.
+Its highly available VPC component that allows communication between instances in the VPC and the Internet.
+- An Internet gateway serves two purposes:
+   - To provide a target in the VPC route tables for Internet-routable traffic,
+   - To perform network address translation (NAT) for instances that have been assigned public IP addresses.
+- **NAT** - device enables instances in a private subnet to connect to the Internet or other AWS services, but prevents the Internet from initiating connections with the instances.
 
 #### 6. What is the relation between AMI and Instance?
 Instances can be launched by AMIs. One AMI can launch as many instances as required. An instance type defines the hardware of the host computer including information about computers and its memory abilities. After launching an instance, it works as a traditional host and could be interacted with as with any other computer.
@@ -95,7 +95,7 @@ EC2 is a virtual machine that provides resizable compute capacity in the cloud. 
    It can be purchased as a Reservation for up to 70% off On-Demand price.
 
 #### What are the benefits for moving into cloud computing?
-- Scalability: Cloud allows scale up or down based on usage, you only need to pay per use for the computing and storage perspective.
-- Reliability: Cloud providers offer the reliability of their infrastructure up to nearly 100%, with provision for multiple levels of redundancy and backups in case it is needed.
-- Security: Most cloud providers are compliant with industry-level security protocols like HIPAA, PCI, offer access restrictions to applications and systems at multiple levels and monitoring services at a very granular level to trigger alarms.
-- Cost Efficiency: Moving to the cloud for startup companies offers benefits of cost savings by differing from investing in expensive servers, managing, and maintaining them. Every month, companies have to pay only for the computing power and storage that are utilized by them during the month.
+- **Scalability**: Cloud allows scale up or down based on usage, you only need to pay per use for the computing and storage perspective.
+- **Reliability**: Cloud providers offer the reliability of their infrastructure up to nearly 100%, with provision for multiple levels of redundancy and backups in case it is needed.
+- **Security**: Most cloud providers are compliant with industry-level security protocols like HIPAA, PCI, offer access restrictions to applications and systems at multiple levels and monitoring services at a very granular level to trigger alarms.
+- **Cost Efficiency**: Moving to the cloud for startup companies offers benefits of cost savings by differing from investing in expensive servers, managing, and maintaining them. Every month, companies have to pay only for the computing power and storage that are utilized by them during the month.
