@@ -86,3 +86,4 @@ Let's first write the program to find all possible subarrays for a given array.
     }
   ```
 Practice This approach with [Medium Leetcode 560](https://leetcode.com/problems/subarray-sum-equals-k)
+O(N) Approach : [Watch this video](https://www.youtube.com/shorts/x2DxTtx8pEU)
