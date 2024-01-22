@@ -8,7 +8,7 @@ Which means the arrays must have some negative numbers too and if it has some -v
 
 Its very very simple, in this approach use a running sum and
 
-* if running sum is less than zero then maxSum = 0
+* if running sum is less than zero then reset the currentSum = 0
 * update the maxSum if currentSum > maxSum
   
 #### Kadane's Approach / a simple math trick :
