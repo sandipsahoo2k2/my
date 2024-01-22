@@ -6,6 +6,8 @@ So here is a simple intution to this problem if there are only positive numbers,
 Cause in that case sum of all numbers in the entire array is the answer. 
 Which means the arrays must have some negative numbers too and if it has some -ve numbers then We use Kadane algorithm.
 
+You may watch this video version of this article [here](https://youtu.be/uJml2MrBCg8)
+
 Its very very simple, in this approach use a running sum and
 
 * if running sum is less than zero then reset the currentSum = 0
@@ -64,7 +66,7 @@ Let's first write the program to find all possible subarrays for a given array.
 	```
 
 #### **ID Solution Approach-1**
-  We can simply write the solution with any of the above approach e.g lets take the second approach
+  We can simply write the solution with any of the above approach e.g lets take the second approach.
   
   ```
   public int subarraySum(int[] nums, int k) {
