@@ -1,3 +1,5 @@
+<p align="center"><h2>Blind 75 questions</h2></p>
+
 ## Array
 
 1. Two Sum - https://leetcode.com/problems/two-sum/
