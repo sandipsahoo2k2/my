@@ -1,5 +1,9 @@
 <p align="center"><h2>Blind 75 questions</h2></p>
 
+[Blind 75 Videos](https://www.youtube.com/playlist?list=PLwhnRNDpIqyEy9-65Mm2hsi0-9GwhPSv1)
+
+[Neetcode Videos](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
+
 ## Array
 
 1. Two Sum - https://leetcode.com/problems/two-sum/
