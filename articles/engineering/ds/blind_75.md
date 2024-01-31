@@ -1,7 +1,7 @@
 <p align="center"><h2>Blind 75 questions</h2></p>
 
 I have listed the blind 76 questions here with leetcode and youtube links for reference.
-I have seen this in multiple platform people emphasizes too much on dynamic programming, where as my personal openion is to skip it until you get comfortable with Tree, Recursion and Grapth problems. Then if and when time permits do the Dynamic Programming questions from this list.
+I have seen this in multiple platform people emphasizes too much on dynamic programming, where as my personal openion is to skip it until you get comfortable with Tree, Recursion and Graph problems. Then if and when time permits do the Dynamic Programming questions from this list.
 
 [Blind 75 Videos](https://www.youtube.com/playlist?list=PLwhnRNDpIqyEy9-65Mm2hsi0-9GwhPSv1)
 
