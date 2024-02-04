@@ -1,6 +1,6 @@
 ## How to approach a system design interview question
 
-![sys_design_cheet_sheet](https://github.com/sandipsahoo2k2/my/assets/5547869/6ce3f5c6-fa5f-4a42-8e78-0ea9b35e2865)
+<img width="586" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/2ac9511b-204a-45a9-a0c1-f432e98c904a">
 
 
 The system design interview is an **open-ended conversation**.  You are expected to lead it.
@@ -59,5 +59,5 @@ You might be asked to do some estimates by hand.  Refer to the [Appendix](#appen
 * [Powers of two table](#powers-of-two-table)
 * [Latency numbers every programmer should know](#latency-numbers-every-programmer-should-know)
 
-![sys_design](https://github.com/sandipsahoo2k2/my/assets/5547869/d7f7a004-bfec-4101-ba18-2b63cffd5014)
+<img width="727" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/6798567e-a78e-4c9c-9d0f-7aa01c25bff9">
 
