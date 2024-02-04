@@ -1,5 +1,8 @@
 ## How to approach a system design interview question
 
+![sys_design_cheet_sheet](https://github.com/sandipsahoo2k2/my/assets/5547869/6ce3f5c6-fa5f-4a42-8e78-0ea9b35e2865)
+
+
 The system design interview is an **open-ended conversation**.  You are expected to lead it.
 
 You can use the following steps to guide the discussion.
@@ -55,3 +58,6 @@ You might be asked to do some estimates by hand.  Refer to the [Appendix](#appen
 * [Use back of the envelope calculations](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
 * [Powers of two table](#powers-of-two-table)
 * [Latency numbers every programmer should know](#latency-numbers-every-programmer-should-know)
+
+![sys_design](https://github.com/sandipsahoo2k2/my/assets/5547869/d7f7a004-bfec-4101-ba18-2b63cffd5014)
+
