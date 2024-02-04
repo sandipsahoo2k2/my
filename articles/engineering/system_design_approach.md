@@ -2,7 +2,7 @@
 
 The system design interview is an **open-ended conversation**.  You are expected to lead it.
 
-You can use the following steps to guide the discussion.  To help solidify this process, work through the [System design interview questions with solutions](#system-design-interview-questions-with-solutions) section using the following steps.
+You can use the following steps to guide the discussion.
 
 ### Step 1: Outline use cases, constraints, and assumptions
 
@@ -29,7 +29,7 @@ Outline a high level design with all important components.
 Dive into details for each core component.  For example, if you were asked to [design a url shortening service](solutions/system_design/pastebin/README.md), discuss:
 
 * Generating and storing a hash of the full url
-    * [MD5](solutions/system_design/pastebin/README.md) and [Base62](solutions/system_design/pastebin/README.md)
+    * Crypto lib with MD5 or Base62
     * Hash collisions
     * SQL or NoSQL
     * Database schema
