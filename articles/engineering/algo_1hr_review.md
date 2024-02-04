@@ -1192,22 +1192,7 @@ function cleanRoom(robot: Robot) {
 
 Kadane's algorithm is used to find the maximum sum of a contiguous subarray within a one-dimensional array of numbers.
 
-```javascript
-function maxSubArraySum(arr: number[]): number {
-    if (arr.length === 0) {
-        return 0;
-    }
-
-    let maxCurrent = arr[0];
-    let maxGlobal = arr[0];
-
-    for (let i = 1; i < arr.length; i++) {
-        maxCurrent = Math.max(arr[i], maxCurrent + arr[i]);
-        maxGlobal = Math.max(maxGlobal, maxCurrent);
-    }
-
-    return maxGlobal;
-}
+[Exotic way](https://interviewdose.com/articles/engineering/ds/max_subarray_sum)
 
 // Example usage:
 const numbers = [-2, 1, -3, 4, -1, 2, 1, -5, 4];
