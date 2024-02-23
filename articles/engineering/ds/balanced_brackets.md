@@ -36,6 +36,8 @@ We can use a Stack data structures to solve such problems.
 3. After the loop check if stack is not empty, then we are left with some opening brackets, so not balanced.
 4. Finally If stack is empty, The string has balanced brackets.
 
+[Watch this for deeper understanding on this solution approach](https://youtu.be/VWGk_Mo_gRU?si=_CyZnsBhWjCTkG31)
+
 #### InterviewDose approach :
 Before the solution, Remember few simple techniques for solving such problems.
 
@@ -74,6 +76,8 @@ boolean isBalanced(String s) {
 }
 ```
 
-Practice This approach with [Easy Leetcode 704](https://leetcode.com/problems/binary-search/)
+Watch this podcast for all balanced brackets problems(6) https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z 
+
+This approach with [Easy Leetcode 704](https://leetcode.com/problems/binary-search/)
 
 Further evidence [Video 2](https://youtu.be/flc19LGlCDE)
