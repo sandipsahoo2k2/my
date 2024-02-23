@@ -37,6 +37,13 @@ We can use a Stack data structures to solve such problems.
 4. Finally If stack is empty, The string has balanced brackets.
 
 #### InterviewDose approach :
+Before the solution, Remember few simple techniques for solving such problems.
+
+* If only One type of balanced brackets e.g '(' ')' used, then use a stackCounter instead of a Stack.
+* Sometimes They can ask you to balance the given string -> then mark invalid characters with * and solve.
+* Sometimes they want you to count max or min Use a Stack for keeping the index and initisialised with -1 index.
+
+#### Solution
 ```
 boolean isBalanced(String s) {
 	if(s == null || s.length() == 0) {
