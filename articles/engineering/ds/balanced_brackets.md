@@ -42,7 +42,7 @@ We can use a Stack data structures to solve such problems.
 Practice this Simple question from [leetcode](https://leetcode.com/problems/valid-parentheses/)
 
 #### InterviewDose approach :
-Before the solution, Remember few simple techniques for solving such problems.
+Before the solution, Remember few _**simple techniques**_ for solving such problems.
 
 * If only One type of balanced brackets e.g '(' ')' used, then use a stackCounter instead of a Stack.
 * Sometimes They can ask you to balance the given string -> then mark invalid characters with * and solve.
