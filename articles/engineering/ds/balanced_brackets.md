@@ -85,6 +85,6 @@ boolean isBalanced(String s) {
 
 * [Practice Leetcode 20](https://leetcode.com/problems/longest-valid-parentheses/)
 
-* [Watch the Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5) [Leetcode link](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -- 
+* [Leetcode link](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -- [Watch the Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5) 
 
-* [Watch the Solution](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb) [Leetcode link](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) -- 
+* [Leetcode link](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) -- [Watch the Solution](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb)
