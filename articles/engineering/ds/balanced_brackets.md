@@ -6,11 +6,11 @@ A string containing bracket characters is said to be balanced if:
 2. Brackets enclosed within balanced brackets are also balanced
 3. It does not contain any non-bracket characters
 
-<u>Example:</u>
+<u>Example:</u>   [Tune this Poddcast](https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z)
 
 * (){}[] - "This contains a [balanced bracket]"
 * [[] {}} - “This [[does not] contain a balanced bracket”
-* ({}) - “This ( is an {interesting}) example with multiple brackets”
+* ({}) - “This ( is an {interesting}) example with multiple brackets”  
 
 <u>**Solution Approach :**</u>
 
@@ -79,12 +79,12 @@ boolean isBalanced(String s) {
 }
 ```
 
-Watch this podcast for all balanced brackets problems(6) https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z 
+**Few More Practice questions from leetcode and ID solutions :**
 
-**Few More Practice questions from leetcode and solutions :**
+* Watch This podcast : https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z
 
-[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+* [Practice Leetcode 20](https://leetcode.com/problems/longest-valid-parentheses/)
 
-[minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -- [Watch the Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5)
+* [Watch the Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5) [Leetcode link](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -- 
 
-[minimum-insertions-to-balance-a-parentheses-string](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) -- [Watch the Solution](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb)
+* [Watch the Solution](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb) [Leetcode link](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) -- 
