@@ -58,8 +58,7 @@ boolean isBalanced(String s) {
   	    		if(st.isEmpty()) {
   		    		return false ;
   	    		}
-  	  		char p = st.pop() ;
-  	  		if( c != p) {
+  	  		if( c != st.pop()) {
         			return false ;
 			}
     		}
