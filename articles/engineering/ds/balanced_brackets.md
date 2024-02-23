@@ -8,9 +8,9 @@ A string containing bracket characters is said to be balanced if:
 
 <u>Example:</u>
 
-* "This contains a [balanced bracket]"
-* “This [[does not] contain a balanced bracket”
-* “This ( is an {interesting}) example with multiple brackets”
+* [](){} - "This contains a [balanced bracket]"
+* [[] {}} - “This [[does not] contain a balanced bracket”
+* ({}) - “This ( is an {interesting}) example with multiple brackets”
 
 <u>**Solution Approach :**</u>
 
