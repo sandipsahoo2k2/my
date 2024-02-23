@@ -80,6 +80,7 @@ boolean isBalanced(String s) {
 Watch this podcast for all balanced brackets problems(6) https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z 
 
 **Few More Practice questions from leetcode and solutions :**
+
 [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
 [minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -- [Watch the Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5)
