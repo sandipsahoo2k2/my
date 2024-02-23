@@ -37,6 +37,7 @@ We can use a Stack data structures to solve such problems.
 4. Finally If stack is empty, The string has balanced brackets.
 
 [Watch this for deeper understanding on this solution approach](https://youtu.be/VWGk_Mo_gRU?si=_CyZnsBhWjCTkG31)
+Practice this Simple question from [leetcode](https://leetcode.com/problems/valid-parentheses/)
 
 #### InterviewDose approach :
 Before the solution, Remember few simple techniques for solving such problems.
@@ -78,6 +79,9 @@ boolean isBalanced(String s) {
 
 Watch this podcast for all balanced brackets problems(6) https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z 
 
-This approach with [Easy Leetcode 704](https://leetcode.com/problems/binary-search/)
+**Few More Practice questions from leetcode and solutions :**
+[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
-Further evidence [Video 2](https://youtu.be/flc19LGlCDE)
+[minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -- [Watch the Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5)
+
+[minimum-insertions-to-balance-a-parentheses-string](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) -- [Watch the Solution](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb)
