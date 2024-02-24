@@ -8,7 +8,8 @@ the left and right pointers each point to a binary tree.
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
 and all the elements in its right subtree are greater than the node (>).
 
-* The last tree out of major kinds of trees is a **Heap**. _A heap is a tree in which each node's children have values
-less than or equal to node's value_. Consequently, the root node always has the largest value in the tree, 
-which means that it's possible to find the maximum value in constant time: Simply return the root value. 
-So, if extraction the max / min value needs to be fast, we should use a heap.
+* A **Max Heap** is a tree in which each node's children have values less than or equal to node's value.
+Consequently, the root node always has the largest value in the tree, which means that it's possible to find
+the maximum value in constant time: Simply return the root value.
+  Like wise there is **Min Heap** whose node's children values greater than its node's value.
+So, if extraction the min value needs to be fast, we should use a min heap.
