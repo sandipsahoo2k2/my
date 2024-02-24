@@ -1,5 +1,8 @@
 ## Trees Examples and Codes
 
+![image](https://github.com/sandipsahoo2k2/my/assets/5547869/82d56a1d-c180-4b6a-998f-7330ba0b6968)
+
+
 * A **Binary Tree** is made of nodes, where each node contains a left pointer, a right pointer, and a data element.
 It is either empty (represented by a null pointer), or is made of a single node of which
 the left and right pointers each point to a binary tree.
