@@ -39,16 +39,18 @@ We can use a Stack data structures to solve such problems.
 4. Finally If stack is empty, The string has balanced brackets.
 
 [Watch this for deeper understanding on this solution approach](https://youtu.be/VWGk_Mo_gRU?si=_CyZnsBhWjCTkG31)
-Practice this Simple question from [leetcode](https://leetcode.com/problems/valid-parentheses/)
 
-#### InterviewDose approach :
+Practice this [leetcode Easy Question](https://leetcode.com/problems/valid-parentheses/)
+
+#### Some Techniques to apply :
 Before the solution, Remember few _**simple techniques**_ for solving such problems.
 
+* Be mindful about stack.empty() -> not balanced case
 * If only One type of balanced brackets e.g '(' ')' used, then use a stackCounter instead of a Stack.
 * Sometimes They can ask you to balance the given string -> then mark invalid characters with * and solve.
 * Sometimes they want you to count max or min Use a Stack for keeping the index and initisialised with -1 index.
 
-#### Solution
+#### InterviewDose Solution
 ```
 boolean isBalanced(String s) {
 	if(s == null || s.length() == 0) {
@@ -83,7 +85,7 @@ boolean isBalanced(String s) {
 
 * Watch This podcast : https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z
 
-* [Practice Leetcode 20](https://leetcode.com/problems/longest-valid-parentheses/)
+* [Practice Leetcode 32](https://leetcode.com/problems/longest-valid-parentheses/)
 
 * [Practice this Medium Leetcode Problem](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -- [Watch the Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5) 
 
