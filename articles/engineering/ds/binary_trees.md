@@ -51,13 +51,13 @@ the left and right pointers each point to a binary tree.
   ```
   int maxDepth(Tree node)
   {
-	    if(node == NULL))
-        return 0;
-
-	  int leftDepth = maxDepth(node->left);
-	  int rightDepth = maxDepth(node->right);
-
-    return 1 + Math.max(leftDepth, rightDepth) ;
+	if(node == NULL))
+		return 0;
+	
+	int leftDepth = maxDepth(node->left);
+	int rightDepth = maxDepth(node->right);
+	
+	return 1 + Math.max(leftDepth, rightDepth) ;
   }
   ```
 
