@@ -37,7 +37,7 @@ and all the elements in its right subtree are greater than the node (>).
 
   - One interesting problem students struggle to prove a binary tree is a BST is here. You must [practice this simple question from leetcode](https://leetcode.com/problems/validate-binary-search-tree/description/)
     
-    When you do an **inOrder** traversal on a BST it returns members in **increasing order**. After that we can traverse the list and if        the next element is greater than the previous element, we can say that the tree is BST. This is one simpler way to validate        but we can do better than that in one pass by following the below approach. 
+    When you do an **inOrder** traversal on a BST it returns members in **increasing order**. After that we can traverse the list      and if  each next element is greater than the previous element, we can say that the tree is BST. This is one simpler way to        validate but we can do better than that in one pass by following the below approach. 
     
     ```
     public boolean isValidBST(TreeNode root) {
