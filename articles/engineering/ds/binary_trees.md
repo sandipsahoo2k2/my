@@ -46,7 +46,8 @@ and all the elements in its right subtree are greater than the node (>).
       3. A node that has both left and right child
          We replace the node with **it's predecessor**.
         
-* A **Max Heap** is a tree in which each node's children have values less than or equal to node's value.
+#### Max Heap
+A **Max heap** is a tree in which each node's children have values less than or equal to node's value.
 Consequently, the root node always has the largest value in the tree, which means that it's possible to find
 the maximum value in constant time: Simply return the root value.
 
