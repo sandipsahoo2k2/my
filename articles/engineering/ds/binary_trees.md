@@ -29,7 +29,7 @@ the left and right pointers each point to a binary tree.
       
       &#128073; Remember to use always **_two loops_** while using BFS.
       - A while loop checking on the queue.isEmpty()
-      - another for loop on the size of the queue on each iteration
+      - another for loop on the size of the queue on each iteration which tells the size of that level
 
 * A **Binary Search Tree (BST)** or ordered binary tree is a type of binary tree where the _nodes are arranged
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
