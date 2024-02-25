@@ -11,7 +11,7 @@ the left and right pointers each point to a binary tree.
      
     * Pre-order - Recursively Search _root node before_ left and right subtrees - F B A D C E G I H
 
-      _This recursive technique is used to solve most of the tree problems_
+      _This recursive technique is used to solve most of the tree problems_ [Watch this example](https://youtu.be/0EjPBPRLyjE)
       ```
       void preOrder(Node node) {
         if (node != null){
