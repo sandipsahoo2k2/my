@@ -12,10 +12,10 @@ the left and right pointers each point to a binary tree.
     * Pre-order - Recursively Search _root node before_ left and right subtrees 
     * In-order - Recursively Search left then _root node in middle_ and then right subtrees
       ```
-      inOrder(Node node) {
-        if (node != NULL)
+      void inOrder(Node node) {
+        if (node != null)
            inOrder(node.left);
-           print x.key;
+           print(node.key);
            inOrder(node.right);
       }
       ```
