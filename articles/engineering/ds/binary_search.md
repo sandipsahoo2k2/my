@@ -65,3 +65,6 @@ Watch in detailed about this approach in this [Video 1](https://www.youtube.com/
 
 Further evidence [Video 2](https://youtu.be/flc19LGlCDE)
 Practice This approach with [Medium Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+Watch this how we use exotic BS in [this hard problem](https://youtu.be/5PoVGnbju0Y) 
+Practice this [Hard problem from leetcode](https://leetcode.com/problems/create-sorted-array-through-instructions/)
