@@ -1,4 +1,4 @@
-## Trees Examples and Codes
+## Binary Trees Examples and Techniques
 
 ![image](https://github.com/sandipsahoo2k2/my/assets/5547869/82d56a1d-c180-4b6a-998f-7330ba0b6968)
 
