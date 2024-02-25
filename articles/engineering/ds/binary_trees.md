@@ -25,7 +25,7 @@ the left and right pointers each point to a binary tree.
      
     * Use a Queue to search the nodes instead of stack.
       
-      It is also called [level order traversal](https://youtu.be/9hGwYdjcfRU)
+      It is also called [level order traversal](https://youtu.be/0C8nLoIQvfA)
       
       &#128073; Remember to use always **_two loops_** while using BFS.
       - A while loop checking on the queue.isEmpty()
