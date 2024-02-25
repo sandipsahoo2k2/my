@@ -84,19 +84,19 @@ and all the elements in its right subtree are greater than the node (>).
 
   - **in Order Successor**
   
-  ```
-  inOrderSuccessor(TreeNode node)
-    if (node.right != null)
-        return minTree(node);
-  
-    TreeNode parent = node.parent ;
-    //go up the tree from node until we see a node that is the left child of it's parent
-    while (node != null && node == parent.right) {
-        node = parent;
-        parent = node.parent;
-    }
-    return parent;
-  ```
+    ```
+    inOrderSuccessor(TreeNode node)
+      if (node.right != null)
+          return minTree(node);
+    
+      TreeNode parent = node.parent ;
+      //go up the tree from node until we see a node that is the left child of it's parent
+      while (node != null && node == parent.right) {
+          node = parent;
+          parent = node.parent;
+      }
+      return parent;
+    ```
         
 #### Max Heap
 A **Max heap** is a tree in which each node's children have values less than or equal to node's value.
