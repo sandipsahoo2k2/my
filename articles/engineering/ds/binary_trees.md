@@ -44,15 +44,33 @@ the left and right pointers each point to a binary tree.
       - A while loop checking on the queue.isEmpty()
       - another for loop on the size of the queue on each iteration which tells the size of that level
 
-  #### Some important operations for interviews
+  #### Few important operations
 
   **maxDepth and minDepth**
+
+  ```
+  int maxDepth(Tree node)
+  {
+	    if(node == NULL))
+        return 0;
+
+	  int leftDepth = maxDepth(node->left);
+	  int rightDepth = maxDepth(node->right);
+
+    return 1 + Math.max(leftDepth, rightDepth) ;
+  }
+  ```
+
+  [Practice this minDepth problem from leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+  [Watch this solution for minDepth](https://youtu.be/JrrPcXix8zo)
+
 
 * A **Binary Search Tree (BST)** or ordered binary tree is a type of binary tree where the _nodes are arranged
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
 and all the elements in its right subtree are greater than the node (>).
 
-  - One interesting problem students struggle to prove a binary tree is a BST is here. You must [practice this simple question from leetcode](https://leetcode.com/problems/validate-binary-search-tree/description/)
+  - One interesting problem is [here] (https://leetcode.com/problems/validate-binary-search-tree/description/) where students struggle to prove a binary tree is a BST.
     
     When you do an **inOrder** traversal on a BST it returns members in **increasing order**. After that we can traverse the list      and if  each next element is greater than the previous element, we can say that the tree is BST. This is one simpler way to        validate but we can do better than that in one pass by following the below approach. 
     
@@ -83,6 +101,7 @@ and all the elements in its right subtree are greater than the node (>).
 
 
   - **in Order Successor**
+
   
     ```
     inOrderSuccessor(TreeNode node)
