@@ -74,7 +74,7 @@ the left and right pointers each point to a binary tree.
 
   - **Sum Of Distances**
  
-    [Practice this Mind bending from leetcode](https://leetcode.com/problems/sum-of-distances-in-tree/)
+    [Practice this Hard problem from leetcode](https://leetcode.com/problems/sum-of-distances-in-tree/)
 
     [Watch the step by step approach to solve this problem](https://youtu.be/_KAjEdomX7M)
 
