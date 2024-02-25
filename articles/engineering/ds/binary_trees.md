@@ -15,19 +15,19 @@ the left and right pointers each point to a binary tree.
       void inOrder(Node node) {
         if (node != null)
            inOrder(node.left);
-           print(node.key);
+           print(node.key); //Check here
            inOrder(node.right);
       }
       ```
     * Post-order - Recursively Search _root node after_ left and right subtrees
       
-  2. Breadth Frist Search  ( Queue ) **BFS**
+  2. &#128073; Breadth Frist Search  ( Queue ) **BFS**
      
     * Use a Queue to search the nodes instead of stack.
       
       It is also called [level order traversal](https://youtu.be/9hGwYdjcfRU)
       
-      Remember to use always **_two loops_** while using BFS.
+      &#128073; Remember to use always **_two loops_** while using BFS.
       A while loop checking on the queue.isEmpty()
       and another for loop on the size of the queue on each iteration
 
