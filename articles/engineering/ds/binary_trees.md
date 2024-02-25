@@ -45,7 +45,10 @@ the left and right pointers each point to a binary tree.
       - another for loop on the size of the queue on each iteration which tells the size of that level
 
   3. Vertical Order traversal ( Using map )
-     This is an interesting problem frequently asked in coding interviews. [Watch this video](https://youtu.be/x6oAGPNqGzY) and learn how to solve such problems.
+     This is an interesting problem frequently asked in coding interviews. [Watch this video](https://youtu.be/x6oAGPNqGzY) and learn howto solve such problems.
+     
+  4. How to check if a leaf is left child ?
+     Check if node.left.left is null and node.left.right == null then its a left child.
 
   #### Few important operations
 
