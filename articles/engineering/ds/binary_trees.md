@@ -42,19 +42,18 @@ and all the elements in its right subtree are greater than the node (>).
     This is a little bit tricky. We can categorize it in three groups depending it's operations:
     
       1. A leaf node - this is the easiest case and we just delete it.
-    
-      2. A node that has both left and right child
-    
-        We replace the node with it's predecessor.
-    
-      3. A node that has only one child. The child replaces the parent.
-
+      2. A node that has only one child. The child replaces the parent.
+      3. A node that has both left and right child
+         We replace the node with **it's predecessor**.
+        
 * A **Max Heap** is a tree in which each node's children have values less than or equal to node's value.
 Consequently, the root node always has the largest value in the tree, which means that it's possible to find
 the maximum value in constant time: Simply return the root value.
-  Like wise there is **Min Heap** whose node's children values greater than its node's value.
-So, if extraction the min value needs to be fast, we should use a min heap.
+
+  Like wise there is **Min Heap** whose node's children values greater than its node's value. So, if extraction the min value needs to be fast, we should use a min heap.
+  
   Questions solved using heaps are very very easy and there are very few kinds too. Hence listing everything that you need to know for your next interview in few lines below.
+  
   * Time complexity for Building a Binary Heap is O(n) - ( Why ? ) 
   * **Java** has a class called `**PriorityQueue**` which by _default_ creates a **Min Heap**
   * To create a **Max Heap** you can pass the reverse comparator in constructor
