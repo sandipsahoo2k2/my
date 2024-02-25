@@ -70,7 +70,7 @@ the left and right pointers each point to a binary tree.
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
 and all the elements in its right subtree are greater than the node (>).
 
-  - One interesting problem is [here] (https://leetcode.com/problems/validate-binary-search-tree/description/) where students struggle to prove a binary tree is a BST.
+  - One interesting problem is [here] (https://leetcode.com/problems/validate-binary-search-tree/) where students struggle to prove a binary tree is a BST.
     
     When you do an **inOrder** traversal on a BST it returns members in **increasing order**. After that we can traverse the list      and if  each next element is greater than the previous element, we can say that the tree is BST. This is one simpler way to        validate but we can do better than that in one pass by following the below approach. 
     
