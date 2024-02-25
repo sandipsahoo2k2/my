@@ -10,14 +10,23 @@ the left and right pointers each point to a binary tree.
   1. **DFS** - Depth First Search ( recursion / Stack )
      
     * Pre-order - Recursively Search _root node before_ left and right subtrees - F B A D C E G I H
+      _This recursive technique is used to solve most of the tree problems_
+      ```
+      void preOrder(Node node) {
+        if (node != null){
+          print(node.key); // Check the root first
+          preOrder(node.left);
+          preOrder(node.right);
+        }
+      ```
     * In-order - Recursively Search left then _root node in middle_ and then right subtrees
       ```
       void inOrder(Node node) {
-        if (node != null)
-           inOrder(node.left);
-           print(node.key); //Check here
-           inOrder(node.right);
-      }
+        if (node != null){
+          inOrder(node.left);
+          print(node.key); //Check root in the middle
+          inOrder(node.right);
+        }
       ```
       **A B C D E F G H I**
 
