@@ -26,11 +26,11 @@ So, if extraction the min value needs to be fast, we should use a min heap.
     ```
     * Most of the questions involve a fixed size heap.
       So use constructor with size for such problems e.g `new PriorityQueue(int size)`
-    * While solving a problem using heap you will mostly use only three methods
+    * While solving a problem using heap you will mostly use _only three methods_
 
-      add / offer ( < element> ) -> Inserts the specified element -> log(n) time complexity
+      1. add / offer ( < element> ) -> Inserts the specified element -> log(n) time complexity
 
-      poll() -> Retrieves and removes the head of this queue -> O(1) time complexity
+      2. poll() -> Retrieves and removes the head of this queue -> O(1) time complexity
 
-      peek() -> Retrieves, but does not remove, the head of this queue -> O(1) time complexity
+      3. peek() -> Retrieves, but does not remove, the head of this queue -> O(1) time complexity
       
