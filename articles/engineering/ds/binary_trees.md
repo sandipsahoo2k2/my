@@ -7,9 +7,9 @@ It is either empty (represented by a null pointer), or is made of a single node 
 the left and right pointers each point to a binary tree.
   #### Tree traversal techniques
   
-  1. Depth First Search ( recursion / Stack ) **DFS**
+  1. **DFS** - Depth First Search ( recursion / Stack )
      
-    * Pre-order - Recursively Search _root node before_ left and right subtrees 
+    * Pre-order - Recursively Search _root node before_ left and right subtrees - F B A D C E G I H
     * In-order - Recursively Search left then _root node in middle_ and then right subtrees
       ```
       void inOrder(Node node) {
@@ -19,9 +19,12 @@ the left and right pointers each point to a binary tree.
            inOrder(node.right);
       }
       ```
-    * Post-order - Recursively Search _root node after_ left and right subtrees
+      **A B C D E F G H I**
+
+      &#128073; When you reverse the order for the inOrder [right node, root, left node] it is reverseOrder traversal
+    * Post-order - Recursively Search _root node after_ left and right subtrees - A C E D B H I G F
       
-  2. &#128073; Breadth Frist Search  ( Queue ) **BFS**
+  2. **BFS** - Breadth Frist Search  ( Queue )
      
     * Use a Queue to search the nodes instead of stack.
       
