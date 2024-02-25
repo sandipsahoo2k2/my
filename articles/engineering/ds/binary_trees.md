@@ -5,6 +5,31 @@
 * A **Binary Tree** is made of nodes, where each node contains a left pointer, a right pointer, and a data element.
 It is either empty (represented by a null pointer), or is made of a single node of which
 the left and right pointers each point to a binary tree.
+  #### Tree traversal techniques
+  
+  1. Depth First Search ( recursion / Stack )
+     
+    * Pre-order - Recursively Search _root node before_ left and right subtrees 
+    * In-order - Recursively Search left then _root node in middle_ and then right subtrees
+      ```
+      inOrder(Node node) {
+        if (node != NULL)
+           inOrder(node.left);
+           print x.key;
+           inOrder(node.right);
+      }
+      ```
+    * Post-order - Recursively Search _root node after_ left and right subtrees
+      
+  2. Breadth Frist Search  ( Queue )
+     
+    * Use a Queue to search the nodes instead of stack.
+      
+      It is also called [level order traversal](https://youtu.be/9hGwYdjcfRU)
+      
+      Remember to use always **_two loops_** while using BFS.
+      A while loop checking on the queue.isEmpty()
+      and another for loop on the size of the queue on each iteration
 
 * A **Binary Search Tree (BST)** or ordered binary tree is a type of binary tree where the _nodes are arranged
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
