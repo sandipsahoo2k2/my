@@ -49,32 +49,34 @@ the left and right pointers each point to a binary tree.
 
   #### Few important questions
 
-  * How to check if a leaf is left child ?
-     Check if node.left.left is null and node.left.right == null then its a left child.
+  - How to check if a leaf is **Left child** ?
 
-  **maxDepth and minDepth**
+    Check if node.left.left is null and node.left.right == null then it's a left child.
 
-  ```
-  int maxDepth(Tree node)
-  {
-	if(node == NULL))
-		return 0;
-	
-	int leftDepth = maxDepth(node.left);
-	int rightDepth = maxDepth(node.right);
-	
-	return 1 + Math.max(leftDepth, rightDepth) ;
-  }
-  ```
+  - **maxDepth and minDepth**
 
-  [Practice this minDepth problem from leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+	  ```
+	  int maxDepth(Tree node)
+	  {
+		if(node == NULL))
+			return 0;
+		
+		int leftDepth = maxDepth(node.left);
+		int rightDepth = maxDepth(node.right);
+		
+		return 1 + Math.max(leftDepth, rightDepth) ;
+	  }
+	  ```
 
-  [Watch this solution for minDepth](https://youtu.be/JrrPcXix8zo)
+  	[Practice this minDepth problem from leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
-  ** Sum Of Distances **
-  [Practice this Mind bending from leetcode](https://leetcode.com/problems/sum-of-distances-in-tree/)
+  	[Watch this solution for minDepth](https://youtu.be/JrrPcXix8zo)
+
+  - **Sum Of Distances**
+    
+  	[Practice this Mind bending from leetcode](https://leetcode.com/problems/sum-of-distances-in-tree/)
   
-  [Watch the step by step approach to solve this problem](https://youtu.be/_KAjEdomX7M)
+  	[Watch the step by step approach to solve this problem](https://youtu.be/_KAjEdomX7M)
 
 * A **Binary Search Tree (BST)** or ordered binary tree is a type of binary tree where the _nodes are arranged
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
