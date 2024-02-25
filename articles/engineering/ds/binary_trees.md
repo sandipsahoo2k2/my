@@ -50,7 +50,7 @@ the left and right pointers each point to a binary tree.
   #### Few important questions
 
   - How to check if a leaf is **Left child** ?
-
+ 
     Check if node.left.left is null and node.left.right == null then it's a left child.
 
   - **maxDepth and minDepth**
@@ -73,10 +73,10 @@ the left and right pointers each point to a binary tree.
   	[Watch this solution for minDepth](https://youtu.be/JrrPcXix8zo)
 
   - **Sum Of Distances**
-    
-  	[Practice this Mind bending from leetcode](https://leetcode.com/problems/sum-of-distances-in-tree/)
-  
-  	[Watch the step by step approach to solve this problem](https://youtu.be/_KAjEdomX7M)
+ 
+    [Practice this Mind bending from leetcode](https://leetcode.com/problems/sum-of-distances-in-tree/)
+
+    [Watch the step by step approach to solve this problem](https://youtu.be/_KAjEdomX7M)
 
 * A **Binary Search Tree (BST)** or ordered binary tree is a type of binary tree where the _nodes are arranged
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
