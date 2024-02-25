@@ -44,6 +44,10 @@ the left and right pointers each point to a binary tree.
       - A while loop checking on the queue.isEmpty()
       - another for loop on the size of the queue on each iteration which tells the size of that level
 
+  #### Some important operations for interviews
+
+  **maxDepth and minDepth**
+
 * A **Binary Search Tree (BST)** or ordered binary tree is a type of binary tree where the _nodes are arranged
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
 and all the elements in its right subtree are greater than the node (>).
@@ -66,6 +70,7 @@ and all the elements in its right subtree are greater than the node (>).
         return helper(root.left, lBound, root.val) && helper(root.right, root.val, hBound) ;
     }
     ```
+
     
   - **Deleting a key** from a binary search ( deleteKey())
     
@@ -75,6 +80,23 @@ and all the elements in its right subtree are greater than the node (>).
       2. A node that has only one child -> The child replaces the parent.
       3. A node that has both left and right child ->
          We replace the node with **it's predecessor**.
+
+
+  - **in Order Successor**
+  
+  ```
+  inOrderSuccessor(TreeNode node)
+    if (node.right != null)
+        return minTree(node);
+  
+    TreeNode parent = node.parent ;
+    //go up the tree from node until we see a node that is the left child of it's parent
+    while (node != null && node == parent.right) {
+        node = parent;
+        parent = node.parent;
+    }
+    return parent;
+  ```
         
 #### Max Heap
 A **Max heap** is a tree in which each node's children have values less than or equal to node's value.
