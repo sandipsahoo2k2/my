@@ -44,6 +44,9 @@ the left and right pointers each point to a binary tree.
       - A while loop checking on the queue.isEmpty()
       - another for loop on the size of the queue on each iteration which tells the size of that level
 
+  3. Vertical Order traversal ( Using map )
+     This is an interesting problem frequently asked in coding interviews. [Watch this video](https://youtu.be/x6oAGPNqGzY) and learn how to solve such problems.
+
   #### Few important operations
 
   **maxDepth and minDepth**
