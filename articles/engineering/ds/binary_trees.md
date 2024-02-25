@@ -130,10 +130,10 @@ and all the elements in its right subtree are greater than the node (>).
 	
 		TreeNode left = lowestCommonAncestor(node->left,p,q);
 		TreeNode right = lowestCommonAncestor(node->right, p,q);
-		if(left && right) 
+		if(left != null && right != null) 
 			return node;
 		else 
-			return (left) ? left : right;	
+			return (left != null) ? left : right;
 	}
     ```
         
