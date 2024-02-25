@@ -100,7 +100,7 @@ and all the elements in its right subtree are greater than the node (>).
          We replace the node with **it's predecessor**.
 
 
-  - **in Order Successor**
+  - **In-Order Successor**
 
   
     ```
@@ -115,6 +115,26 @@ and all the elements in its right subtree are greater than the node (>).
           parent = node.parent;
       }
       return parent;
+    ```
+
+  - ** Lowest common ancestor **
+    
+    ```
+	TreeNode lowestCommonAncestor(TreeNode node, TreeNode p, TreeNode q) 
+	{
+		if(node == null)
+    			return null;
+    
+		if(node->left == p || node->left == q || node->right == p || node->right == q)
+    			return node;
+	
+		TreeNode left = lowestCommonAncestor(node->left,p,q);
+		TreeNode right = lowestCommonAncestor(node->right, p,q);
+		if(left && right) 
+			return node;
+		else 
+			return (left) ? left : right;	
+	}
     ```
         
 #### Max Heap
