@@ -35,6 +35,20 @@ the left and right pointers each point to a binary tree.
 in order_: for each node, all elements in its left subtree are less-or-equal to the node (<=), 
 and all the elements in its right subtree are greater than the node (>).
 
+  - One interesting problem students struggle to prove a binary tree is a BST is here. You must [practice this simple question from leetcode](https://leetcode.com/problems/validate-binary-search-tree/description/)
+    
+  - Deleting a key from a binary search ( deleteKey())
+    
+    This is a little bit tricky. We can categorize it in three groups depending it's operations:
+    
+      1. A leaf node - this is the easiest case and we just delete it.
+    
+      2. A node that has both left and right child
+    
+        We replace the node with it's predecessor.
+    
+      3. A node that has only one child. The child replaces the parent.
+
 * A **Max Heap** is a tree in which each node's children have values less than or equal to node's value.
 Consequently, the root node always has the largest value in the tree, which means that it's possible to find
 the maximum value in constant time: Simply return the root value.
