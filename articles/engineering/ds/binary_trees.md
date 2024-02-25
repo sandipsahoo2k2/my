@@ -129,7 +129,7 @@ and all the elements in its right subtree are greater than the node (>).
       return parent;
     ```
 
-  - ** Lowest common ancestor **
+  - **Lowest common ancestor**
     
     ```
 	TreeNode lowestCommonAncestor(TreeNode node, TreeNode p, TreeNode q) 
