@@ -42,8 +42,7 @@ delegation skills. I now understand the importance of
 empowering team members and have seen how it
 enhances both productivity and team morale."
 
-#### 5.Can you describe a challenging situation you faced at work
-and how you handled it?
+#### 5.Can you describe a challenging situation you faced at work and how you handled it?
 **Answer:** "Certainly. In my previous role, we faced a tight
 deadline to complete a project with a high degree of
 complexity. The team was under immense pressure, and
