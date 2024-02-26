@@ -1,3 +1,6 @@
+## Frequently asked HR interview Questions with Answers
+I have collected most of the frequently asked HR interview Questions and pen down the answers here for reference. Try to add these notes with some of your real life expereinced story in a STAR ready format.
+
 #### 1. Tell me about yourself.
   **Answer:** "Certainly, I'd be happy to. I hold a Bachelor's
   degree in Computer Science and have spent the last six
