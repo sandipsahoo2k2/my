@@ -1,4 +1,4 @@
-## Frequently asked HR interview Questions with Answers
+## 50+ Frequently asked HR interview Questions with Answers
 I have collected most of the frequently asked HR interview Questions and pen down the answers here for reference. Try to add these notes with some of your real life expereinced story in a STAR ready format.
 
 #### 1. Tell me about yourself.
