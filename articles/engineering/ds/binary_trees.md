@@ -72,6 +72,25 @@ the left and right pointers each point to a binary tree.
 
   	[Watch this solution for minDepth](https://youtu.be/JrrPcXix8zo)
 
+  - **Invert a Tree**
+    
+    We follow the same DFS approach and write a preOrder traversal code and swap the nodes where we print the root value.
+    
+    ```
+    public TreeNode invertTree(TreeNode root) {
+        if(root != null) {
+            
+            TreeNode temp = root.left ;
+            root.left = root.right ;
+            root.right = temp ;
+
+            invertTree(root.left) ;
+            invertTree(root.right) ;
+        }
+        return root ;
+    }
+    ```
+
   - **Sum Of Distances**
  
     [Practice this Hard problem from leetcode](https://leetcode.com/problems/sum-of-distances-in-tree/)
