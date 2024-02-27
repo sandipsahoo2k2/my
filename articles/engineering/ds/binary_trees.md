@@ -175,4 +175,6 @@ the maximum value in constant time: Simply return the root value.
       2. poll() -> Retrieves and removes the head of this queue -> O(1) time complexity
 
       3. peek() -> Retrieves, but does not remove, the head of this queue -> O(1) time complexity
+     
+Here is a practice problem from [leetcode medium](https://leetcode.com/problems/top-k-frequent-elements)
       
