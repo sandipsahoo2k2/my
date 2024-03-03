@@ -31,7 +31,11 @@
       <td><a href="https://youtube.com/embed/5PoVGnbju0Y" target="_blank">Create Sorted Array through Instructions</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">*Level order traversal</a></td>
+      <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">*Level order traversal</a>
+      <a href="/articles/engineering/ds/binary_search" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a>
         <a href="/articles/engineering/ds/binary_search" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
@@ -45,7 +49,11 @@
       <td><a href="https://youtube.com/embed/8KGSnEQ9s8Q" target="_blank">Decode ways</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/JrrPcXix8zo?start=11" target="_blank">Minimum depth of a binary tree</a></td>
+      <td><a href="https://youtube.com/embed/JrrPcXix8zo?start=11" target="_blank">Minimum depth of a binary tree</a>
+      <a href="/articles/engineering/ds/binary_search" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td><a href="https://youtube.com/embed/-K8MyVUBnQQ?start=210" target="_blank">Minimum depth iterative</a></td>
       <td><a href="https://youtube.com/embed/EIfDP5GH7Vs" target="_blank">Serialize & Deserialize binary tree</a></td>
     </tr>
