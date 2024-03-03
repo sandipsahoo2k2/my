@@ -32,7 +32,11 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">*Level order traversal</a></td>
-      <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
+      <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a>
+        <a href="/articles/engineering/ds/binary_search">
+          <i class="fa-regular fa-note-sticky"></i>
+        </a>
+      </td>
       <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a></td>
     </tr>
     <tr>
