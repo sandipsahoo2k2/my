@@ -197,3 +197,27 @@ the maximum value in constant time: Simply return the root value.
      
 Here is a practice problem from [leetcode medium](https://leetcode.com/problems/top-k-frequent-elements)
       
+### How to solve any binary tree problem ?
+In my openion, there could only be two types of structure to solve a binary tree problem.
+* In One case, we return boolean like [path sum](https://leetcode.com/problems/path-sum/)
+* Another we add or subtract find max or min like [max path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+For any DFS method it is important to come up with the base case e.g if null what will you return, if it’s leaf what will you return. _You must have one case each for when you will return true and a case when you will return false_. Then you call the method recursively for left and right subtree with a Or / And leike this.
+
+```
+public boolean hasPathSum(TreeNode root, int targetSum) {
+        if(root == null) {
+            return false ;
+        }
+
+        targetSum = targetSum - root.val ; // <-- subtract in each step
+
+        if (root.left == null && root.right == null) {
+            return targetSum == 0;
+        }
+
+        return hasPathSum(root.left, targetSum) || 
+        hasPathSum(root.right, targetSum) ;
+    }
+```
+  
