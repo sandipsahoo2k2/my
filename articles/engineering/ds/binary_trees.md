@@ -202,7 +202,7 @@ In my openion, there could only be two types of structure to solve a binary tree
 * In One case, we return boolean like [path sum](https://leetcode.com/problems/path-sum/)
 * Another we add or subtract find max or min like [max path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-For any DFS method it is important to come up with the base case e.g if null what will you return, if it’s leaf what will you return. _You must have one case each for when you will return true and a case when you will return false_. Then you call the method recursively for left and right subtree with a Or / And leike this.
+For any DFS method it is important to come up with the base case e.g if null what will you return, if it’s leaf what will you return. _You must have one case each for when you will return true and a case when you will return false_. Then you call the method recursively for left and right subtree with a Or / And like this.
 
 ```
 public boolean hasPathSum(TreeNode root, int targetSum) {
