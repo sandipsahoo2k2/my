@@ -17,7 +17,7 @@ I have seen this in multiple platform people emphasizes too much on dynamic prog
 6. Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 7. Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 8. Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
-9. 3Sum - https://leetcode.com/problems/3sum/
+9. 3Sum [ Two pointers ] - https://leetcode.com/problems/3sum/
 10. Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
 ## Binary
@@ -74,7 +74,9 @@ I have seen this in multiple platform people emphasizes too much on dynamic prog
 46. Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
 47.  Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
 48.  Rotate Image - https://leetcode.com/problems/rotate-image/
+    
 ## BackTracking ( Graph ) 
+
 49.  Word Search - https://leetcode.com/problems/word-search/
 
 ## String
@@ -84,8 +86,8 @@ I have seen this in multiple platform people emphasizes too much on dynamic prog
 52. Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 53. Valid Anagram - https://leetcode.com/problems/valid-anagram/
 54. Group Anagrams - https://leetcode.com/problems/group-anagrams/
-55. Valid Parentheses - https://interviewdose.com/articles/engineering/ds/balanced_brackets
-56. Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+55. Valid Parentheses [ Stack ] - https://interviewdose.com/articles/engineering/ds/balanced_brackets
+56. Valid Palindrome [ Two pointers ] - https://leetcode.com/problems/valid-palindrome/
 57. Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 58. Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 59. Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
