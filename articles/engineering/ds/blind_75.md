@@ -74,6 +74,7 @@ I have seen this in multiple platform people emphasizes too much on dynamic prog
 46. Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
 47.  Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
 48.  Rotate Image - https://leetcode.com/problems/rotate-image/
+## BackTracking ( Graph ) 
 49.  Word Search - https://leetcode.com/problems/word-search/
 
 ## String
