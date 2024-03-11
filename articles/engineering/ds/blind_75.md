@@ -84,7 +84,7 @@ I have seen this in multiple platform people emphasizes too much on dynamic prog
 52. Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 53. Valid Anagram - https://leetcode.com/problems/valid-anagram/
 54. Group Anagrams - https://leetcode.com/problems/group-anagrams/
-55. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
+55. Valid Parentheses - https://interviewdose.com/articles/engineering/ds/balanced_brackets
 56. Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
 57. Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 58. Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
