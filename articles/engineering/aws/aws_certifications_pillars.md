@@ -94,7 +94,7 @@ EC2 is a virtual machine that provides resizable compute capacity in the cloud. 
    Dedicated hosts are used to address compliance requirements and reduces host by allowing to use your existing server-bound server licenses.
    It can be purchased as a Reservation for up to 70% off On-Demand price.
 
-- ** AWS DataSync **
+#### AWS DataSync
  DataSync allows you to copy large datasets with millions of files without having to build custom solutions with open-source tools or licenses and manage expensive commercial network acceleration software. You can use DataSync to migrate active data to AWS, transfer data to the cloud for analysis and processing, archive data to free up on-premises storage capacity or replicate data to AWS for business continuity.
 
 AWS DataSync enables you to migrate your on-premises data to Amazon S3, Amazon EFS, and Amazon FSx for Windows File Server. You can configure DataSync to make an initial copy of your entire dataset and schedule subsequent incremental transfers of changing data toward Amazon S3. Enabling S3 Object Lock prevents your existing and future records from being deleted or overwritten.
