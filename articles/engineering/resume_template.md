@@ -10,7 +10,9 @@
   </a>
 </div>
 
-* Your main goal for the resume is to keep it clean.
+* Your resume Should be clean.
 * High light the skills you want to show.
 * Hide everything else which doesn't matter for your next interview.
-* 
+* Have a strong linkedin profile clean, concise and showcase your achivements and skills.
+* If you use AWS/Google/Azure in your project definitely highlight in your profile.
+* If you dont have a professional experience in cloud technology, you must do a certifications and add it in your resume.
