@@ -13,9 +13,9 @@
 * Your resume Should be clean.
 * High light the skills you want to show.
 * Hide everything else which doesn't matter for your next interview.
-* Have 2 to 4 bullets for your experience in an org
-* Have quantitave data rather than jargon of words that doesn't convey what you achieved.
-* Have a strong linkedin profile.
-* Try to keep Clean, concisely showcase your achivements and skills.
+* Have two to four bullets for your experience in an org not more.
+* Have quality with quantifying data rather than jargon of words that doesn't convey what you achieved.
+* Have a professional, clean linkedin profile.
+* Try to concisely showcase your achivements and skills in LinkedIn.
 * If you use AWS/Google/Azure in your project definitely highlight in your profile.
 * If you dont have a professional experience in cloud technology, you must do a certifications and add it in your resume.
