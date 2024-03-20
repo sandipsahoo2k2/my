@@ -220,4 +220,45 @@ public boolean hasPathSum(TreeNode root, int targetSum) {
         hasPathSum(root.right, targetSum) ;
     }
 ```
-  
+
+#### Iterative approach ( For top tier companies )
+[Leetcode practice link sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
+
+This is a very very important problem to practice for any interview. You must solve it iteratively. Recursive solution may look simple but when you are asked to walk through the steps, it is difficult and prone to errors. Hence iterative version.
+
+In this problem we are asked to collect the sum till leaf node, hence we must have a condition to check for a leaf node which is **node.left == null && node.right == null**
+
+Note : Params that you push to stack are the params that goes to your method parameters when you call recursively too.
+
+This is my solution :
+```
+public int sumNumbers(TreeNode root) {
+        Stack<Object[]> st = new Stack<>() ;
+        if(root != null) {
+            st.push(new Object[]{root, 0}) ;
+        }
+
+        int total = 0 ;
+        while(!st.isEmpty()) {
+            Object[] objects = st.pop() ;
+            TreeNode node = (TreeNode) objects[0] ;
+            int sum = (int) objects[1] ;
+
+            sum = sum * 10 + node.val ;
+
+            if(node.left == null && node.right == null) {
+                total += sum ; //<-- look here total
+            }
+
+            if(node.right != null) {
+                st.push(new Object[]{node.right, sum }) ;
+            }
+
+            if(node.left != null) {
+                st.push(new Object[]{node.left, sum }) ;
+            }
+        }
+
+        return total ;
+    }
+```
