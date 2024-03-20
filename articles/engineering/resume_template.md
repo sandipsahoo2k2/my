@@ -13,7 +13,7 @@
 
 #### Do's and Don't
 
-* Your resume Should be clean.
+* Your resume should be clear and 1 to 2 pages with proper spacing.
 * High light the skills you want to show.
 * Hide everything else which doesn't matter for your next interview.
 * Have two to four bullets for your experience in an org not more.
