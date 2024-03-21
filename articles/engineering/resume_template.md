@@ -13,11 +13,11 @@
 
 #### Do's and Don't
 
-* Your resume should be clear and 1 to 2 pages with proper spacing.
+* Your resume should be clear and one to two pages with proper spacing.
 * High light the skills you want to show.
 * Hide everything else which doesn't matter for your next interview.
 * Have two to four bullets for your experience in an org not more.
-* Have quality with quantifying data rather than jargon of words that doesn't convey what you achieved.
+* Quantify your project and record how it imapcated the users or customers.
 * Have a professional, clean linkedin profile.
 * Try to concisely showcase your achivements and skills in LinkedIn.
 * If you use AWS/Google/Azure in your project definitely highlight in your profile.
