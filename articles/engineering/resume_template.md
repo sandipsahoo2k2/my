@@ -20,5 +20,5 @@
 * Quantify your project and record how it imapcated the users or customers.
 * Have a professional, clean linkedin profile.
 * Try to concisely showcase your achivements and skills in LinkedIn.
-* If you use AWS/Google/Azure in your project definitely highlight in your profile.
+* If you use AWS/GCP/Azure in your project definitely highlight in your profile.
 * If you dont have a professional experience in cloud technology, you must do a certifications and add it in your resume.
