@@ -14,7 +14,7 @@
 #### Do's and Don't
 
 * Your resume should be clear and one to two pages with proper spacing.
-* High light the skills you want to show.
+* Highlight the skills you want to show.
 * Hide everything else which doesn't matter for your next interview.
 * Have two to four bullets for your experience in an org not more.
 * Quantify your project and record how it imapcated the users or customers.
