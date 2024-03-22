@@ -51,9 +51,15 @@ S3 stands for Simple Storage Service and it is Object-based storage, S3 provides
 
 S3 Glacier storage class is the cheapest storage class, but it can be used for archive only. You can store any amount of data at a lower cost than other storage classes. You can upload the objects directly to the Glacier. S3 Glacier provides three types of models:
 
-**Expedited**: In this, data is stored for a few minutes, with very higher fee.
+**Expedited**: In this, data is stored for a few minutes, with very high fee.
 **Standard**: The retrieval time of the standard model is 3 to 5 hours.
 **Bulk**: The retrieval time of the bulk model is 5 to 12 hours.
+
+#### 11.b Different S3 Modes
+* With S3 Object Lock, you can store objects using a write-once-read-many (WORM) model. Object Lock can help prevent objects from being deleted or overwritten for a fixed amount of time or indefinitely
+* Compliance mode - compliance mode, a protected object version can’t be overwritten or deleted by any user, including the root user in your AWS account
+* Governance mode - User with specific IAM permissions can delete protected resources.
+* Legal hold option doesn't have any retention period and remain effective until it is removed.
 
 #### 12. What is Load Balancer ?
 Load Balancer is a virtual machine or appliance that balances your web application load that could be Http or Https traffic. It balances a load of multiple web servers so that no web server gets overwhelmed.
