@@ -26,7 +26,11 @@
       <td><a href="https://youtube.com/embed/PY1LSBx-cNs" target="_blank">Concatenated words</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/vh1AciQLF5w" target="_blank">Range Sum of BST</a></td>
+      <td><a href="https://youtube.com/embed/vh1AciQLF5w" target="_blank">Range Sum of BST</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td><a href="https://youtube.com/embed/DfDep1TtzeE" target="_blank">Next permutation</a></td>
       <td><a href="https://youtube.com/embed/5PoVGnbju0Y" target="_blank">Create Sorted Array through Instructions</a></td>
     </tr>
@@ -36,11 +40,7 @@
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
       </a>
       </td>
-      <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
-        </a>
-      </td>
+      <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
       <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a>
         <a href="/articles/engineering/ds/binary_trees" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
