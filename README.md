@@ -36,7 +36,7 @@
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
       </a>
       </td>
-      <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a>
+      <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal</a>
         <a href="/articles/engineering/ds/binary_trees" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
@@ -53,7 +53,7 @@
       <td><a href="https://youtube.com/embed/8KGSnEQ9s8Q" target="_blank">Decode ways</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/JrrPcXix8zo?start=11" target="_blank">Minimum depth of a binary tree</a>
+      <td><a href="https://youtube.com/embed/JrrPcXix8zo?start=11" target="_blank">Min depth of a binary tree</a>
       <a href="/articles/engineering/ds/binary_trees" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
