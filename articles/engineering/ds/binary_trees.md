@@ -151,21 +151,25 @@ and all the elements in its right subtree are greater than the node (>).
   - **Lowest common ancestor**
     
     ```
-	TreeNode lowestCommonAncestor(TreeNode node, TreeNode p, TreeNode q) 
-	{
-		if(node == null)
-    			return null;
-    
-		if(node->left == p || node->left == q || node->right == p || node->right == q)
-    			return node;
+	public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+	        //base case
+	        if (root == null || root == p || root == q) {
+	            return root;
+	        }
+	        TreeNode left = lowestCommonAncestor(root.left, p, q);
+	        TreeNode right = lowestCommonAncestor(root.right, p, q);
 	
-		TreeNode left = lowestCommonAncestor(node->left,p,q);
-		TreeNode right = lowestCommonAncestor(node->right, p,q);
-		if(left != null && right != null) 
-			return node;
-		else 
-			return (left != null) ? left : right;
-	}
+	        //result
+	        if(left == null) {
+	            return right;
+	        }
+	        else if(right == null) {
+	            return left;
+	        }
+	        else { //both left and right are not null, we found our result
+	            return root;
+	        }
+    	}
     ```
     [Watch this video to find tha path to a node](https://www.youtube.com/watch?v=c1g6leyUuPM)
 
