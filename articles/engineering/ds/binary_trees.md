@@ -253,7 +253,7 @@ public int sumNumbers(TreeNode root) {
             sum = sum * 10 + node.val ;
 
             if(node.left == null && node.right == null) {
-                total += sum ; //<-- look here total
+                total += sum ; //**<-- look here total**
             }
 
             if(node.right != null) {
