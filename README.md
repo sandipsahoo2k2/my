@@ -32,16 +32,20 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">*Level order traversal</a>
-      <a href="/articles/engineering/ds/binary_search" style="backgroound">
+      <a href="/articles/engineering/ds/binary_trees" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
-        </a>
+      </a>
       </td>
       <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a>
-        <a href="/articles/engineering/ds/binary_search" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
-      <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a></td>
+      <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
@@ -50,7 +54,7 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/JrrPcXix8zo?start=11" target="_blank">Minimum depth of a binary tree</a>
-      <a href="/articles/engineering/ds/binary_search" style="backgroound">
+      <a href="/articles/engineering/ds/binary_trees" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
