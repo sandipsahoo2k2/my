@@ -167,7 +167,8 @@ and all the elements in its right subtree are greater than the node (>).
 			return (left != null) ? left : right;
 	}
     ```
-        
+    [Watch this video to find tha path to a node](https://www.youtube.com/watch?v=c1g6leyUuPM)
+
 #### Max Heap
 A **Max heap** is a tree in which each node's children have values less than or equal to node's value.
 Consequently, the root node always has the largest value in the tree, which means that it's possible to find
@@ -220,6 +221,7 @@ public boolean hasPathSum(TreeNode root, int targetSum) {
         hasPathSum(root.right, targetSum) ;
     }
 ```
+[Watch this video to know the pattern](https://youtu.be/s2Yyk3qdy3o?si=Wty0P7bZEWyUu2nS)
 
 #### Iterative approach ( For top tier companies )
 [Leetcode practice link sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
