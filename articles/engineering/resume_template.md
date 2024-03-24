@@ -3,10 +3,10 @@
 &#128073; Here look at two templates for your reference.
 
 <div align="center">
-  <a href="">
+  <a href="https://interviewdose.com/i/articles/engineering/resume_template.md">
     <img src="https://github.com/sandipsahoo2k2/my/assets/5547869/b6475de1-1483-4144-ab80-831e3a6a8b02" width="412px"/>
   </a>
-  <a href="">
+  <a href="https://interviewdose.com/i/articles/engineering/resume_template.md">
     <img src="https://github.com/sandipsahoo2k2/my/assets/5547869/10dcf446-557e-4cc4-bb9b-f7a5d5b42cdf" width="412px"/> 
   </a>
 </div>
