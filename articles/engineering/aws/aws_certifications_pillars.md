@@ -61,6 +61,9 @@ S3 Glacier storage class is the cheapest storage class, but it can be used for a
 * Governance mode - User with specific IAM permissions can delete protected resources.
 * Legal hold option doesn't have any retention period and remain effective until it is removed.
 
+<img width="666" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/bff1d181-b38b-4c8a-9bd0-57389d789abd">
+
+
 #### 12. What is Load Balancer ?
 Load Balancer is a virtual machine or appliance that balances your web application load that could be Http or Https traffic. It balances a load of multiple web servers so that no web server gets overwhelmed.
 
