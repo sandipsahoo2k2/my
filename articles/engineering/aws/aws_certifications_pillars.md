@@ -123,3 +123,6 @@ _AWS DataSync is primarily used to migrate existing data to Amazon S3. On the ot
 #### EBS AND EFS
 **EBS** : Although an EBS Volume can be attached to multiple EC2 instances, you can only do so on instances within an availability zone. 
 When we need is high-available storage that can span multiple availability zones. Take note as well that the type of storage needed “file storage” which means that S3 is not the best service to use because it is mainly used for “object storage”, and S3 does not provide the notion of “folders” too. This is why Use **EFS**.
+
+#### AWS Artifact
+AWS Artifact is your go-to, central resource for _compliance-related information_ that matters to you. It provides on-demand access to AWS’ security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
