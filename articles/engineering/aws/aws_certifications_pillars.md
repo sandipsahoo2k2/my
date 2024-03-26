@@ -143,3 +143,8 @@ AWS Artifact is your go-to, central resource for _compliance-related information
 AWS Fargate is a serverless compute engine for containers that works with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes (EKS).
 ## RedShift
 Amazon Redshift is a fast, fully managed cloud data warehouse that makes it simple and cost-effective to analyze all your data.
+## Athena
+Amazon Athena is a serverless, interactive analytics service built on open-source frameworks, supporting open-table and file formats.
+## Amazon Glue
+AWS Glue is a serverless data integration service that makes data preparation simpler, faster, and cheaper. 
+
