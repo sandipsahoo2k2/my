@@ -151,3 +151,5 @@ AWS Glue is a serverless data integration service that makes data preparation si
 Amazon Kinesis cost-effectively processes and analyzes streaming data at any scale as a fully managed service. With Kinesis, you can ingest real-time data, such as video, audio, application logs, website clickstreams, and IoT telemetry data, for machine learning (ML), analytics, and other applications.
 #### AWS Elastic Beanstalk
 Elastic Beanstalk is a service for deploying and scaling web applications and services
+#### AWS AppSync
+AWS AppSync creates serverless GraphQL and Pub/Sub APIs that simplify application development through a single endpoint to securely query, update, or publish data. 
