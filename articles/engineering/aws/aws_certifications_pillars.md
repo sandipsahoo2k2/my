@@ -122,15 +122,15 @@ _AWS DataSync is primarily used to migrate existing data to Amazon S3. On the ot
   
 * _If you want to serve private content through CloudFront and you’re trying to decide whether to use signed URLs or signed cookies, consider the following:_
 
-Use signed URLs for the following cases:
-– You want to use an RTMP distribution. Signed cookies aren’t supported for RTMP distributions.
-– You want to restrict access to individual files, for example, an installation download for your application.
-– Your users are using a client (for example, a custom HTTP client) that doesn’t support cookies.
-
-Use signed cookies for the following cases:
-
-– You want to provide access to multiple restricted files, for example, all of the files for a video in HLS format or all of the files in the subscribers’ area of a website.
-– You don’t want to change your current URLs.
+   Use signed URLs for the following cases:
+   – You want to use an RTMP distribution. Signed cookies aren’t supported for RTMP distributions.
+   – You want to restrict access to individual files, for example, an installation download for your application.
+   – Your users are using a client (for example, a custom HTTP client) that doesn’t support cookies.
+   
+   Use signed cookies for the following cases:
+   
+   – You want to provide access to multiple restricted files, for example, all of the files for a video in HLS format or all of the files in the subscribers’ area of a website.
+   – You don’t want to change your current URLs.
 
 #### EBS AND EFS
 **EBS** : Although an EBS Volume can be attached to multiple EC2 instances, you can only do so on instances within an availability zone. 
