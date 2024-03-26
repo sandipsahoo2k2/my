@@ -139,12 +139,13 @@ When we need is high-available storage that can span multiple availability zones
 #### AWS Artifact
 AWS Artifact is your go-to, central resource for _compliance-related information_ that matters to you. It provides on-demand access to AWS’ security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
 
-## Fargate 
+#### Fargate 
 AWS Fargate is a serverless compute engine for containers that works with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes (EKS).
-## RedShift
+#### RedShift
 Amazon Redshift is a fast, fully managed cloud data warehouse that makes it simple and cost-effective to analyze all your data.
-## Athena
+#### Athena
 Amazon Athena is a serverless, interactive analytics service built on open-source frameworks, supporting open-table and file formats.
-## Amazon Glue
+#### Amazon Glue
 AWS Glue is a serverless data integration service that makes data preparation simpler, faster, and cheaper. 
-
+#### Amazon Kinesis
+Amazon Kinesis cost-effectively processes and analyzes streaming data at any scale as a fully managed service. With Kinesis, you can ingest real-time data, such as video, audio, application logs, website clickstreams, and IoT telemetry data, for machine learning (ML), analytics, and other applications.
