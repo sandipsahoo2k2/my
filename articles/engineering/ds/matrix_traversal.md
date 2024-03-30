@@ -13,7 +13,7 @@ Spiral order hence :
 * rowDirection = [east, south, west, north] -> [0, 1, 0, -1]
 * colDirection = [east, south, west, north] -> [1, 0, -1, 0]
 
-For every such problem : 
+Check an invalid cell : 
 * Create a method to check an invalid cell
 
 For every such problem : 
