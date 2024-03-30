@@ -61,3 +61,4 @@ boolean isInvalid(int row, int col, int[][]matrix) {
         return result ;
     }
 ```
+[Video reference](https://youtu.be/J8TkpdvbRcE)
