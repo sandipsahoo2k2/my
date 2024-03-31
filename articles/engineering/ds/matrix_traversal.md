@@ -2,12 +2,14 @@
 Let's learn to rotate array first before we dive into the Matrix traversal as they follow same pattern rotate/spiral.
 
 **Take this example :**
-_Given an array  of  integers and a number, , perform  left rotations on the array. Return the updated array to be printed as a single line of space-separated integers._ ( [hacker rank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) )
+_Given an array  of a integers and n number d, perform d left rotations on the array. Return the updated array to be printed as a single line of space-separated integers._ ( [hacker rank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) )
+
+ If d = 2 then [1,2,3,4,5] -> [3,4,5,1,2]
 
 Try to solve it and you will find a pattern, the use of modulo ( % ) .
 The solution is to simply do the modulo to find the exact new position for an element in the cell and copy it to a list.
 
-* int newIndex = total_rotation % length of array ;
+* int newPosition = total_rotation % length of array ;
 * and Direction when right = use for loop starting from right to left / copy the part of the array from newIndex to end and put it before
 * and Direction when left = use for loop starting from left to right / copy the part of the array till newIndex from start and put it before
 
