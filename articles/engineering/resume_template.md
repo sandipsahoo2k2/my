@@ -22,3 +22,5 @@
 * Try to concisely showcase your achivements and skills in LinkedIn.
 * If you use AWS/GCP/Azure in your project definitely highlight in your profile.
 * If you don't have a professional experience in cloud technology, you must do a certifications and add it in your resume.
+* Download a sample PDF for reference - [freshman_2_4_years_CV.pdf](https://github.com/sandipsahoo2k2/my/files/14816880/freshman_2_4_years_CV.pdf)
+
