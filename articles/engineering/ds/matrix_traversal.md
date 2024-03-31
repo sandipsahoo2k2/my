@@ -12,6 +12,7 @@ The solution is to simply do the modulo to find the exact new position for an el
 * int newStartPosition = total_rotation % length of array ;
 * and Direction when right = use for loop starting from right to left / copy the part of the array from newIndex to end and put it before
 * and Direction when left = use for loop starting from left to right / copy the part of the array till newIndex from start and put it before
+* **Also note that ** every _newIndex = ( a.size() + i + (d * -1) ) % a.size()_;
 
 Similar question with direction to _right_ : https://leetcode.com/problems/rotate-array
 
