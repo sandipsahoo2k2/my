@@ -63,11 +63,11 @@ the left and right pointers each point to a binary tree.
 		
 		int leftDepth = maxDepth(node.left);
 		int rightDepth = maxDepth(node.right);
-		
+		//Check max diameter if asked here 
 		return 1 + Math.max(leftDepth, rightDepth) ;
 	  }
 	  ```
-
+   
   	[Practice this minDepth problem from leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
   	[Watch this solution for minDepth](https://youtu.be/JrrPcXix8zo)
