@@ -43,8 +43,10 @@ the left and right pointers each point to a binary tree.
       &#128073; Remember to use always **_two loops_** while using BFS.
       - A while loop checking on the queue.isEmpty()
       - another for loop on the size of the queue on each iteration which tells the size of that level
+     
+  3. [Watch this video to find tha path to a node](https://www.youtube.com/watch?v=c1g6leyUuPM)
 
-  3. Vertical Order traversal ( Using map )
+  4. Vertical Order traversal ( Using map )
      This is an interesting problem frequently asked in coding interviews. [Watch this video](https://youtu.be/x6oAGPNqGzY) and learn howto solve such problems.
 
   #### Few important questions
@@ -119,7 +121,6 @@ and all the elements in its right subtree are greater than the node (>).
         return helper(root.left, lBound, root.val) && helper(root.right, root.val, hBound) ;
     }
     ```
-
     
   - **Deleting a key** from a binary search ( deleteKey())
     
@@ -130,22 +131,44 @@ and all the elements in its right subtree are greater than the node (>).
       3. A node that has both left and right child ->
          We replace the node with **it's predecessor**.
 
-
   - **In-Order Successor**
 
-  
     ```
     inOrderSuccessor(TreeNode node)
+    
       if (node.right != null)
           return minTree(node);
-    
-      TreeNode parent = node.parent ;
+
+      //Look at this code below it's nothing but a linklist traversal and
+      //we are telling previous node is successor if curr node is parent
+      TreeNode prev = node ;
+      TreeNode curr = node.parent ;
       //go up the tree from node until we see a node that is the left child of it's parent
-      while (node != null && node == parent.right) {
-          node = parent;
-          parent = node.parent;
+      while (curr != null && curr.left != prev) {
+          prev = node;
+          curr = node.parent;
       }
-      return parent;
+      return curr;
+    ```
+
+    There is an interesting problem [leetcode 285] given the root find Inorder Successor in BST
+    To solve this problem as there is no parent link in a node, we should use BST property.
+    If you closely walk thorough the steps of BST you will realise that if we keep track of a previous node
+    only when we go left in a BST then previous node is the successor of the given node.
+
+    ```
+    public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
+        TreeNode successor = null;
+        while (root != null) {
+            if (p.val >= root.val) {
+                root = root.right;
+            } else {
+                successor = root; //keep updating when you go left.
+                root = root.left;
+            }
+        }
+        return successor;
+    }
     ```
 
   - **Lowest common ancestor**
@@ -171,7 +194,6 @@ and all the elements in its right subtree are greater than the node (>).
 	        }
     	}
     ```
-    [Watch this video to find tha path to a node](https://www.youtube.com/watch?v=c1g6leyUuPM)
 
 #### Max Heap
 A **Max heap** is a tree in which each node's children have values less than or equal to node's value.
