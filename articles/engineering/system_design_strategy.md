@@ -103,34 +103,54 @@ It’s important that you spend the majority of the time focusing on the major p
 In general, for a 45-minute system design interview, expect to spend roughly these time allocations on each step:
 
 [5 - 10 minutes] Outline use cases and constraints of the system. Define the product specification.
+
 [10 - 15 minutes] Create a high-level design and get sign off on the direction.
+
 [10 - 20 minutes] Design core components in detail.
+
 [5 - 10 minutes] Scale the design, make it fully operational, and wrap up the interview.
+
 If you are ever unsure how long you will get for your system design interview, simply ask your recruiter how long you should expect to spend in the session, and how long you will get to talk about system design. Most interviews are 60 minutes so you will spend anywhere from 45-50 minutes on system design and 10-15 minutes on behavioral questions, team fit, and introductions. If the time allocation for a particular company is different, adjust your strategy ahead of time and practice it!
 
 ## 6. Calibration Guide
 Below is a calibration guideline which applies to the majority of system design interviews. Fill in the brackets with a checkmark and ask yourself whether you accomplished all of them. If you didn’t, try to correct it going forward.
 
 [] Removes ambiguity in the problem statement
+
 [] Drives the conversation
+
 [] Can articulate shortcomings and tradeoffs with different designs
+
 [] Translates requirements into user stories
+
 [] APIs cover requirements
+
 [] Sufficient HTTP knowledge/front end depth
+
 [] Infrastructure knowledge
+
 [] Familiarity with load balancers and fleets (no single points of failure)
+
 [] Familiarity with data layer
+
 [] The system is operational; logging/tracing/monitoring
+
 [] The system has proper data models
+
 [] The system can scale (i.e., sharding, partitioning, or other mechanisms)
+
 [] The system meets latency and availability requirements, or other SLAs
+
 [] The system meets all initial requirements for the product specification
 
 ## 7. Closing Thoughts and Final Tips
 In your interview, pretend you are with another coworker working to design a system together on a whiteboard. System design interviews are meant to be a collaborative process with plenty of back and forth between the interviewee and the interviewer.
 System design interviews are deliberately vague and open-ended to see how you tackle ambiguity. The best way to get rid of this ambiguity is by speaking and collaborating.
+
 It’s impossible to cover everything in a system design interview. Don’t feel bad about not covering everything. Be deliberate with what you choose to speak about.
+
 Research the company, teams, and interviewers that you’re interviewing with. Most teams will ask system design questions which are similar to what the team actually works on to see if you’d be able to easily adapt to the team. If the company has an engineering blog, read their posts. Understand the product that the team you are interviewing with is building and think about how you would design that product from scratch. Do research.
+
 For Senior, Staff, and Principal level positions, the main way to stand out is by going in-depth in particular topics. You’ll likely want to spend more time here and you should aim to finish all requirement gathering and the high-level design much faster than other individuals.
 
 Reference link : https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/
