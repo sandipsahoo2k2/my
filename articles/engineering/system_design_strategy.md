@@ -22,6 +22,7 @@ Every system design interview can be broken into four high-level steps:
 In this step, your goal is to ask questions to remove any ambiguity in the problem statement and define the requirements of the system. You should come up with a specification for the user requirements, a data model which represents the data of the system, and perform some basic back-of-the-envelope calculations to understand the scale of the system.
 
 1.1 - Product Specification
+
 This section will vary drastically depending on the problem, but you should aim to walk away with a very clear product specification by the time you’re done. Work top down from the user experience down to the lower-level systems and start forming a high-level design in your head, which we will draw in a later step.
 
 * Do we need to support a website or UI interface? What is the first point that a user interacts with the system?
