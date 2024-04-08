@@ -115,33 +115,22 @@ If you are ever unsure how long you will get for your system design interview, s
 ## 6. Calibration Guide
 Below is a calibration guideline which applies to the majority of system design interviews. Fill in the brackets with a checkmark and ask yourself whether you accomplished all of them. If you didn’t, try to correct it going forward.
 
+````
 [] Removes ambiguity in the problem statement
-
-[] Drives the conversation
-
-[] Can articulate shortcomings and tradeoffs with different designs
-
-[] Translates requirements into user stories
-
-[] APIs cover requirements
-
-[] Sufficient HTTP knowledge/front end depth
-
-[] Infrastructure knowledge
-
-[] Familiarity with load balancers and fleets (no single points of failure)
-
-[] Familiarity with data layer
-
-[] The system is operational; logging/tracing/monitoring
-
+[] Drives the conversation 
+[] Can articulate shortcomings and tradeoffs with different designs 
+[] Translates requirements into user stories 
+[] APIs cover requirements 
+[] Sufficient HTTP knowledge/front end depth 
+[] Infrastructure knowledge 
+[] Familiarity with load balancers and fleets (no single points of failure) 
+[] Familiarity with data layer 
+[] The system is operational; logging/tracing/monitoring 
 [] The system has proper data models
-
 [] The system can scale (i.e., sharding, partitioning, or other mechanisms)
-
 [] The system meets latency and availability requirements, or other SLAs
-
 [] The system meets all initial requirements for the product specification
+````
 
 ## 7. Closing Thoughts and Final Tips
 In your interview, pretend you are with another coworker working to design a system together on a whiteboard. System design interviews are meant to be a collaborative process with plenty of back and forth between the interviewee and the interviewer.
