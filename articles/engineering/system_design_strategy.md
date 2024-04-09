@@ -142,4 +142,6 @@ Research the company, teams, and interviewers that you’re interviewing with. M
 
 For Senior, Staff, and Principal level positions, the main way to stand out is by going in-depth in particular topics. You’ll likely want to spend more time here and you should aim to finish all requirement gathering and the high-level design much faster than other individuals.
 
-Reference link : https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/
+Reference links :
+* https://bytebytego.com/courses/system-design-interview/a-framework-for-system-design-interviews
+* https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/
