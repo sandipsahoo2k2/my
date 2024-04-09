@@ -144,4 +144,5 @@ For Senior, Staff, and Principal level positions, the main way to stand out is b
 
 Reference links :
 * https://bytebytego.com/courses/system-design-interview/a-framework-for-system-design-interviews
+* https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
 * https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/
