@@ -2,7 +2,7 @@
 
 This is one of the most frequently asked interview question in a coding interview.
 There are many different ways this problem can be solved, but if you start from the powerset solution approach to knapsack approach, 
-you will enable yourself in solving multiple different types of subsets problem.
+you will enable yourself in solving multiple different types of subsets problem with ease.
 I am sharing two approach that you should or must know for an interview environment here. 
 
 **Cascading approach :**
@@ -25,12 +25,12 @@ public List<List<Integer>> subsets(int[] nums) {
     }
 ```
 
-If you closely look at the above solution and resultsin each step we are creating 2 times mores sets from the previous result.
+If you closely look at the above solution and results in each step we are creating 2 times mores sets from the previous result.
 ```
-        []              <== start with empty
-       [][1]            <== add 1
-     [][1][2][1,2]      <== add 2
-[][1][2][1,2][3][1,2,3] <== add 3
+              []                  <== start with empty
+             [][1]                <== add 1
+         [][1][2][1,2]            <== add 2
+[][1][2][1,2][3][1,3][2,3][1,2,3] <== add 3
 ```
 Hence 2^N elements in total we create. Do you see it is forming a binary tree structure right ?
 That means the resultsets can also created using a binary tree traversal technique. which is nothing but our knapsack approach described below.
