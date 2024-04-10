@@ -88,3 +88,5 @@ public void backtrack(int[] nums, int start, List<Integer> temp, List<List<Integ
 ```
 
 I tried my best to show you how the algorithm evolved and shared [all different ways to return subsets](https://www.youtube.com/watch?v=-UhqRVFnwOY).
+
+Some leetcode problems solved using these templates : https://youtube.com/watch?v=siNWNRgtlEk
