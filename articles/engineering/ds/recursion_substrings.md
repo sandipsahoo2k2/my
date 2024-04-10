@@ -61,8 +61,10 @@ void allSubstring(int[] nums, List<List<Integer>> result) {
     }
 ```
 
+If you understood until this far next is how can you take this idea and [solve any DFS problem](https://www.youtube.com/watch?v=5apYEdUv_O4&t=10s).
 
-Why I am talking about this here !
+&#9758; _Why I am talking about recursion and this particular program here !_
+
 It's one of the most important concept you may need to know for solving any subset or substrings problem in an interview.
 e.g look at this subset program using recursion. [Read more about subsets and backtracking](https://interviewdose.com/i/articles/engineering/ds/subsets.md).
 
