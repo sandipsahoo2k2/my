@@ -34,7 +34,7 @@ If you closely look at the above solution and resultsin each step we are creatin
 ```
 Hence 2^N elements in total we create. Do you see it is forming a binary tree structure right ?
 That means the resultsets can also created using a binary tree traversal technique. which is nothing but our knapsack approach described below.
-If you closely see each step what we can say is we are either adding an element from different possible choice or not adding that elelemnt
+If you closely see each step what we can say is we are either adding an element from a possible choice or not adding that elelemnt
 Look at the code below how this solution can be written using a knapsack approach (is n't it looking like a inOrder traversal ? ) 
 
 **Knapsack approach :**
