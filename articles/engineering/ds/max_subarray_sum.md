@@ -66,7 +66,7 @@ Let's first write the program to find all possible subarrays for a given array.
 	}
 	```
 
-#### **ID Solution Approach-1**
+#### **ID Solution Approach - Acceptable **
   We can simply write the solution with any of the above approach e.g lets take the second approach. O(N^2)
   
   ```
@@ -90,7 +90,7 @@ Let's first write the program to find all possible subarrays for a given array.
   ```
 Practice This approach with [Medium Leetcode 560](https://leetcode.com/problems/subarray-sum-equals-k)
 
-#### **ID interview Approach**
+#### **ID interview Approach - Gold**
 
 It is worth noting that almost all subarray problems can be solved by keeping track of the runningSum ( with an extra prefiSum in O(N) time sparing an extra O(N) space with a hashMap ).
 
