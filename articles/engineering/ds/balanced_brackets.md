@@ -81,6 +81,25 @@ boolean isBalanced(String s) {
 }
 ```
 
+## Create all possible parenthesis from a given paranthesis string
+This is a handy question, sometimes asked in interviews, to find all possible parenthesis string by removing 1 element.
+&#9758;Below code is a simplified version for possible substrings for a given inputcusing substring. 
+
+```
+public static List<String> allParentheses(String s) {
+        List<String> res = new ArrayList<>();
+        // generate all possible states
+        for (int i = 0; i < s.length(); i++) {
+            // we only try to remove left or right parenthesis
+            if (s.charAt(i) != '(' && s.charAt(i) != ')') continue;
+
+            String t = s.substring(0, i) + s.substring(i + 1);
+            res.add(t);
+        }
+        return res;
+    }
+```
+
 **Few More Practice questions from leetcode and ID solutions :**
 
 * Watch This podcast : https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z
