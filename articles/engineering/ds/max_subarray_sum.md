@@ -10,8 +10,9 @@ You may watch this video version of this article [here](https://youtu.be/uJml2Mr
 
 Its very very simple, in this approach use a running sum and in a forloop
 
-* if running sum is less than zero then reset the currentSum = 0
-* update the maxSum if currentSum > maxSum
+* Any subarray whose sum is positive is worth keeping else throw it away from calculation
+* if runningSum is less than zero then reset the runningSum = 0
+* update the maxSum if runningSum > maxSum
   
 #### Kadane's Approach / a simple math trick :
 ```
@@ -66,7 +67,7 @@ Let's first write the program to find all possible subarrays for a given array.
 	```
 
 #### **ID Solution Approach-1**
-  We can simply write the solution with any of the above approach e.g lets take the second approach.
+  We can simply write the solution with any of the above approach e.g lets take the second approach. O(N^2)
   
   ```
   public int subarraySum(int[] nums, int k) {
@@ -88,5 +89,15 @@ Let's first write the program to find all possible subarrays for a given array.
     }
   ```
 Practice This approach with [Medium Leetcode 560](https://leetcode.com/problems/subarray-sum-equals-k)
+
+#### **ID interview Approach**
+
+It is worth noting that almost all subarray problems can be solved by keeping track of the runningSum ( with an extra prefiSum in O(N) time sparing an extra O(N) space with a hashMap ).
+
+&#9758; Because if _(A+B+C) + (D+E+F) = targetSum_, then if we see currentSum of (D+E+F) and there exists a _prefixSum = targetSum - (A+B+C)_ then we have a subArray whose sum is targetSum. See the next question uses this intution / hashMap to solve this problem.
+
+**If you are asked :**
+* count subArray _init_ the hashMap with a (key, value) = (0, 1) => as there can be a zero sum subarray
+* find the subArray then you need the index hence _init_ the hashMap with a (key, value) = (0, -1) => with -1 index
 
 O(N) Approach : [Watch this video](https://www.youtube.com/shorts/x2DxTtx8pEU)
