@@ -56,7 +56,12 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a></td>
-      <td><a href="https://youtube.com/embed/I6viYY0mS6I?start=581" target="_blank">* Binary Search</a></td>
+      <td>
+        <a href="https://youtube.com/embed/I6viYY0mS6I?start=581" target="_blank">Binary Search</a>
+        <a href="/articles/engineering/ds/binary_search" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
