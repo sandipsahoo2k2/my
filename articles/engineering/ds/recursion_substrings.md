@@ -87,3 +87,42 @@ public void backtrack(int[] nums, int start, List<Integer> temp, List<List<Integ
 ```
 Learn in depth and solve any subset problems &#9758; https://www.youtube.com/watch?v=-UhqRVFnwOY
 Some leetcode problems for reference : https://youtube.com/watch?v=siNWNRgtlEk
+
+**Generate all combinations of well-formed parentheses:**
+
+Now as you understood how backtracking works, generating all possible valid parentheses should not be difficult.
+keeping few cases in mind e.g
+* when open braces = closing braces return/add result
+* run backtrack to construct open braces until given target n
+* run backtrack to construct closing braces for each open bracket
+
+```
+Stack<String> stk = new Stack<>() ;
+    public void helper(int total , int open, int close, List<String> result) {
+
+        if(open == total && open == close) {
+            result.add(String.join("", stk)) ;
+            return ;
+        }
+
+        if(open < total) {
+            stk.push("(");
+            helper(total, open + 1, close, result) ;
+            stk.pop();
+        }
+
+        if(close <  open) {
+            stk.push(")");
+            helper(total, open, close + 1, result) ;
+            stk.pop();
+        }
+    }
+
+    public List<String> generateParenthesis(int n) {
+        List<String> result = new ArrayList<>();
+        helper(n, 0, 0, result) ;
+        return result ;
+    }
+```
+
+Practice link : https://leetcode.com/problems/generate-parentheses/
