@@ -76,7 +76,12 @@
       <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/VWGk_Mo_gRU" target="_blank">Valid parenthesis</a></td>
+      <td>
+        <a href="https://youtube.com/embed/VWGk_Mo_gRU" target="_blank">Valid parenthesis</a>
+        <a href="/articles/engineering/ds/balanced_brackets" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td><a href="https://youtube.com/embed/LScsC-C5gvg" target="_blank">*Minm insertion to balance</a></td>
     </tr>
     <tr>
