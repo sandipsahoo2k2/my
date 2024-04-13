@@ -146,7 +146,7 @@ public static List<String> allParentheses(String s) {
 	</td>
     </tr>
      <tr>
-	<td>Longest Valid Parentheses</td>
+	<td>Remove invalid from substrings</td>
 	<td>
 		<a href="https://leetcode.com/problems/remove-invalid-parentheses" target="_blank">https://leetcode.com/problems/remove-invalid-parentheses</a>
 	</td>
