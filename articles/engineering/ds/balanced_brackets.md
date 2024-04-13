@@ -102,11 +102,7 @@ public static List<String> allParentheses(String s) {
 
 **Few More Practice questions from leetcode and ID solutions :**
 
-* Watch This podcast : https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z
-* https://leetcode.com/problems/longest-valid-parentheses
-* https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses -- [Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5) 
-* https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string -- [Solution](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb)
-* https://leetcode.com/problems/remove-invalid-parentheses -- A Hard Problem, solve using a BFS + all substrings
+* Full podcast series : https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z
 
 <table class="table">
   <thead>
