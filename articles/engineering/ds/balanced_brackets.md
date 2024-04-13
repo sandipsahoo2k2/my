@@ -6,7 +6,7 @@ A string containing bracket characters is said to be balanced if:
 2. Brackets enclosed within balanced brackets are also balanced
 3. It does not contain any non-bracket characters
 
-<u>Example:</u>   [Tune to this Poddcast](https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z)
+<u>Example:</u> [Tune to this Poddcast](https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z)
 
 * (){}[] - "This contains a [balanced bracket]"
 * [[] {}} - “This [[does not] contain a balanced bracket”
