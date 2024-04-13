@@ -48,7 +48,9 @@ Before the solution, Remember few _**simple techniques**_ for solving such probl
 * Be mindful about stack.empty() -> not balanced case
 * If only One type of balanced brackets e.g '(' ')' used, then use a stackCounter instead of a Stack.
 * Sometimes They can ask you to balance the given string -> then mark invalid characters with * and solve.
+  &#9758; Medium problem -> https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses -> [Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5)
 * Sometimes they want you to count max or min Use a Stack for keeping the index and initisialised with -1 index.
+  &#9758; Hard problem -> https://leetcode.com/problems/longest-valid-parentheses
 
 #### InterviewDose Solution
 ```
