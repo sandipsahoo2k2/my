@@ -126,19 +126,29 @@ public static List<String> allParentheses(String s) {
     </tr>
     <tr>
 	<td>Minimum remove to make valid</td>
-	<td><a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses" target="_blank">https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses</a></td>
+	<td>
+		<a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses" target="_blank">https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses</a>
+	</td>
 	<td>Medium</td>
-	<td>[Use a stack and replace invalid with *](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5)</td>
+	<td>
+		<a href="https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5" target="_blank">Use a stack and replace invalid with *</a>
+	</td>
     </tr>
     <tr>
 	<td>Minimum insertions to balance</td>
-	<td><a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string" target="_blank">https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string</a></td>
+	<td>
+		<a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string" target="_blank">https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string</a>
+	</td>
 	<td>Medium</td>
-	<td>[Stack with index -1 intialised](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb)</td>
+	<td>
+		<a href="https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb" target="_blank">Stack with index -1 intialised</a>
+	</td>
     </tr>
      <tr>
 	<td>Longest Valid Parentheses</td>
-	<td><a href="https://leetcode.com/problems/remove-invalid-parentheses" target="_blank">https://leetcode.com/problems/remove-invalid-parentheses</a></td>
+	<td>
+		<a href="https://leetcode.com/problems/remove-invalid-parentheses" target="_blank">https://leetcode.com/problems/remove-invalid-parentheses</a>
+	</td>
 	<td>Hard</td>
 	<td>Solve using a BFS + all substrings</td>
     </tr>
