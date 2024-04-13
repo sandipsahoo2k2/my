@@ -103,9 +103,44 @@ public static List<String> allParentheses(String s) {
 **Few More Practice questions from leetcode and ID solutions :**
 
 * Watch This podcast : https://www.youtube.com/playlist?list=PLZhF5vHIhxf3QFZRRS2jZLf2ksiBhkd0Z
+* https://leetcode.com/problems/longest-valid-parentheses
+* https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses -- [Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5) 
+* https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string -- [Solution](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb)
+* https://leetcode.com/problems/remove-invalid-parentheses -- A Hard Problem, solve using a BFS + all substrings
 
-* [Practice Leetcode 32](https://leetcode.com/problems/longest-valid-parentheses/)
-
-* [Practice this Medium Leetcode Problem](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -- [Watch the Solution](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5) 
-
-* [Practice this Medium Leetcode Problem](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) -- [Watch the Solution](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb)
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Problem</th>
+      <th scope="col">Practice Link</th>
+      <th scope="col">Complexity</th>
+      <th scope="col">Approach / Intution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	<td>Longest Valid Parentheses</td>
+	<td><a href="https://leetcode.com/problems/longest-valid-parentheses" target="_blank">https://leetcode.com/problems/longest-valid-parentheses</a></td>
+	<td>Hard</td>
+	<td>Stack with index -1 intialized</td>
+    </tr>
+    <tr>
+	<td>Minimum remove to make valid</td>
+	<td><a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses" target="_blank">https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses</a></td>
+	<td>Medium</td>
+	<td>[Use a stack and replace invalid with *](https://youtu.be/slkTFARW4Pk?si=OffRL-ywtG5iLLa5)</td>
+    </tr>
+    <tr>
+	<td>Minimum insertions to balance</td>
+	<td><a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string" target="_blank">https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string</a></td>
+	<td>Medium</td>
+	<td>[Stack with index -1 intialised](https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb)</td>
+    </tr>
+     <tr>
+	<td>Longest Valid Parentheses</td>
+	<td><a href="https://leetcode.com/problems/remove-invalid-parentheses" target="_blank">https://leetcode.com/problems/remove-invalid-parentheses</a></td>
+	<td>Hard</td>
+	<td>Solve using a BFS + all substrings</td>
+    </tr>
+  </tbody>
+</table>
