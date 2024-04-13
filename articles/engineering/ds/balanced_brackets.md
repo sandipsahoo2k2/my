@@ -141,7 +141,7 @@ public static List<String> allParentheses(String s) {
 	</td>
 	<td>Medium</td>
 	<td>
-		<a href="https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb" target="_blank">Stack with index -1 intialised</a>
+		<a href="https://youtu.be/LScsC-C5gvg?si=n-nd6YU2YkAjYaXb" target="_blank">Replace )) with one } and stack</a>
 	</td>
     </tr>
      <tr>
