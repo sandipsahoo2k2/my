@@ -32,7 +32,7 @@ In short these are some of the use cases for Doubly LinkLists we have to impleme
 
 **Here is an implementation for LRU cache:**
 
-Note : We are creating head and tail dummy node with a invalid key and value. Never change the head and tail in this implementation they will always point to dummy node and we return head.next or tail.prev if we must.
+Note : _We are creating head and tail dummy node with a invalid key and value. Never change the head and tail in this implementation they will always point to dummy node and we return head.next or tail.prev if we must._
 
     //head.next is the real head
     head = new Node(-1, -1) ;
@@ -43,7 +43,7 @@ Note : We are creating head and tail dummy node with a invalid key and value. Ne
     tail.prev = head ;
     
 
-&#9758; This is a technique that can be used to avoid null check in doubly linklist logic, So that we always insert and remove somewhere from the middle of the list. Also it is very very important to note that we have initialized the head.next = tail and tail.prev = head ; in the constructor with the total size. Add and remove to the map in the add and remove method of the linklist.
+&#9758; This is a technique that can be used to avoid null check in doubly linklist logic, _So that we always insert and remove somewhere from the middle of the list_. Also it is very very important to note that we have initialized the head.next = tail and tail.prev = head ; in the constructor with the total size. Add and remove to the map in the add and remove method of the linklist.
 
 Here is a link to practice problem for your next interview : https://leetcode.com/problems/lru-cache/
 
