@@ -21,7 +21,7 @@ With following use cases:
 * If the number of keys exceeds the capacity from this operation, evict the least recently used key.
 * The functions get and put must each run in O(1) average time complexity.
 
-In Java there is an implementation of HashMap which is _LinkedHashMap_ has this support already. Even in an interview environment if time / interviewer permits speak about it and use it too. Look at the method _removeEldestEntry_ implementation in below example. Also see the constructor last parameter _accessOrder - the ordering mode - true for access-order, false for insertion-order_ .
+In Java there is an implementation of HashMap which is **_LinkedHashMap_** has this support already. Even in an interview environment if time / interviewer permits speak about it and use it too. Look at the method **_removeEldestEntry_** implementation in below example. Also see the constructor last parameter **_accessOrder** - the ordering mode - true for access-order, false for insertion-order_ .
 
     LinkedHashMap cache = new LinkedHashMap<>(size, 0.75f, true) {
             @Override
