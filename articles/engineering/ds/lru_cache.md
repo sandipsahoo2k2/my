@@ -21,6 +21,15 @@ With following use cases:
 * If the number of keys exceeds the capacity from this operation, evict the least recently used key.
 * The functions get and put must each run in O(1) average time complexity.
 
+In Java there is an implementation of HashMap which is _LinkedHashMap_ has this support already. Even in an interview environment if time / interviewer permits speak about it and use it too. Look at the method _removeEldestEntry_ implementation in below example. Also see the constructor last parameter _accessOrder - the ordering mode - true for access-order, false for insertion-order_ .
+
+    LinkedHashMap cache = new LinkedHashMap<>(size, 0.75f, true) {
+            @Override
+            protected boolean removeEldestEntry(Map.Entry<Integer, Integer> eldest) {
+                return size() > capacity;
+            }
+        };
+
 To fetch the nodes by key in O(1) time we will use a HashMap and to refresh the nodes position from anywhere to front
 and evict the ndoes from the end, DoublyLink list is the best data structure we can use.
 
