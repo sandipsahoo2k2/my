@@ -32,7 +32,7 @@ In short these are some of the use cases for Doubly LinkLists we have to impleme
 
 **Here is an implementation for LRU cache:**
 
-Note : We are creating head and tail dummy node with invalid a key and value. 
+Note : We are creating head and tail dummy node with a invalid key and value. 
 
     //head.next is the real head
     head = new Node(-1, -1) ;
