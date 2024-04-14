@@ -30,11 +30,14 @@ In short these are some of the use cases for Doubly LinkLists we have to impleme
 * Evict from the tail of the list when size of the cache crosses the desired
 * To refresh the nodes, we need to remove an existing node and put it infront of head
 
-Here is an implementation for LRU cache:
-Note : We are creating to dummy node with an invalid key and value. 
+**Here is an implementation for LRU cache:**
+
+Note : We are creating head and tail dummy node with invalid a key and value. 
+
 This is a technique that can be used to avoid null check in doubly linklist logic,
 So that we always insert and remove somewhere from the middle of the list
-Here is a practice link https://leetcode.com/problems/lru-cache/
+
+Here is a link to practice problem for your next interview : https://leetcode.com/problems/lru-cache/
 
 ```
 class LRUCache {
