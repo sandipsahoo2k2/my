@@ -34,6 +34,7 @@ Here is an implementation for LRU cache:
 Note : We are creating to dummy node with an invalid key and value. 
 This is a technique that can be used to avoid null check in doubly linklist logic,
 So that we always insert and remove somewhere from the middle of the list
+Here is a practice link https://leetcode.com/problems/lru-cache/
 
 ```
 class LRUCache {
