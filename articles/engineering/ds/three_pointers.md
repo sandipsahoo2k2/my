@@ -17,7 +17,7 @@ Leetcode practice link : https://leetcode.com/problems/reverse-linked-list
 * we call these 3 pointers as prev, curr, next(forward)
 * prev start from null and at the end return prev <== important
 
-Let's see the code :
+Let's see the this step by step : [Explanation](https://youtu.be/HmZSrU21lrQ)
 ```
 public ListNode reverseList(ListNode head) {
         ListNode prev = null ;
