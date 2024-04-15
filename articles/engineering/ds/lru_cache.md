@@ -9,7 +9,7 @@ LRU Cache are designed exactly keeping this in mind. It's one of the most freque
 Cache replacement algorithms are efficiently designed to replace the cache when the space is full. 
 As the name suggests when the cache memory is full, LRU picks the data that is least recently used and removes it in order to make space for the new data.
 
-## Design a recently used (LRU) Cache
+## Design a Least Recently used (LRU) Cache
 
 Let's design a simple LRU cache that follows the constraints of a LRU cache.
 
