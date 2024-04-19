@@ -109,7 +109,7 @@ This is how permute code looks :
 
 ```
 void backtrack(int[]nums, int start, List<Integer> temp, List<List<Integer>> result) {
-        if(temp.size() == nums.length) { //<== See when size = length
+        if(temp.size() == nums.length) { //<== See when size == length
             result.add(temp) ;
             return ;
         }
