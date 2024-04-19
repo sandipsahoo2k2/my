@@ -61,7 +61,7 @@ public void knapsack(int[] nums, int index, List<Integer> subset, List<List<Inte
 
 **Backtracking approach:**
 
-Refer [this artcile](https://interviewdose.com/i/articles/engineering/backtracking_template.md) for in depth knowledge on different backtracking techniques.
+Refer [this article](https://interviewdose.com/i/articles/engineering/backtracking_template.md) for in depth knowledge on different backtracking techniques.
 
 ```
 public void backtrack(int[] nums, int start, List<Integer> temp, List<List<Integer>> result) {
