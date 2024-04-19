@@ -103,6 +103,11 @@ Some leetcode problems solved using these templates : https://youtube.com/watch?
 
 If you look closely permutations is list of subsets by swaping numbers with all elements of the array.
 By twiking the above backtracking code little bit we can form all permutations.
+
+Note : Time complexity for the recursion is n! and we copy n elements each time hence 
+Time = O(N*N!) 
+Space = O(N)
+
 * return or add to result only when the size = arr.length
 * start the for loop from zero to length always because it contains all elements in the subset
 * skip the element if it is already present in the subset
