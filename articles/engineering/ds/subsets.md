@@ -3,7 +3,11 @@
 This is one of the most frequently asked interview question in a coding interview.
 There are many different ways this problem can be solved, but if you start from the powerset solution approach to knapsack approach, 
 you will enable yourself in solving multiple different types of subsets problem with ease.
-I am sharing two approach that you should or must know for an interview environment here. 
+I am sharing two approach that you should or must know for an interview environment here.
+
+Note : Time complexity for the loop is 2^n and we copy n elements each time hence 
+Time = O(N*2^N) 
+Space = O(N)
 
 **Cascading approach :**
 
