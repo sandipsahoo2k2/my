@@ -178,6 +178,7 @@ class Solution {
 }
 
 ```
+**For input="ABC" this is how call stack looks**
 
 <img width="616" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/4f142849-e8b6-45b8-9496-9decec3b1de5">
 
