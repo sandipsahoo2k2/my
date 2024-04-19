@@ -117,6 +117,42 @@ private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] 
 }
 ```
 
+This problem can also be solved **using a HashSet** _without using sorting_ in the beginning :
+
+```
+class Solution {
+
+    HashSet <List<Integer>> set = new HashSet<>(); // <== see hashSet outside the method
+
+    public List<List<Integer>> permuteUnique(int[] nums) {
+        boolean used[] = new boolean[nums.length];
+        // <== no sorting
+        permute(new ArrayList<Integer>(),nums, used);
+        return new ArrayList(set);
+    }
+    
+    public void permute(List<Integer> permutation, int []nums,  boolean used[]){
+                
+        if(permutation.size() == nums.length){
+            set.add(new ArrayList<Integer>(permutation));
+            return;
+        }
+
+        for(int i = 0; i < nums.length; i++){
+            if(!used[i]){ // <== no complex condition
+                permutation.add(nums[i]);
+                used[i] = true;
+                permute(permutation, nums, used);
+                permutation.remove(permutation.size()-1);
+                used[i] =false;
+            }
+
+        }
+        
+    }
+}
+```
+
 [**Combination Sum**](https://leetcode.com/problems/combination-sum/)
 
 ```
