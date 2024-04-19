@@ -73,6 +73,10 @@ public void backtrack(int[] nums, int start, List<Integer> temp, List<List<Integ
         }
 
         for(int i = start; i < nums.length ; i++) {
+
+            //<== Here check conditions when required
+            //<== e.g isPalindrome to list all palindrome combinations
+
             temp.add(nums[i]) ;
             backtrack(nums, i + 1, temp, result) ;
             temp.remove(temp.size() - 1) ;
@@ -91,7 +95,7 @@ I tried my best to show you how the algorithm evolved and shared here [all diffe
 
 Some leetcode problems solved using these templates : https://youtube.com/watch?v=siNWNRgtlEk
 
-**Backtracking approach to find permutations:**
+**Backtracking approach to find permutations: Time O(n*n!), Space O(n) **
 
 If you look closely permutations is list of subsets by swaping numbers with all elements of the array.
 By twiking the above backtracking code little bit we can form all permutations.
@@ -99,7 +103,9 @@ By twiking the above backtracking code little bit we can form all permutations.
 * start the for loop from zero to length always because it contains all elements in the subset
 * skip the element if it is already present in the subset
 
-This is how code loooks :
+Note : For Combination, return when size = k.
+
+This is how permute code looks :
 
 ```
 void backtrack(int[]nums, int start, List<Integer> temp, List<List<Integer>> result) {
@@ -122,3 +128,5 @@ void backtrack(int[]nums, int start, List<Integer> temp, List<List<Integer>> res
         return result;
     }
 ```
+
+To know more on different backtracking techniques on permutations and combinations read https://interviewdose.com/articles/engineering/backtracking_template
