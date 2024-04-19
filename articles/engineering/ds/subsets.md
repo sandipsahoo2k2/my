@@ -129,4 +129,39 @@ void backtrack(int[]nums, int start, List<Integer> temp, List<List<Integer>> res
     }
 ```
 
+**Backtracking-ii approach with swap find permutations: Time O(n*n!), Space O(n)**
+using swap method we can write this code too here is the example
+
+```
+class Solution {
+    public void swap(int[] arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+
+    public void backtrack(int[] arr, int start, List<List<Integer>> result) {
+        if (start == arr.length) {
+            result.add(Arrays.stream(arr).boxed().collect(Collectors.toList()));
+        }
+
+        for (int i = start; i < arr.length; i++) {
+            swap(arr, start, i); //swap current with next
+            backtrack(arr, start + 1, result); //<== recurse next element
+            swap(arr, start, i); //swap current with next
+        }
+    }
+
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>() ;
+        backtrack(nums, 0, result) ;
+        return result ;
+    }
+}
+
+```
+
+<img width="616" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/4f142849-e8b6-45b8-9496-9decec3b1de5">
+
+
 To know more on different backtracking techniques on permutations and combinations read https://interviewdose.com/articles/engineering/backtracking_template
