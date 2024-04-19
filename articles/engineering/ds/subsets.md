@@ -148,7 +148,7 @@ class Solution {
         for (int i = start; i < arr.length; i++) {
             swap(arr, start, i); //swap current with next
             backtrack(arr, start + 1, result); //<== recurse next element
-            swap(arr, start, i); //swap current with next
+            swap(arr, start, i); //backtrack
         }
     }
 
