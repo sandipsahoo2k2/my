@@ -87,6 +87,38 @@ public void backtrack(int[] nums, int start, List<Integer> temp, List<List<Integ
     }
 ```
 
-I tried my best to show you how the algorithm evolved and shared [all different ways to return subsets](https://www.youtube.com/watch?v=-UhqRVFnwOY).
+I tried my best to show you how the algorithm evolved and shared here [all different ways to return subsets](https://www.youtube.com/watch?v=-UhqRVFnwOY).
 
 Some leetcode problems solved using these templates : https://youtube.com/watch?v=siNWNRgtlEk
+
+**Backtracking approach to find permutations:**
+
+If you look closely permutations is list of subsets by swaping numbers with all elements of the array.
+By twiking the above backtracking code little bit we can form all permutations.
+* return or add to result only when the size = arr.length
+* start the for loop from zero to length always because it contains all elements in the subset
+* skip the element if it is already present in the subset
+
+This is how code loooks :
+
+```
+void backtrack(int[]nums, int start, List<Integer> temp, List<List<Integer>> result) {
+        if(temp.size() == nums.length) { //<== See when size = length
+            result.add(temp) ;
+            return ;
+        }
+
+        for(int i = 0; i < nums.length;i++) { // <== start always from zero
+            if (temp.contains(nums[i])) continue ; // <== skip if element exists in the subset
+            temp.add(nums[i]);
+            backtrack(nums, i + 1, new ArrayList<>(temp), result);
+            temp.remove(temp.size() - 1) ;
+        }
+    }
+
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>() ;
+        backtrack(nums, 0, new ArrayList<>(), result);
+        return result;
+    }
+```
