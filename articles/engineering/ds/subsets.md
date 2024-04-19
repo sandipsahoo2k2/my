@@ -114,6 +114,15 @@ Space = O(N)
 
 Note : For Combination, return when size = k.
 
+```
+                        [1,2,3]
+
+        [1,2,3]		[2,1,3]		[3,1,2]
+
+[1,2,3]	[1,3,2]     [2,1,3][2,3,1]      [3,1,2][3,2,1] //<== 3! permutations
+
+```
+
 This is how permute code looks :
 
 ```
