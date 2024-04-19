@@ -95,7 +95,7 @@ I tried my best to show you how the algorithm evolved and shared here [all diffe
 
 Some leetcode problems solved using these templates : https://youtube.com/watch?v=siNWNRgtlEk
 
-**Backtracking approach to find permutations: Time O(n*n!), Space O(n) **
+**Backtracking approach to find permutations: Time O(n*n!), Space O(n)**
 
 If you look closely permutations is list of subsets by swaping numbers with all elements of the array.
 By twiking the above backtracking code little bit we can form all permutations.
