@@ -5,7 +5,8 @@
 ![aws_design](https://github.com/sandipsahoo2k2/my/assets/5547869/85063839-5cc0-4e86-93f8-ffae01490747)
 
 ## Design a Event driven system with Microservices
-<img width="783" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/12eb18ce-adfd-4ea9-93a1-45a8e4fea5e2">
+<img width="828" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/60320ed5-4998-4a79-a002-f919008a6a78">
+
 
 
 ## References
