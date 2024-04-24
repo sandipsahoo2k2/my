@@ -13,4 +13,5 @@
 * [https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws](https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws)
 * [https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023](https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023)
 * [https://aws.amazon.com/blogs/architecture/](https://aws.amazon.com/blogs/architecture/)
+* https://www.hiredintech.com/system-design/
 * https://www.youtube.com/playlist?list=PLJo-rJlep0EDFw7t0-IBHffVYKcPMDXHY
