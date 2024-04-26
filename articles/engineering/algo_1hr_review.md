@@ -320,25 +320,14 @@ Here are some common operations and how they can be achieved easily:
 
 Most languages don't have a built-in Queue class which can be used, and candidates often use arrays (JavaScript) or lists (Python) as a queue. However, note that the dequeue operation (assuming the front of the queue is on the left) in such a scenario will be O(n) because it requires shifting of all other elements left by one. In such cases, you can flag this to the interviewer and say that you assume that there's a queue data structure to use which has an efficient dequeue operation.
 
-## Interval
+## Intervals
 
-### Sort the array of intervals by its starting point
-A common routine for interval questions is to sort the array of intervals by each interval's starting value. This step is crucial to solving the Merge Intervals question.
+Tricks to solve such problems are
+1) sort by first index - most of the times use priority Queue to do this
+2) merge blindly and compare if the result is a valid interval e.g a[0] <= b[0]
+3) For traversing always check with end value not first value 
 
-### Checking if two intervals overlap
-Be familiar with writing code to check if two intervals overlap.
-
-```python
-def is_overlap(a, b):
-  return a[0] < b[1] and b[0] < a[1]
-```
-Trick to remember: both the higher pos must be greater then both lower pos.
-
-Merging two intervals
-```python
-def merge_overlapping_intervals(a, b):
-  return [min(a[0], b[0]), max(a[1], b[1])]
-```
+[Interview Dose](https://interviewdose.com/articles/engineering/ds/merge_intervals)
 
 ## Tree
 
