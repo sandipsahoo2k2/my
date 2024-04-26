@@ -50,5 +50,19 @@ Leetcode practice 1 : https://leetcode.com/problems/interval-list-intersections/
 
 Leetcode practice 2 : https://leetcode.com/problems/merge-intervals/
 
-Watch this : https://youtu.be/vjMMBIfvXxI
+Watch this meeting rooms problem : https://youtu.be/vjMMBIfvXxI
+
+==> Never forget to set the prev interval to curr in the while loop :)
+
+```java
+  int[] prev = pq.poll() ;
+  while(!pq.isEmpty()) {
+      int[] curr = pq.poll() ;
+      if(curr[0] < prev[1]) {
+          return false ;
+      }
+      prev = curr ; // very very important
+  }
+```
+
 
