@@ -46,3 +46,7 @@ int[] overlap = mergeInterval(first, second) ;
   }
 ```
 
+Leetcode practice 1 : https://leetcode.com/problems/interval-list-intersections/
+Leetcode practice 2 : https://leetcode.com/problems/interval-list-intersections/
+Watch this : https://leetcode.com/problems/meeting-rooms
+
