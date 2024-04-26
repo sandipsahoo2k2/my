@@ -41,4 +41,4 @@ You might be sometimes asked which row and column the input will go and sit then
    
 4. Remember the syntax for inbuilt binarySearch(anArray) method if time doesn't permit use this method - when you are solving a big problem.
 
-5. 
+5. Always remember to check the index is bound inside the window in a while loop - while(j > 0 && i + 1 < arr.length )
