@@ -28,10 +28,16 @@ boolean isOverlap(int[]first, int[]second):
 
 Trick to remember: both the higher pos must be greater then ( or equal to ) both lower pos.
 
-Merging two intervals
+Intersection two intervals
+```java
+int[] intersection(int[]first, int[]second):
+  return new int[]{Math.max(first[0], second[0]), Math.min(first[1], second[1])} ;
+```
+
+Merging two intervals ( just opposit careful )
 ```java
 int[] mergeInterval(int[]first, int[]second):
-  return new int[]{Math.max(first[0], second[0]), Math.min(first[1], second[1])} ;
+  return new int[]{Math.min(first[0], second[0]), Math.max(first[1], second[1])} ;
 ```
 
 ### Simpler way to check interval overlap
