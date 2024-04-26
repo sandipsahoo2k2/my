@@ -1,10 +1,7 @@
 ## Why page one ?
 Sometimes what looks simple is hard in an interview environment, so I thought adding few important basics that may be helpful should I add here.
 
-1. If your preferred language to code is java ( not python ) then you need to know few basics dealing with arrays.
-   
-* 
-
+1. If your preferred language to code is java ( not python ) then you need to remember few basics to work with arrays. 
 Here is a simple program to do batch processing for a job. This is actually a very practical problem that we build time to time.
 
 Write a method to count number of inputs in each bucket that you create according to their face value.
@@ -39,3 +36,9 @@ You might be sometimes asked which row and column the input will go and sit then
 > row = key / bucket_size
 > 
 > col = key % bucket_size
+
+2. For sorting ararys with premitive which is quite common use Arrays.sort(anArray) but for reverse sort its not possible even with Arrays.sort(data, Collections.reverseOrder()) so use Arrays.stream(anArray).boxed().toArray(Integer[]::new) then sort.
+   
+4. Remember the syntax for inbuilt binarySearch(anArray) method if time doesn't permit use this method - when you are solving a big problem.
+
+5. 
