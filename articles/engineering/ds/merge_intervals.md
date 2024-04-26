@@ -1,7 +1,7 @@
 ## Merge Intervals
 
 Tricks to solve such problems are
-1) sort by first index - most of the times use priority Queue to do this
+1) sort by first index - most of the times use &#9758; priority Queue to do this
 2) merge blindly and compare if the result is a valid interval e.g a[0] <= b[0]
 3) For traversing always check with end value not first value e.g a[1] < b[1] then i++
 ```java
@@ -36,7 +36,7 @@ int[] mergeInterval(int[]first, int[]second):
 
 ### Simpler way to check interval overlap
 
-Blindly merge the two intervals by mergeInterval() then check if result is a valid interval 
+&#9758; Blindly merge the two intervals by mergeInterval() then check if result is a valid interval 
 e.g a[0] <= b[0]
 
 ```java
@@ -52,7 +52,7 @@ Leetcode practice 2 : https://leetcode.com/problems/merge-intervals/
 
 Watch this meeting rooms problem : https://youtu.be/vjMMBIfvXxI
 
-==> Never forget to set the prev interval to curr in the while loop :)
+&#9758; Never forget to set the prev interval to curr in the while loop :)
 
 ```java
   int[] prev = pq.poll() ;
