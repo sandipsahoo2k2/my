@@ -55,7 +55,7 @@ int[] overlap = intersection(first, second) ; //find intersection
   }
 ```
 
-### High Probability Quetions
+### High Probability Questions
 Merge Interval - Use Array Sort : https://leetcode.com/problems/merge-intervals/ (vimp) 
 
 Intersection interval - Use PQ Sort : https://leetcode.com/problems/interval-list-intersections/
