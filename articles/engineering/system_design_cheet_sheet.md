@@ -1,5 +1,6 @@
 ## How to system design a problem statement
-System design is a very broad problem, There is no right or wrong answer, with modern technologies and tools everything can be build with following very simple to complex patterns. Interviewers expections is to gaze how much expreince you have from this kind of questions. Here you can talk about 0 to z but its timed. Hence it's easy to miss many aspects but if you follow this structured 5 step approach you will be able to cover most of your thought process.
+System design is a very broad problem, There is no right or wrong answer, with modern technologies and tools everything can be build with following very simple to complex patterns. Interviewers expections is to gaze how much expreince you have from this kind of questions. Here you can talk about 0 to z but it's timed. Hence it's easy to miss many aspects. Hence
+follow this structured 5 step approach you will be able to cover most of your thought process.
 
 ### Follow a simple 5 step process for your design interviews
 
