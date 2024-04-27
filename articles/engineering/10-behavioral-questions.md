@@ -38,7 +38,7 @@
 
 ## 7. Tell me a time when you came up with a new approach to a problem
   - Situation - Shared Settings / Creating reports 
-  - Task - Create my first report in the team
+  - Task - Had to Create my first report in the team
   - Action - Built a framework
   - Result - 100 reports 60% less time
 
