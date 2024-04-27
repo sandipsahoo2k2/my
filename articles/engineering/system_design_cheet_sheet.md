@@ -54,3 +54,5 @@ System design is a very broad problem, There is no right or wrong answer, with m
 * [https://aws.amazon.com/blogs/architecture/](https://aws.amazon.com/blogs/architecture/)
 * https://www.hiredintech.com/system-design/
 * https://www.youtube.com/playlist?list=PLJo-rJlep0EDFw7t0-IBHffVYKcPMDXHY
+
+1. Design a Parking lot : https://youtu.be/rl_FPNCgbYA
