@@ -46,7 +46,7 @@ int[] mergeInterval(int[]first, int[]second):
 ### Simpler way to check interval overlap
 
 &#9758; Blindly intersect the two intervals by intersection() then check if result is a valid interval 
-e.g a[0] <= b[0]
+e.g a[0] <= b[1] start is less than end
 
 ```java
 int[] overlap = intersection(first, second) ; //find intersection
