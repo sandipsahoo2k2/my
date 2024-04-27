@@ -1,9 +1,11 @@
-## Merge Intervals
+## Meeting Intervals
 
 Tricks to solve such problems are
-1) sort by first index - most of the times use &#9758; priority Queue to do this
-2) merge blindly and compare if the result is a valid interval e.g a[0] <= b[0]
-3) For traversing always check with end value not first value e.g a[1] < b[1] then i++
+1) Sort by first index - most of the times use &#9758; Priority Queue
+3) Merge blindly and compare if the result is a valid interval e.g a[0] <= b[0]
+4) For traversing always check with end value not first value e.g a[1] < b[1] then i++
+5) &#9758; One special case, When you [merge intervals](https://leetcode.com/problems/merge-intervals) - use array sort, merge by reference, add curr interval to result.
+   
 ```java
   if(first[1] < second[1]) {
       i++ ;
@@ -42,23 +44,26 @@ int[] mergeInterval(int[]first, int[]second):
 
 ### Simpler way to check interval overlap
 
-&#9758; Blindly merge the two intervals by mergeInterval() then check if result is a valid interval 
+&#9758; Blindly intersect the two intervals by intersection() then check if result is a valid interval 
 e.g a[0] <= b[0]
 
 ```java
-int[] overlap = mergeInterval(first, second) ;
+int[] overlap = intersection(first, second) ; //find intersection
   if(overlap[0] <= overlap[1]) { <== look how simple just check if valid interval
     result.add(overlap) ;
   }
 ```
 
-Leetcode practice 1 : https://leetcode.com/problems/interval-list-intersections/
+### High Probability Quetions
+Merge Interval - Use Array Sort : https://leetcode.com/problems/merge-intervals/ (vimp) 
 
-Leetcode practice 2 : https://leetcode.com/problems/merge-intervals/
+Intersection interval - Use PQ Sort : https://leetcode.com/problems/interval-list-intersections/
 
 Watch this meeting rooms problem : https://youtu.be/vjMMBIfvXxI
 
 &#9758; Never forget to set the prev interval to curr in the while loop :)
+
+Meeting rooms - Use PQ Sort - https://leetcode.com/problems/meeting-rooms
 
 ```java
   int[] prev = pq.poll() ;
@@ -70,5 +75,7 @@ Watch this meeting rooms problem : https://youtu.be/vjMMBIfvXxI
       prev = curr ; // very very important
   }
 ```
+
+Meeting rooms ii - Use Array sort with PQ Sort - https://leetcode.com/problems/meeting-rooms-ii/
 
 
