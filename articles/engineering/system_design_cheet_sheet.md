@@ -3,7 +3,7 @@ System design is a very broad problem, There is no right or wrong answer, with m
 
 ### Follow a simple 5 step process for your design interviews
 
-(Act as he is your product manager and you are an expert in this field)
+(Act as he/she is your product manager and you are an expert in this field)
 
 1. Define the requirement - ask questions
     - Functional Requirements
