@@ -42,4 +42,11 @@
   - Action - Built a framework
   - Result - 100 reports 60% less time
 
+## 6. What's your strength and weakness
+  - Situation -
+  - Task - 
+  - Action -
+  - Result -
+
+
 
