@@ -11,6 +11,7 @@
 (Act as he is your product manager and you are an expert in this field)
 
 * Define the requirement - ask questions
+  - Functional Requirements
   - in the scope
     1. - create / add
     2. - update
@@ -19,9 +20,13 @@
   - out of scope
     - ?
     - ?
+  - > Non Functional Requirement ( This can add estimation ) 
+    1. Availibility - HA - 99.999% - ( talk about cost / saving if you can )
+    2. Latency - which service needs what - read / write overall heavy ? 
+    3. Scale - go to estimation ->
 * Do some estimation
   - how many users are going to use the service ( Daily Active User )
-  - Per second is DAU / 100k ? 1mil / 100,k = 10
+  - Per second is DAU / 100k ? 1 mil / 100,k = 10
   - how long will you store the data ( TTL )
 
 * Define some API -> for API Gateway CRUD + extra feature specific
@@ -30,7 +35,7 @@
   - Start with simple
   - add components as you talk
   - Deep dive one component if you have done something similar
-
+  - MAKE SURE DO A DRY RUN FROM START to END FOR IMP FUNCTIONAL REQUIREMENTS
 
 ## References
 * [https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws](https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws)
