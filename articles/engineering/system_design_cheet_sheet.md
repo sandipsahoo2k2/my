@@ -57,4 +57,4 @@ follow this structured 5 step approach you will be able to cover most of your th
 * https://www.youtube.com/playlist?list=PLJo-rJlep0EDFw7t0-IBHffVYKcPMDXHY
 
 My Videos:
-1. Design a Parking lot : [https://youtu.be/rl_FPNCgbYA](https://youtu.be/rl_FPNCgbYA){:target="_blank"}
+1. Design a Parking lot : <a href="https://youtu.be/rl_FPNCgbYA" target="_blank">https://youtu.be/rl_FPNCgbYA</a>
