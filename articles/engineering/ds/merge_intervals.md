@@ -4,7 +4,8 @@ Tricks to solve such problems are
 1) Sort by first index - most of the times use &#9758; Priority Queue
 3) Merge blindly and compare if the result is a valid interval e.g a[0] <= b[0]
 4) For traversing always check with end value not first value e.g a[1] < b[1] then i++
-5) &#9758; One special case, When you [merge intervals](https://leetcode.com/problems/merge-intervals) - use array sort, merge by reference, add curr interval to result.
+
+&#9758; One special case, When you [merge intervals](https://leetcode.com/problems/merge-intervals) - use array sort then merge by reference with prev and add curr interval to result.
    
 ```java
   if(first[1] < second[1]) {
