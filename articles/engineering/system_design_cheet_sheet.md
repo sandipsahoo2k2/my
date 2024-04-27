@@ -56,4 +56,5 @@ follow this structured 5 step approach you will be able to cover most of your th
 * https://www.hiredintech.com/system-design/
 * https://www.youtube.com/playlist?list=PLJo-rJlep0EDFw7t0-IBHffVYKcPMDXHY
 
-1. Design a Parking lot : https://youtu.be/rl_FPNCgbYA
+My Videos:
+1. Design a Parking lot : [https://youtu.be/rl_FPNCgbYA](https://youtu.be/rl_FPNCgbYA){:target="_blank"}
