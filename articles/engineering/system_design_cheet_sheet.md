@@ -4,9 +4,32 @@
 ## AWS example
 ![aws_design](https://github.com/sandipsahoo2k2/my/assets/5547869/85063839-5cc0-4e86-93f8-ffae01490747)
 
-## Design a Event driven system with Microservices
+## Design a Event driven system with Microservices ( TikTok )
 <img width="828" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/60320ed5-4998-4a79-a002-f919008a6a78">
 
+## Follow a simple 5 step process
+(Act as he is your product manager and you are an expert in this field)
+
+* Define the requirement - ask questions
+  - in the scope
+    1. - create / add
+    2. - update
+    3. - delete
+    4. - read - heavy ? Mostly all systems - ( except some financial systems )
+  - out of scope
+    - ?
+    - ?
+* Do some estimation
+  - how many users are going to use the service ( Daily Active User )
+  - Per second is DAU / 100k ? 1mil / 100,k = 10
+  - how long will you store the data ( TTL )
+
+* Define some API -> for API Gateway CRUD + extra feature specific
+* Design the Data Models - DB Tables - User Table - Order Table etc
+* Final - Draw the design
+  - Start with simple
+  - add components as you talk
+  - Deep dive one component if you have done something similar
 
 
 ## References
