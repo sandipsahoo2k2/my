@@ -76,7 +76,7 @@
       <td>
         <a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a>
         <a href="/articles/engineering/ds/binary_trees" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: yellow;"></i>
         </a>
       </td>
       <td>
