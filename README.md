@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=mN7YcWj08-M" target="_blank">Interval intersections</a>
+        <a href="https://youtube.com/embed/mN7YcWj08-M" target="_blank">Interval intersections</a>
         <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
