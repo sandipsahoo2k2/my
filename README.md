@@ -28,7 +28,7 @@
     <tr>
       <td><a href="https://youtube.com/embed/vh1AciQLF5w" target="_blank">Range Sum of BST</a>
         <a href="/articles/engineering/ds/binary_trees" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td><a href="https://youtube.com/embed/DfDep1TtzeE" target="_blank">Next permutation</a></td>
@@ -37,13 +37,13 @@
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">*Level order traversal</a>
       <a href="/articles/engineering/ds/binary_trees" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
       </a>
       </td>
       <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
       <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a>
         <a href="/articles/engineering/ds/binary_trees" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
     </tr>
@@ -52,7 +52,7 @@
       <td>
         <a href="https://youtube.com/embed/vjMMBIfvXxI" target="_blank">Meeting rooms</a>
         <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td><a href="https://youtube.com/embed/8KGSnEQ9s8Q" target="_blank">Decode ways</a></td>
@@ -72,7 +72,7 @@
       <td>
         <a href="https://youtube.com/embed/EIfDP5GH7Vs" target="_blank">Serialize & Deserialize binary tree</a>
         <a href="/articles/engineering/ds/binary_trees" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
     </tr>
@@ -80,7 +80,7 @@
       <td>
         <a href="https://youtube.com/embed/mN7YcWj08-M" target="_blank">Interval intersections</a>
         <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
-          <i class="fa-solid fa-note-sticky" style="color: yellow;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Check if two strings are anagram</a></td>
