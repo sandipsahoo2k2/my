@@ -54,7 +54,8 @@ int[] overlap = intersection(first, second) ; //find intersection
     result.add(overlap) ;
   }
 ```
-Watch this video for solving an intersection problem : https://www.youtube.com/watch?v=mN7YcWj08-M
+
+Watch this video to learn how intersection problem is solved : https://youtu.be/mN7YcWj08-M
 ### High Probability Questions
 Merge Interval - Use Array Sort : https://leetcode.com/problems/merge-intervals/ (vimp) 
 
