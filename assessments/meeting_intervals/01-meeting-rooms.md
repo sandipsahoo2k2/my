@@ -6,5 +6,5 @@ What's the basic strategy for solving meeting interval questions ?
 - A) Sorting the given array by start time
 - B) Sorting the given array by end time
 - C) Sorting with Priority Queue by their start time
-- D) Both A and C can work but always use sort with Array as the first step
+- D) Both A and C can work but always use sort the input Array as the first step
 - E) All of the above
