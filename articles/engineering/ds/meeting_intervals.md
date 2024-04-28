@@ -78,6 +78,7 @@ Meeting rooms - Use PQ Sort - https://leetcode.com/problems/meeting-rooms
 ```
 
 Meeting rooms ii - Use Array sort with PQ Sort - https://leetcode.com/problems/meeting-rooms-ii/
-https://youtu.be/mN7YcWj08-M
+
+Meeting rooms ii Solution : https://youtu.be/mN7YcWj08-M
 
 
