@@ -80,14 +80,14 @@
       <td>
         <a href="https://youtube.com/embed/mN7YcWj08-M" target="_blank">Interval intersections</a>
         <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-solid fa-note-sticky" style="color: yellow;"></i>
         </a>
       </td>
       <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Check if two strings are anagram</a></td>
       <td>
         <a href="https://youtube.com/embed/u0J17e8477U" target="_blank">Serialize & Deserialize N-ary tree</a>
         <a href="/articles/engineering/ds/binary_trees" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-solid fa-note-sticky" style="color: yellow;"></i>
         </a>
       </td>
     </tr>
