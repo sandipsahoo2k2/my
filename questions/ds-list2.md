@@ -116,7 +116,10 @@
     </tr>
     <tr>
       <td>
-        <a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a>
+        <a href="https://youtu.be/Mfd3EDnJejY" target="_blank">Meeting rooms ii</a>
+        <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
       </td>
       <td>
         <a href="https://interviewdose.com/i/articles/engineering/ds/binary_search" target="_blank">First and Last element</a>
