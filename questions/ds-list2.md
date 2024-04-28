@@ -123,6 +123,9 @@
       </td>
       <td>
         <a href="https://interviewdose.com/i/articles/engineering/ds/binary_search" target="_blank">First and Last element</a>
+        <a href="/articles/engineering/ds/binary_search" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: yellow;"></i>
+        </a>
       </td>
     </tr>
     <tr>
