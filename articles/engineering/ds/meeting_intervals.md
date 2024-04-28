@@ -56,7 +56,7 @@ int[] overlap = intersection(first, second) ; //find intersection
   }
 ```
 
-<a href="https://youtu.be/mN7YcWj08-M" target="_blank">Watch this video to learn how intersection problem is solved</a>
+<a href="https://youtu.be/mN7YcWj08-M" target="_blank">Learn how interval intersection problems are solved</a>
 ### High Probability Questions
 Merge Interval - Use Array Sort : https://leetcode.com/problems/merge-intervals/ (vimp) 
 
