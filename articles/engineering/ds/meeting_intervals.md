@@ -58,13 +58,13 @@ int[] overlap = intersection(first, second) ; //find intersection
 
 [Learn how interval intersection problems are solved](https://youtu.be/mN7YcWj08-M)
 ### High Probability Questions
-Merge Interval - Use Array Sort : https://leetcode.com/problems/merge-intervals (vimp) 
+Merge Interval - Use Array Sort, work on reference and prev pointers : https://leetcode.com/problems/merge-intervals (vimp) 
 
-Intersection interval - Use PQ Sort : https://leetcode.com/problems/interval-list-intersections/
+Intersection interval - Blind intersect and traverse the entire array : https://leetcode.com/problems/interval-list-intersections
 
 &#9758; Never forget to set the prev interval to curr in the while loop :)
 
-Meeting rooms - Use PQ Sort - https://leetcode.com/problems/meeting-rooms
+Meeting rooms - detect a overlap and return - https://leetcode.com/problems/meeting-rooms
 
 ```java
   int[] prev = pq.poll() ;
@@ -77,7 +77,7 @@ Meeting rooms - Use PQ Sort - https://leetcode.com/problems/meeting-rooms
   }
 ```
 
-Meeting rooms ii - Use Array sort with PQ Sort - https://leetcode.com/problems/meeting-rooms-ii/
+Meeting rooms ii - Use Array sort with PQ Sort with endTime - https://leetcode.com/problems/meeting-rooms-ii
 
 [Meeting rooms ii Solution](https://youtu.be/Mfd3EDnJejY)
 
