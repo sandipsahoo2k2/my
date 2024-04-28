@@ -16,14 +16,24 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://youtube.com/embed/jZ5Vi2w1WUo" target="_blank">Sum of Left leaves</a></td>
+      <td>
+        <a href="https://youtube.com/embed/jZ5Vi2w1WUo" target="_blank">Sum of Left leaves</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td><a href="https://youtube.com/embed/HGnHfU3cHc8" target="_blank">Minm Size sub array sum</a></td>
       <td><a href="https://youtube.com/embed/CynfIgY6Aek" target="_blank">Sliding window max</a></td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
       <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
-      <td><a href="https://youtube.com/embed/0EjPBPRLyjE" target="_blank">Distance of node from root</a></td>
+      <td>
+        <a href="https://youtube.com/embed/0EjPBPRLyjE" target="_blank">Distance of node from root</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
@@ -32,12 +42,29 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a></td>
-      <td><a href="https://youtube.com/embed/0EjPBPRLyjE?start=4" target="_blank">*Total distance of a Tree</a></td>
-      <td><a href="https://youtube.com/embed/_KAjEdomX7M" target="_blank">Sum of distances in Tree</a></td>
+      <td>
+          <a href="https://youtube.com/embed/0EjPBPRLyjE?start=4" target="_blank">*Total distance of a Tree</a>
+          <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          </a>
+      </td>
+      <td>
+        <a href="https://youtube.com/embed/_KAjEdomX7M" target="_blank">Sum of distances in Tree</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
-      <td><a href="https://youtube.com/embed/eDsc4Mce0LQ?start=20" target="_blank">Word break</a></td>
+      <td>
+        <a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
+      <td>
+        <a href="https://youtube.com/embed/eDsc4Mce0LQ?start=20" target="_blank">Word break</a>
+      </td>
       <td><a href="https://youtube.com/embed/HLOwaCIN3S4" target="_blank">Word break II</a></td>
     </tr>
     <tr>
@@ -46,16 +73,40 @@
       <td><a href="https://youtube.com/embed/F5ylYjN40WY" target="_blank">Dice Roll</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a></td>
-      <td><a href="https://youtube.com/embed/HmZSrU21lrQ?start=39" target="_blank">Reverse link list</a></td>
-      <td><a href="https://youtube.com/embed/W0PTd05dZJQ" target="_blank">Distance of a node from root</a></td>
+      <td>
+        <a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
+      <td>
+        <a href="https://youtube.com/embed/HmZSrU21lrQ?start=39" target="_blank">Reverse link list</a>
+      </td>
+      <td>
+        <a href="https://youtube.com/embed/W0PTd05dZJQ" target="_blank">Distance of a node from root</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a></td>
-      <td><a href="https://youtube.com/embed/4baFHiSEkgg?end=1704" target="_blank">* Create BST from sorted list</a></td>
+      <td>
+        <a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
+      <td>
+        <a href="https://youtube.com/embed/4baFHiSEkgg?end=1704" target="_blank">* Create BST from sorted list</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a></td>
+      <td>
+        <a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a>
+        <a href="/articles/engineering/ds/binary_search" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td>
         <a href="https://youtube.com/embed/I6viYY0mS6I?start=581" target="_blank">Binary Search</a>
         <a href="/articles/engineering/ds/binary_search" style="backgroound">
@@ -64,15 +115,24 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a></td>
-      <td><a href="https://interviewdose.com/i/articles/engineering/ds/binary_search" target="_blank">First and Last element</a></td>
+      <td>
+        <a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a>
+      </td>
+      <td>
+        <a href="https://interviewdose.com/i/articles/engineering/ds/binary_search" target="_blank">First and Last element</a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
       <td><a href="https://youtube.com/embed/cQRBzejYzEo" target="_blank">Daily temperatures</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/Wrjg_nKEbzw" target="_blank">Find the max element in a binary tree</a></td>
+      <td>
+        <a href="https://youtube.com/embed/Wrjg_nKEbzw" target="_blank">Find the max element in a binary tree</a>
+        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td><a href="https://youtube.com/embed/JcUj2X-gLrA?start=74" target="_blank">Add two numbers (list)</a></td>
     </tr>
     <tr>
