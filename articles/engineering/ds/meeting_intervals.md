@@ -27,7 +27,7 @@ Be familiar with writing code to check if two intervals overlap.
 
 ```java
 boolean isOverlap(int[]first, int[]second):
-  return first[0] < second[1] and second[0] < first[1]
+  return first[0] < second[1] && second[0] < first[1]
 ```
 
 Trick to remember: both the higher pos must be greater then ( or equal to ) both lower pos.
