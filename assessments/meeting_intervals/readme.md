@@ -1,4 +1,5 @@
-## Meeting interval questions
+<!-- Knowledge Check | Meeting Interval | pass=100% | Certificate -->
+## Meeting intervals
 
 Meeting intervals questions are one of the most popular question types for coding interviews. 
 Usually the question input contains array of intervals e.g int[][] intervals.
