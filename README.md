@@ -49,7 +49,12 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
-      <td><a href="https://youtube.com/embed/vjMMBIfvXxI" target="_blank">Meeting rooms</a></td>
+      <td>
+        <a href="https://youtube.com/embed/vjMMBIfvXxI" target="_blank">Meeting rooms</a>
+        <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td><a href="https://youtube.com/embed/8KGSnEQ9s8Q" target="_blank">Decode ways</a></td>
     </tr>
     <tr>
