@@ -54,7 +54,7 @@ int[] overlap = intersection(first, second) ; //find intersection
     result.add(overlap) ;
   }
 ```
-
+Watch this video for solving an intersection problem : https://www.youtube.com/watch?v=mN7YcWj08-M
 ### High Probability Questions
 Merge Interval - Use Array Sort : https://leetcode.com/problems/merge-intervals/ (vimp) 
 
@@ -78,5 +78,6 @@ Meeting rooms - Use PQ Sort - https://leetcode.com/problems/meeting-rooms
 ```
 
 Meeting rooms ii - Use Array sort with PQ Sort - https://leetcode.com/problems/meeting-rooms-ii/
+https://youtu.be/mN7YcWj08-M
 
 
