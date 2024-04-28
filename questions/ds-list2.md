@@ -116,7 +116,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://youtu.be/Mfd3EDnJejY" target="_blank">Meeting rooms ii</a>
+        <a href="https://youtube.com/embed/Mfd3EDnJejY" target="_blank">Meeting rooms ii</a>
         <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
