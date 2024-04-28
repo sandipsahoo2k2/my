@@ -76,7 +76,7 @@
       <td>
         <a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a>
         <a href="/articles/engineering/ds/binary_trees" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: yellow;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td>
@@ -104,7 +104,7 @@
       <td>
         <a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a>
         <a href="/articles/engineering/ds/binary_search" style="backgroound">
-          <i class="fa-solid fa-note-sticky" style="color: #FFD43B;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td>
@@ -118,13 +118,13 @@
       <td>
         <a href="https://youtube.com/embed/Mfd3EDnJejY" target="_blank">Meeting rooms ii</a>
         <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
-          <i class="fa-solid fa-note-sticky" style="color: #FFD43B;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td>
         <a href="https://interviewdose.com/i/articles/engineering/ds/binary_search" target="_blank">First and Last element</a>
         <a href="/articles/engineering/ds/binary_search" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: yellow;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
     </tr>
