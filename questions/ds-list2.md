@@ -104,13 +104,13 @@
       <td>
         <a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a>
         <a href="/articles/engineering/ds/binary_search" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-solid fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td>
         <a href="https://youtube.com/embed/I6viYY0mS6I?start=581" target="_blank">Binary Search</a>
         <a href="/articles/engineering/ds/binary_search" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-solid fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
     </tr>
@@ -118,7 +118,7 @@
       <td>
         <a href="https://youtube.com/embed/Mfd3EDnJejY" target="_blank">Meeting rooms ii</a>
         <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-solid fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td>
