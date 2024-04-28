@@ -21,6 +21,7 @@ A common routine for interval questions is to **sort the array of intervals by e
   Array.sort(intervals, (a, b) -> (a[0] - b[0]) ;
 ```
 
+<a href="https://youtu.be/vjMMBIfvXxI" target="_blank">Watch this easy meeting rooms problem</a>
 ### Checking if two intervals overlap
 Be familiar with writing code to check if two intervals overlap.
 
@@ -55,13 +56,11 @@ int[] overlap = intersection(first, second) ; //find intersection
   }
 ```
 
-Watch this video to learn how intersection problem is solved : https://youtu.be/mN7YcWj08-M
+<a href="https://youtu.be/mN7YcWj08-M" target="_blank">Watch this video to learn how intersection problem is solved</a>
 ### High Probability Questions
 Merge Interval - Use Array Sort : https://leetcode.com/problems/merge-intervals/ (vimp) 
 
 Intersection interval - Use PQ Sort : https://leetcode.com/problems/interval-list-intersections/
-
-Watch this meeting rooms problem : https://youtu.be/vjMMBIfvXxI
 
 &#9758; Never forget to set the prev interval to curr in the while loop :)
 
@@ -80,6 +79,6 @@ Meeting rooms - Use PQ Sort - https://leetcode.com/problems/meeting-rooms
 
 Meeting rooms ii - Use Array sort with PQ Sort - https://leetcode.com/problems/meeting-rooms-ii/
 
-Meeting rooms ii Solution : https://youtu.be/mN7YcWj08-M
+<a href="https://youtu.be/Mfd3EDnJejY" target="_blank">Meeting rooms ii Solution</a>
 
 
