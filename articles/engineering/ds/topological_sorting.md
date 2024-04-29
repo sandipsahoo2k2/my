@@ -26,10 +26,10 @@ S: O(V + E)
 For a prerequisites[][] which has n directed edges e[1] -> e[0], this is how you would create a graph.
 
 ```java
-    int[] inDegrees = new int[numCourses] ;
-     for(int[] pair : prerequisites){
-         inDegrees[pair[0]] ++ ;
-         graph[pair[1]].add(pair[0]) ;
+    int[] inDegrees = new int[numOfTasks] ;
+     for(int[] edge : tasks){
+         inDegrees[edge[0]] ++ ;
+         graph[edge[1]].add(edge[0]) ;
      }
 ```
 Practice questions :
