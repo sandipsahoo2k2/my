@@ -23,7 +23,7 @@ Because for an interview environment its easy to explain. It's by default linear
 T: O(V + E) where V = number of vertices and E is number of edges  
 S: O(V + E)
 
-For a prerequisites[][] this is how you would create a graph
+For a prerequisites[][] which has n directed edges e[0] -> e[1] , this is how you would create a graph.
 
 ```java
     int[] inDegrees = new int[numCourses] ;
