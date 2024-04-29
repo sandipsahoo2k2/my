@@ -1,7 +1,7 @@
-## Why page one ?
+## Why page one for java engineers ?
 Sometimes what looks simple is hard in an interview environment, so I thought adding few important basics that may be helpful should I add here.
 
-1. If your preferred language to code is java ( not python ) then you need to remember few basics to work with arrays. 
+If your preferred language to code is java ( not python ) then you need to remember few basics to work with arrays. 
 Here is a simple program to do batch processing for a job. This is actually a very practical problem that we build time to time.
 
 Write a method to count number of inputs in each bucket that you create according to their face value.
