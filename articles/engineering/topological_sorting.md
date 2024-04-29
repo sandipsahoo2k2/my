@@ -20,7 +20,8 @@ Because for an interview environment its easy to explain. It's by default linear
      if( inDegree == 0) -> add it to the queue
 4. finally the result contains the vertex in order.
 
-Create adgecency list:
+For a prerequisites[][] this is how you would create a graph
+
 ```java
     int[] inDegrees = new int[numCourses] ;
      for(int[] pair : prerequisites){
