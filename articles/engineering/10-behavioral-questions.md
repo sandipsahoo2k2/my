@@ -48,5 +48,19 @@
   - Action -
   - Result -
 
+## 9. Describe a time when you set your sights too high. 
+  - Situation -
+  - Task - 
+  - Action -
+  - Result -
+    
+Chat GPT - I suppose one time I set my sights too high was when I tried to learn several complex subjects simultaneously. I was eager to expand my knowledge across multiple domains all at once—programming languages, advanced mathematics, philosophy, and literature, to name a few. While the ambition was admirable, I found myself overwhelmed and unable to make significant progress in any one area. It taught me the importance of focus and prioritization, as trying to master too much at once can often lead to burnout and frustration. It's better to tackle one thing at a time with full dedication rather than spreading yourself too thin.
+
+## 10. Tell me about a difficult decision you've made in the last year.
+ - Situation -
+  - Task - 
+  - Action -
+  - Result -
+
 
 
