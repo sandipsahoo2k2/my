@@ -17,8 +17,11 @@ Because for an interview environment its easy to explain. It's by default linear
       > poll from the quque <-- add it to the result  
       > for each child of the nodes neighbours  
       >> decrement inDegree count <-- important  
-      >> if( inDegree == 0) -> add it to the queue  
+      >> if( inDegree == 0) -> add it to the queue
 4. finally the result contains the vertex in order.
+
+T: O(V + E) where V = number of vertices and E is number of edges  
+S: O(V + E)
 
 For a prerequisites[][] this is how you would create a graph
 
