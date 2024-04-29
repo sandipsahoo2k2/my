@@ -32,9 +32,9 @@ For a prerequisites[][] this is how you would create a graph
          graph[pair[1]].add(pair[0]) ;
      }
 ```
-
-* Leetcode problem to practice i: https://leetcode.com/problems/course-schedule
-* Leetcode problem to practice ii: https://leetcode.com/problems/course-schedule-ii
+Practice questions :
+* [Check if it is possible to finish all courses](https://leetcode.com/problems/course-schedule)
+* [return the topological ordering](https://leetcode.com/problems/course-schedule-ii)
 
 
 
