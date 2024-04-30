@@ -64,7 +64,7 @@ Watch in detailed about this approach in this [Video 1](https://www.youtube.com/
 ```
 
 Using the same exotic search we can find the minm index in a rotated array 
-&#128073; condition here is if  nums[mid] > nums[end) check if the mid value is greater than last element
+&#128073; condition here is if nums[mid] > nums[end) check if the mid value is greater than greatest element
 ```java
 	int end = nums.length - 1; // <==== See this end
 	while(start < end) {
@@ -75,6 +75,20 @@ Using the same exotic search we can find the minm index in a rotated array
 		end = mid ;
 	    }
 	}
+```
+
+So search in a rotated array will look like this :
+```
+public int search(int[] nums, int target) {
+	int min = bMin(nums) ;
+	// Binary search from min to end
+	int found = exoticBSearch(nums, min, nums.length, target);
+	if(found == -1) {
+	    // if not found from o to min
+	    found = exoticBSearch(nums, 0, min, target);
+	}
+	return found ;
+}
 ```
 
 Further evidence [Video 2](https://youtu.be/flc19LGlCDE)
