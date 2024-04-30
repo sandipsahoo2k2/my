@@ -14,72 +14,73 @@ Matrix traversals are nothing but graph traversal. The reason is simple each ele
 ```java
 class Solution {
 
-    private final int[] DIRX = {-1, 1, 0, 0}; 
-    private final int[] DIRY = {0, 0, -1, 1}; 
-
-    public int shortestBridge(int[][] grid) {
-        var q = new ArrayDeque<int[]>();
-
-        firstIsland(grid, q);
-
-        int dist = 0, N = grid.length;
-
-        // BFS for shortest path
-        while(!q.isEmpty()) {
-
-            for (int i = 0, Q = q.size(); i < Q; ++i) { // process each node for current level
-                var xy = q.poll();
-
-                for (var d = 0; d < 4; ++d) {
-                    var x = xy[0] + DIRX[d];
-                    var y = xy[1] + DIRY[d];
-                
-                    if (isOut(N, x, y)) // if out skip current (x, y)
-                        continue;
-                
-                    if (grid[x][y] == 1) // if island reached return distance
-                        return dist;
-                    
-                    if (grid[x][y] == 0) {      // if not seen add to queue
-                        q.add(new int[]{x, y});
-                        grid[x][y] = -1;
-                    }                    
-                }      
-            }
-
-            ++dist;
-        }
-
-        return dist;
+    int[][] getDirections(){
+        return new int[][]{{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
     }
 
-    private void firstIsland(int[][] grid, Deque<int[]> q) {
-        for (var i = 0; i < grid.length; ++i) {
-            for (var j = 0; j < grid.length; ++j) {
-                if (grid[i][j] == 1) {
-                    // dfs to add starting nodes for BFS
-                    dfs(grid, q, i, j);
-                    return;
+    boolean isValid(int i, int j, int[][] grid) {
+        if(i < 0 || j < 0 || i >= grid.length || j >= grid[i].length) {
+            return false ;
+        }
+        return true ;
+    }
+
+    void dfs(int[][] grid, int i, int j, Queue<int[]> dq){
+        if(!isValid(i,j, grid)) {
+            return ;
+        }
+        if(grid[i][j] != 1){
+            return ;
+        }
+
+        grid[i][j] = -1 ; //visited
+        dq.add(new int[]{i, j});
+
+        for(int[] pair : getDirections()){
+            dfs(grid, i + pair[0], j + pair[1], dq);
+        }
+    }
+
+    public int shortestBridge(int[][] grid) {
+        Queue<int[]> dq = new ArrayDeque<>() ;
+        boolean found = false ;
+        for(int i = 0 ;!found && i < grid.length ; i ++) {
+            for(int j = 0 ; j < grid[i].length ; j++) {
+                if(grid[i][j] == 1) {
+                    dfs(grid, i, j, dq) ;
+                    found = true ;
+                    break ;
                 }
             }
         }
-    }
 
-    private void dfs(int[][] grid, Deque<int[]> q, int i, int j) {
-        if (isOut(grid.length, i, j) || grid[i][j] != 1)
-            return;
+        int step = 0 ;
+        while(!dq.isEmpty()) {
+            int size = dq.size() ;
+            for(int i = 0 ; i < size ; i++) {
+                int[] node = dq.poll() ;
+                for(int[] pair : getDirections()){
+                    int x = node[0] + pair[0] ;
+                    int y = node[1] + pair[1] ;
+                    if(!isValid(x,y, grid)){
+                        continue ;
+                    }
 
-        grid[i][j] = -1;
-        q.add(new int[]{i, j});
+                    if(grid[x][y] == 1) { //reached the 2nd iLand
+                        return step ;
+                    }
 
-        dfs(grid, q, i - 1, j);
-        dfs(grid, q, i + 1, j);
-        dfs(grid, q, i, j - 1);
-        dfs(grid, q, i, j + 1);
-    }
-
-    private boolean isOut(int N, int i, int j) {
-        return i < 0 || i >= N || j < 0 || j >= N;
+                    //as 0 are the path we are taking to reach to 2nd iland
+                    //check only zero as here <- be careful
+                    if (grid[x][y] == 0) {  // if not seen add to queue
+                        dq.offer(new int[]{x, y});
+                        grid[x][y] = -1; //set visited
+                    }
+                }
+            }
+            ++ step ;
+        }
+        return step ;
     }
 }
 ```
