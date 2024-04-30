@@ -29,7 +29,7 @@ class Solution {
         if(!isValid(i,j, grid)) {
             return ;
         }
-        if(grid[i][j] != 1){ <<-- LOOK this
+        if(grid[i][j] != 1){ <<-- Always Use this to check zero or visited
             return ;
         }
 
