@@ -1,7 +1,9 @@
-## Matrix Traversal
+## Graph Traversal
 
-Matrix traversals nothing but graph traversal. The reason is simple each element can be treated as vertex and all of it's neighbours are cells sitting to it's 4 directions.
-To solve such problems we can follow either DFS or BFS approach.
+For Graph traversals, we can follow either DFS or BFS approach.
+
+Many of the matrix traversal questions fall under graph traversal category.
+Matrix traversals are nothing but graph traversal. The reason is simple each element can be treated as vertex and all of it's neighbours are cells sitting to it's 4 directions.
 
 - When ever question asks about finding a max use DFS
 - When ever question asks about finding a min use BFS ( using queue -> find total number of levels to reach the node )
