@@ -55,7 +55,7 @@ Cycle in a Circular Array (hard)
 
 The Merge Intervals pattern is an efficient technique to deal with overlapping intervals. In a lot of problems involving intervals, you either need to find overlapping intervals or merge intervals if they overlap. 
 
-Learn the exact techniques on how to solve such problems https://interviewdose.com/articles/engineering/ds/meeting_intervals
+[Learn these exotic techniques to solve such problems](https://interviewdose.com/articles/engineering/ds/meeting_intervals)
 
 ## 4. In-place reversal of linked list
 
