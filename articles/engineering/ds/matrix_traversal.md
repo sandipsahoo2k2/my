@@ -33,9 +33,23 @@ Spiral order hence :
 
 Check an invalid cell : 
 * Create a method to check an invalid cell
+```
+boolean isValid(int row, int col, int[][]matrix) {
+        if(row < 0 || col < 0 || row >= matrix.length || col >= matrix[row].length) {
+            return false ;
+        }
+        //Check if its visited in this method its cool and return false
+        return true ;
+    }
+```
 
 For every such problem : 
 * We must use a visited set to track the visited cells
+```
+ if(matrix[row][col] == Integer.MIN_VALUE) { //set visited with
+   return false ;
+ }
+```
 
 Handle an invalid move :
 * We have to do use a modulo % on the direction to start when we hit the boundary
@@ -43,16 +57,6 @@ Handle an invalid move :
 
 Here is our solutiuon :
 ```
-boolean isValid(int row, int col, int[][]matrix) {
-        if(row < 0 || col < 0 || row >= matrix.length || col >= matrix[row].length) {
-            return false ;
-        }
-        if(matrix[row][col] == Integer.MIN_VALUE) {
-           return false ;
-        }
-        return true ;
-    }
-
     public List<Integer> spiralOrder(int[][] matrix) {
 
         List<Integer> result = new ArrayList<>() ;
