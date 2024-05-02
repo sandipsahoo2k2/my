@@ -53,27 +53,27 @@ boolean isInvalid(int row, int col, int[][]matrix) {
     public List<Integer> spiralOrder(int[][] matrix) {
 
         List<Integer> result = new ArrayList<>() ;
-        int rowDir[] = new int[]{0, 1, 0, -1};
-        int colDir[] = new int[]{1, 0, -1, 0};
+        int direction[][] = new int[][]{{0,1},{1,0},{0,-1},{-1,0}};
 
         int totalNumbers = matrix.length * matrix[0].length ;
         int count = 0, row = 0, col = 0 ;
-        int dirIndex = 0 ; // start from 0 so +1 to mod
+        int dirIndex = 0 ;// start from 0 so +1 to mod
 
         while(count++ < totalNumbers) {
             result.add(matrix[row][col]) ;
-            matrix[row][col] = 1000 ; //set visited
-            row = row + rowDir[dirIndex] ;
-            col = col + colDir[dirIndex] ;
+            matrix[row][col] = 1000 ;
+
+            row = row + direction[dirIndex][0] ;
+            col = col + direction[dirIndex][1] ;
             if(isInvalid(row, col, matrix)) {
                 //bring inside boundary
-                row = row - rowDir[dirIndex] ;
-                col = col - colDir[dirIndex] ;
+                row = row - direction[dirIndex][0] ;
+                col = col - direction[dirIndex][1] ;
                 //fix the direction
                 dirIndex = (dirIndex + 1) % 4 ;
                 //move the cell for the wrong move
-                row = row + rowDir[dirIndex] ;
-                col = col + colDir[dirIndex] ;
+                row = row + direction[dirIndex][0] ;
+                col = col + direction[dirIndex][1] ;
             }
         }
         return result ;
