@@ -35,7 +35,7 @@ Check an invalid cell :
 * Create a method to check an invalid cell
 
 For every such problem : 
-* We must use a visited set to track the visisted cells
+* We must use a visited set to track the visited cells
 
 Handle an invalid move :
 * We have to do use a modulo % on the direction to start when we hit the boundary
@@ -43,11 +43,14 @@ Handle an invalid move :
 
 Here is our solutiuon :
 ```
-boolean isInvalid(int row, int col, int[][]matrix) {
-        if(row < 0 || col < 0 || row >= matrix.length || col >= matrix[row].length || matrix[row][col] == 1000) {
-            return true ;
+boolean isValid(int row, int col, int[][]matrix) {
+        if(row < 0 || col < 0 || row >= matrix.length || col >= matrix[row].length) {
+            return false ;
         }
-        return false ;
+        if(matrix[row][col] == Integer.MIN_VALUE) {
+           return false ;
+        }
+        return true ;
     }
 
     public List<Integer> spiralOrder(int[][] matrix) {
@@ -61,11 +64,11 @@ boolean isInvalid(int row, int col, int[][]matrix) {
 
         while(count++ < totalNumbers) {
             result.add(matrix[row][col]) ;
-            matrix[row][col] = 1000 ;
+            matrix[row][col] = Integer.MIN_VALUE ;
 
             row = row + direction[dirIndex][0] ;
             col = col + direction[dirIndex][1] ;
-            if(isInvalid(row, col, matrix)) {
+            if(!isValid(row, col, matrix)) {
                 //bring inside boundary
                 row = row - direction[dirIndex][0] ;
                 col = col - direction[dirIndex][1] ;
@@ -80,3 +83,52 @@ boolean isInvalid(int row, int col, int[][]matrix) {
     }
 ```
 [Video reference](https://youtu.be/J8TkpdvbRcE)
+
+## Diagonal Traverse
+
+```
+Input: mat = [1,2,3]
+             [4,5,6]
+             [7,8,9]]
+Output: [1,2,4,7,5,3,6,8,9]
+```
+
+[Practice link](https://leetcode.com/problems/diagonal-traverse)
+
+If you look at this problem you will see that they move diagonally. 1st up and then down and then up again and continue this zig zag run.
+We can solve this problem using a simple approach traversing the matrix always in one direction and copying and reversing the elements when we go up isn't it. To further optmise it, we can **_use an ArrayDeque_** and we don't need to reverse it.
+
+This is my solution :
+```java
+public ArrayDeque<Integer> collect(int[][] mat, int i, int j, boolean up) {
+
+        ArrayDeque<Integer> adq = new ArrayDeque<>() ;
+        while(isValid(mat,i ,j)){
+            System.out.println("mat[" + i + "," + j + "] = " + mat[i][j]);
+            if(up) {
+                adq.addFirst(mat[i][j]);
+            } else {
+                adq.addLast(mat[i][j]);
+            }
+            mat[i][j] = Integer.MIN_VALUE ;
+            i ++ ;
+            j -- ;
+        }
+        return adq ;
+    }
+
+    public int[] findDiagonalOrder(int[][] mat) {
+        List<Integer> result = new ArrayList<>();
+        boolean up = true ;
+        for(int i = 0 ; i < mat.length ; i++) {
+            for(int j = 0 ; j < mat[i].length ; j++) {
+                if(mat[i][j] != Integer.MIN_VALUE) {
+                    ArrayDeque<Integer> temp = collect(mat, i , j, up) ;
+                    result.addAll(temp) ;
+                    up = !up ;
+                }
+            }
+        }
+        return result.stream().mapToInt(i -> i).toArray() ;
+    }
+```
