@@ -104,7 +104,6 @@ public ArrayDeque<Integer> collect(int[][] mat, int i, int j, boolean up) {
 
         ArrayDeque<Integer> adq = new ArrayDeque<>() ;
         while(isValid(mat,i ,j)){
-            System.out.println("mat[" + i + "," + j + "] = " + mat[i][j]);
             if(up) {
                 adq.addFirst(mat[i][j]);
             } else {
