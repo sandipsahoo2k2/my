@@ -1,6 +1,6 @@
 ## Exciting News!
 
-We're thrilled to announce a fantastic new feature on **InterviewDose.com**: Text-to-Speech Capability!
+We're thrilled to announce a fantastic new feature on **InterviewDose**: Text-to-Speech Capability!
 
 Now, accessing our insightful articles and resources is easier than ever. Whether you're on the go, multitasking, or simply prefer to listen, our website now offers the convenience of converting text content into spoken words.
 
