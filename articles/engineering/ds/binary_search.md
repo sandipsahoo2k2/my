@@ -50,9 +50,9 @@ Watch in detailed about this approach in this [Video 1](https://www.youtube.com/
 		int end = nums.length ;
 		while( start < end) {
 			int mid = start + (end - start) / 2 ;
-			if( nums[mid] < target) { // <== 
+			if( nums[mid] < target) { // <== less or greater here
 					start = mid + 1 ;
-			} else  { //make sure greater than and equal to condition stays here
+			} else  { //make sure equals to condition stays here
 					end = mid ;
 			}
 		}
