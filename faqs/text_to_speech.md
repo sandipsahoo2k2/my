@@ -1,4 +1,4 @@
-## 🎉 Exciting News! 🎉
+## Exciting News!
 
 We're thrilled to announce a fantastic new feature on **InterviewDose.com**: Text-to-Speech Capability!
 
