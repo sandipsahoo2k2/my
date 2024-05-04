@@ -1,6 +1,6 @@
 # Draft Notice
 
-🚧 **This page is currently a draft!** 🚧
+🚧 **This page is currently marked as draft!** 🚧
 
 Dear Reader,
 
