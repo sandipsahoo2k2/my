@@ -1,5 +1,4 @@
 ## My Contacts
-- [Let's talk](https://topmate.io/ersandeep)
 - https://www.youtube.com/interviewdose?sub_confirmation=1
 - https://www.facebook.com/interviewdose
 - [Join Chat](https://discord.gg/hEw7kbwu)
