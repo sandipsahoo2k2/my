@@ -17,4 +17,4 @@
     <img width="294" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/c86cbcfc-ae0e-4105-8dee-bb25b3e32a2c">
   </a>
   
-  **Book New 1:1**
+  **Book your 1:1**
