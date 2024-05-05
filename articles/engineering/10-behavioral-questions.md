@@ -87,5 +87,11 @@ This question allows you to get insight into how the candidate works under press
 
 This question is about getting a sense of the candidate’s growth mindset – whether they’re invested in continuous learning and personal improvement. Drill down into how and where they go to stay up-to-date.
 
+## Areas of improvement ?
 
+## time i had disaggrtement with stake holders ?
+
+## times i had disaggrement wiht team memeber ?
+
+## time when the project was delayed ?
 
