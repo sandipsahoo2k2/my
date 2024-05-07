@@ -33,6 +33,7 @@ For a prerequisites[][] which has n directed edges e[1] -> e[0], this is how you
      }
 ```
 Practice questions :
+* Learn step by step : https://youtu.be/N4jQQPg1tvA
 * [Check if it is possible to finish all courses](https://leetcode.com/problems/course-schedule)
 * [return the topological ordering](https://leetcode.com/problems/course-schedule-ii)
 
