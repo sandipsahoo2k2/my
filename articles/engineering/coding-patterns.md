@@ -13,9 +13,9 @@ The problem input is a linear data structure such as a linked list, array, or st
 You’re asked to find the longest/shortest substring, subarray, or a desired value
 Common problems you use the sliding window pattern with:
 
-Maximum sum subarray of size ‘K’ (easy)
-Longest substring with ‘K’ distinct characters (medium)
-String anagrams (hard)
+Maximum sum subarray of size ‘K’ (easy)  
+Longest substring with ‘K’ distinct characters (medium)  
+String anagrams (hard)  
 
 Refer : https://interviewdose.com/articles/engineering/ds/sliding_window
 
