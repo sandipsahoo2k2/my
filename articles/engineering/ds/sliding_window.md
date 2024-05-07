@@ -38,6 +38,7 @@ Try to write the code follow the exact steps given here and solve this first.
 Practice link : https://leetcode.com/problems/max-consecutive-ones/
 Note : Use condition for the while loop  `while(zeroCount == 1)`
 
+```
 public int longestOnes(int[] nums) {
         int left = 0 ;
         int zeroCount  = 0 ;
@@ -49,7 +50,7 @@ public int longestOnes(int[] nums) {
             }
 
             //we are bringing left pointer to zero when we see a zero.
-            while(zeroCount == k + 1) {
+            while(zeroCount == 1) { <== look at this
                 if(nums[left] == 0) {
                     zeroCount -- ;
                 }
@@ -67,6 +68,6 @@ public int longestOnes(int[] nums) {
 Now try this problem : https://leetcode.com/problems/max-consecutive-ones-iii
 By Changing the condition of while loop to `while(zeroCount == k + 1)`
 
-Watch this video for indepth explanations :
+Watch these videos for indepth explanations and more problems:
 1. https://youtu.be/HGnHfU3cHc8
 2. https://youtu.be/CynfIgY6Aek
