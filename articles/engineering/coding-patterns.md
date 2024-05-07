@@ -168,6 +168,8 @@ K Pairs with Largest Sums (Hard)
 
 Topological Sort is used to find a linear ordering of elements that have dependencies on each other. For example, if event ‘B’ is dependent on event ‘A’, ‘A’ comes before ‘B’ in topological ordering.
 
+Refer : https://interviewdose.com/articles/engineering/ds/topological_sorting
+
 How to identify the Topological Sort pattern:
 
 The problem will deal with graphs that have no directed cycles
