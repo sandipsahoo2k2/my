@@ -17,6 +17,8 @@ Maximum sum subarray of size ‘K’ (easy)
 Longest substring with ‘K’ distinct characters (medium)
 String anagrams (hard)
 
+Refer : https://interviewdose.com/articles/engineering/ds/sliding_window
+
 ## 2. Two Pointers, Fast and Slow pointers
 
 Two Pointers is a pattern where two pointers iterate through the data structure in tandem until one or both of the pointers hit a certain condition.Two Pointers is often useful when searching pairs in a sorted array or linked list; for example, when you have to compare each element of an array to its other elements.
