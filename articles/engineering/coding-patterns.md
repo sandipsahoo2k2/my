@@ -78,7 +78,22 @@ The Merge Intervals pattern is an efficient technique to deal with overlapping i
 
 In a lot of problems, you may be asked to reverse the links between a set of nodes of a linked list. Often, the constraint is that you need to do this in-place, i.e., using the existing node objects and without using extra memory. This is where the above mentioned pattern is useful.
 
-This pattern reverses one node at a time starting with one variable (current) pointing to the head of the linked list, and one variable (previous) will point to the previous node that you have processed. In a lock-step manner, you will reverse the current node by pointing it to the previous before moving on to the next node. Also, you will update the variable “previous” to always point to the previous node that you have processed.
+Refer : https://interviewdose.com/articles/engineering/ds/three_pointers
+SuccessSheet :
+```
+public ListNode fn(ListNode head) {
+    ListNode curr = head;
+    ListNode prev = null;
+    while (curr != null) {
+        ListNode nextNode = curr.next; //forward pointer
+        curr.next = prev;
+        prev = curr;
+        curr = nextNode;
+    }
+
+    return prev; <== return prev
+}
+```
 
 How do I identify when to use this pattern:
 
@@ -87,6 +102,7 @@ Problems featuring in-place reversal of linked list pattern:
 
 Reverse a Sub-list (medium)
 Reverse every K-element Sub-list (medium)
+
 ## 5. Tree BFS
 
 This pattern is based on the Breadth First Search (BFS) technique to traverse a tree and uses a queue to keep track of all the nodes of a level before jumping onto the next level. Any problem involving the traversal of a tree in a level-by-level order can be efficiently solved using this approach.
@@ -100,6 +116,7 @@ Problems featuring Tree BFS pattern:
 
 Binary Tree Level Order Traversal (easy)
 Zigzag Traversal (medium)
+
 ## 6. Tree DFS
 
 Tree DFS is based on the Depth First Search (DFS) technique to traverse a tree.
@@ -170,6 +187,25 @@ Problems featuring Top ‘K’ Elements pattern:
 Top ‘K’ Numbers (easy)
 Top ‘K’ Frequent Numbers (medium)
 K Pairs with Largest Sums (Hard)
+
+SuccessSheet:
+```
+public int[] fn(int[] arr, int k) {
+    PriorityQueue<Integer> heap = new PriorityQueue<>(CRITERIA);
+    for (int num: arr) {
+        heap.add(num);
+        if (heap.size() > k) {
+            heap.remove();
+        }
+    }
+
+    int[] ans = new int[k];
+    for (int i = 0; i < k; i++) {
+        ans[i] = heap.remove();
+    }
+    return ans;
+}
+```
 
 ## 10. Topological sort
 
