@@ -68,6 +68,30 @@ public int longestOnes(int[] nums) {
 Now try this problem : https://leetcode.com/problems/max-consecutive-ones-iii  
 By Changing the condition of while loop to `while(zeroCount == k + 1)`
 
+**For fixed size windows** it is advisable to add the first k elements to the window and then run a foor loop  
+e.g Start by building the first window (from index 0 to k - 1). Once we have a window of size k, if we add an element at index i, we need to remove the element at index i - k. 
+Here is an example
+
+> Given an integer array nums and an integer k,
+> find the sum of the subarray with the largest sum whose length is k.
+
+```
+public int findBestSubarray(int[] nums, int k) {
+    int curr = 0;
+    for (int i = 0; i < k; i++) {
+        curr += nums[i];
+    }
+
+    int ans = curr;
+    for (int i = k; i < nums.length; i++) {
+        curr += nums[i] - nums[i - k];
+        ans = Math.max(ans, curr);
+    }
+
+    return ans;
+}
+```
+
 Watch these videos for indepth explanations and more problems:
 1. https://youtu.be/HGnHfU3cHc8
 2. https://youtu.be/CynfIgY6Aek
