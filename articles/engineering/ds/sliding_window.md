@@ -34,8 +34,8 @@ public int slidingWindow(int[] arr) {
 }
 ```
 
-Try to write the code follow the exact steps given here and solve this first.
-Practice link : https://leetcode.com/problems/max-consecutive-ones/
+Try to write the code follow the exact steps given here and solve this first.  
+Practice link : https://leetcode.com/problems/max-consecutive-ones/  
 Note : Use condition for the while loop  `while(zeroCount == 1)`
 
 ```
@@ -65,7 +65,7 @@ public int longestOnes(int[] nums) {
 
 ```
 
-Now try this problem : https://leetcode.com/problems/max-consecutive-ones-iii
+Now try this problem : https://leetcode.com/problems/max-consecutive-ones-iii  
 By Changing the condition of while loop to `while(zeroCount == k + 1)`
 
 Watch these videos for indepth explanations and more problems:
