@@ -132,6 +132,8 @@ and all the elements in its right subtree are greater than the node (>).
          We replace the node with **it's predecessor**.
 
   - **In-Order Successor**
+    
+    It is defined as the node next to the current node in the inorder traversal of tree.
 
     ```
     inOrderSuccessor(TreeNode node)
@@ -140,13 +142,15 @@ and all the elements in its right subtree are greater than the node (>).
           return minTree(node);
 
       //Look at this code below it's nothing but a linklist traversal and
-      //we are telling previous node is successor if curr node is parent
-      TreeNode prev = node ;
+      //We are telling previous node is successor if curr node is parent
+    
       TreeNode curr = node.parent ;
-      //go up the tree from node until we see a node that is the left child of it's parent
+      TreeNode prev = node ;
+    
+      //Go up the tree from node until we see a node that is the left child of it's parent
       while (curr != null && curr.left != prev) {
-          prev = node;
           curr = node.parent;
+    	  prev = node;
       }
       return curr;
     ```
