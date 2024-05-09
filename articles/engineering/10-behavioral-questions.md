@@ -11,7 +11,7 @@ I've been actively working on my delegation skills by seeking guidance from ment
 
 I've also been practicing delegating tasks in _small increments and providing clear instructions in the Jira.._
 
-2. **Removing Ambiguity**
+2. **Situation - Removing Ambiguity**
 As a senior engineer I always have to deal with a lot of ambiguity. At times when we don't clearly communicate or understand the requirement.
 
 I certainly should be able to provide clear direction and make informed decisions, especially when faced with uncertainty.
