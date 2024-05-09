@@ -1,4 +1,39 @@
 <!-- Draft -->
+## Areas of improvement ?
+
+1. **Situation - Delegation**
+I believe one area where I have room for improvement is **delegation** skills.
+
+I tend to take on a lot of responsibility to ensure things are done to my standards.
+However, I've become increasingly aware of the importance of delegation in maximizing team efficiency and fostering growth.
+
+I've been actively working on my delegation skills by seeking guidance from mentors Udemy..
+
+I've also been practicing delegating tasks in _small increments and providing clear instructions in the Jira.._
+
+2. **Removing Ambiguity**
+As a senior engineer I always have to deal with a lot of ambiguity. At times when we don't clearly communicate or understand the requirement.
+
+I certainly should be able to provide clear direction and make informed decisions, especially when faced with uncertainty.
+Craft a successsheet - Ask questions to Product Managers - 
+Estimation, Do you expect some change in UX, Who are our biggest customer, Beta Time line, Migration plan ( Internal,  Paying )
+   
+3. **Situation - AI integration**
+Recently we acquired Armorblox/Splunk. LLM and NLM Security company. We wanted to build AI Tools around security. I see the gap. I am up for learning.
+
+## Time I had disaggretement with stake holders ?
+Example for ASA Device Team - ( FTD is done ) They wanted us to create a dependency file for our users where as the knowledge is with them. ( Even if we would be able to do it - we still nedded someone to approve the final go )
+
+Cisco has a software download site ( It's secure ) bla bla
+We had to present the version information from the image and say what version they should upgrade to go to a new version.
+We had this requirement for upgrade devices - Where we would pull the image info and create a JSON and give it to our service so that it can presentable the info in a way that can be used by user to upgrade the image.
+It is usually a tediuous process for our team and ASA device team were not ready to do a very simple job from their end.
+
+## Time I had disaggrement with a team memeber ?
+
+
+## Time when the project was delayed ?
+
 ## 1. Tell me a time when you were not able to meet a time commitment
   - Situation - 
   - Task - 
@@ -85,19 +120,5 @@ This question allows you to get insight into how the candidate works under press
 
 ## How do you stay up to date with the latest technologies?
 
-This question is about getting a sense of the candidate’s growth mindset – whether they’re invested in continuous learning and personal improvement. Drill down into how and where they go to stay up-to-date.
-
-## Areas of improvement ?
-
-## Time I had disaggrtement with stake holders ?
-Example for ASA Device Team - ( FTD is done ) They wanted us to create a dependency file for our users where as the knowledge is with them. ( Even if we would be able to do it - we still nedded someone to approve the final go )
-
-Cisco has a software download site ( It's secure ) bla bla
-We had to present the version information from the image and say what version they should upgarde to go to a new version.
-We had this requirement for upgrade devices - Where we would pull the image info and create a JSON and give it to our service so that it can presentable the info in a way that can be used by user to upgrade the image.
-It is usually a tediuous process for our team and ASA device team were not ready to do a very simple job from their end.
-
-## Time I had disaggrement with a team memeber ?
-
-## Time when the project was delayed ?
+This question is about getting a sense of the candidate’s growth mindset – Whether they’re invested in continuous learning and personal improvement. Drill down into how and where they go to stay up-to-date.
 
