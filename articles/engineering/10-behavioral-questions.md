@@ -22,12 +22,16 @@ Estimation, Do you expect some change in UX, Who are our biggest customer, Beta 
 Recently we acquired Armorblox/Splunk. LLM and NLM Security company. We wanted to build AI Tools around security. I see the gap. I am up for learning.
 
 ## Time I had disaggretement with stake holders ?
-Example for ASA Device Team - ( FTD is done ) They wanted us to create a dependency file for our users where as the knowledge is with them. ( Even if we would be able to do it - we still nedded someone to approve the final go )
+1. **Situation - Automating the creation and maintainance of Version Dependency file for CDO**
+
+Example for ASA Device Team - They wanted us to create a dependency file for our users where as the knowledge is with them. ( Even if we would be able to do it - we still nedded someone to approve the final go )
 
 Cisco has a software download site ( It's secure ) bla bla
 We had to present the version information from the image and say what version they should upgrade to go to a new version.
 We had this requirement for upgrade devices - Where we would pull the image info and create a JSON and give it to our service so that it can presentable the info in a way that can be used by user to upgrade the image.
 It is usually a tediuous process for our team and ASA device team were not ready to do a very simple job from their end.
+
+2. 
 
 ## Time I had disaggrement with a team memeber ?
 
