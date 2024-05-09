@@ -31,8 +31,6 @@ We had to present the version information from the image and say what version th
 We had this requirement for upgrade devices - Where we would pull the image info and create a JSON and give it to our service so that it can presentable the info in a way that can be used by user to upgrade the image.
 It is usually a tediuous process for our team and ASA device team were not ready to do a very simple job from their end.
 
-2. 
-
 ## 3. Time I had disaggrement with a team memeber ?
 
 
