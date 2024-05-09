@@ -1,5 +1,5 @@
 <!-- Draft -->
-## Areas of improvement ?
+## 1. Areas of improvement ?
 
 1. **Situation - Delegation**
 I believe one area where I have room for improvement is **delegation** skills.
@@ -21,7 +21,7 @@ Estimation, Do you expect some change in UX, Who are our biggest customer, Beta 
 3. **Situation - AI integration**
 Recently we acquired Armorblox/Splunk. LLM and NLM Security company. We wanted to build AI Tools around security. I see the gap. I am up for learning.
 
-## Time I had disaggretement with stake holders ?
+## 2. Time I had disaggretement with stake holders ?
 1. **Situation - Automating the creation and maintainance of Version Dependency file for CDO**
 
 Example for ASA Device Team - They wanted us to create a dependency file for our users where as the knowledge is with them. ( Even if we would be able to do it - we still nedded someone to approve the final go )
@@ -33,10 +33,10 @@ It is usually a tediuous process for our team and ASA device team were not ready
 
 2. 
 
-## Time I had disaggrement with a team memeber ?
+## 3. Time I had disaggrement with a team memeber ?
 
 
-## Time when the project was delayed ?
+## 4. Time when the project was delayed ?
 
 ## 1. Tell me a time when you were not able to meet a time commitment
   - Situation - 
