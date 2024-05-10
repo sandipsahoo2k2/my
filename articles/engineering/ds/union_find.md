@@ -1,6 +1,6 @@
 ## Union Find
 
-Union find is a data structure used in graph problems to join disjoint sets/graphs and do some operation on a common characteristics.
+[Union find](https://www.youtube.com/watch?v=ayW5B2W9hfo) is a data structure used in graph problems to join disjoint sets/graphs and do some operation on a common characteristics.
 
 In simple terms try to visualise this like as if, you have more than one groups with different roots ( disjoint sets )
 and you want to group them together without loosing the root/parent property then use this strategy to union them into a single group.
@@ -24,8 +24,9 @@ String union(Node p, Node q) {
 }
 ```
 
-Leetcode problem : https://leetcode.com/problems/accounts-merge/ is classic example where you can use this union find algorithm to solve.
-This is my solution :
+Leetcode problem : https://leetcode.com/problems/accounts-merge/ is a classic example where you can use this union find algorithm find the result.
+
+This is how to solve this problem :
 1. Initialise the parents map for each email to itself
 2. Update each emails parents to it's group head/ representative -> to it's first email
 3. Once you have the group head set properly, just create a uninon with a map<Stirng, List/TreeSet<String>>
