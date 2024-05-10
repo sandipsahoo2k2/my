@@ -31,7 +31,7 @@ This is how to solve this problem :
 2. Update each emails parents to it's group head/ representative -> to it's first email
 3. Once you have the group head set properly, just create a uninon with a map<Stirng, List/TreeSet<String>>
 
-```
+```java
 class Solution {
 
     Map<String, String> owner = new HashMap<>();
