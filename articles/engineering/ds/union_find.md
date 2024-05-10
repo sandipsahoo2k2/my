@@ -46,7 +46,6 @@ class Solution {
         for (List<String> a : acts) {
             for (int i = 1; i < a.size(); i++) {
                 parents.put(a.get(i), a.get(i));
-                owner.put(a.get(i), a.get(0));
             }
         }
 
@@ -72,6 +71,7 @@ class Solution {
                 nodes.add(a.get(i));
             }
             unions.put(rep, nodes); //sorted group by parents map
+            owner.put(a.get(i), a.get(0));
         }
 
         //create result
