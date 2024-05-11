@@ -65,3 +65,5 @@ You might be sometimes asked which row and column the input will go and sit then
 6. To **convert a list** _to two dimentional array_ you can use toArray(new int[0][]) method <= look at the syntax.
 
 7. To **convert a list** _to one dimentional array_ of int -> `list.stream().mapToInt(i -> i).toArray()`
+
+8. When ever you need to use a frequency characters for english alphabets use int[] charFrequency = new int[128] <--- size = 128 because all valid characters will fit within ascii value 128 including lower case, upper case and numbers.
