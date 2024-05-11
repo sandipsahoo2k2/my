@@ -3,7 +3,7 @@ Sometimes what looks simple is hard in an interview environment, so I thought ad
 
 If your preferred language to code is java ( not python ) then you need to remember few basics mentioned below ( mostly for arrays operation ). 
 
-* Lets start with a **random()** method in java, it's one of the rarely used method the importance of it might be missed easily .  
+&#9758; Lets start with a **random()** method in java, it's one of the rarely used method the importance of it might be missed easily .  
 Math.random() returns a double value between 0 (including) and 1 (excluding). Use it whenever there is a problem with picking index or values with some probablity. For example if you want to find a a number between 0 to Size ( MaxValue ) with equal _probablity_ then use Math.random() * Size .
 
 * Write a random Function to that returns 0 or 1 with equal probability 
@@ -21,7 +21,7 @@ Given an input list of values [1, 9], when we pick up a number out of it, how wi
 
 So if you are asked to pick an index between 0 to n with with probability equal to their weight. then build a prefixSum array and search the target is Math.random() * totalSum. Then search this target in the prefixSum array. Solve this [leetcode problem](https://leetcode.com/problems/random-pick-with-weight) to have clear idea on such a problem.
 
-* Here is a simple program to do **batch processing** for a job. This is actually a very practical problem that we build time to time.
+&#9758;Here is a simple program to do **batch processing** for a job. This is actually a very practical problem that we build time to time.
 
 Write a method to count number of inputs in each bucket that you create according to their face value.
 So e.g If given facevalue of an input is 53 with bucket_size = 10 then it will go to the 6th bucket and any 
