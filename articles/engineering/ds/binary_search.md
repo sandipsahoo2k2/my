@@ -63,10 +63,18 @@ Watch in detailed about this approach in this [Video 1](https://www.youtube.com/
 	}
 ```
 
-Using the same exotic search we can find the minm index in a rotated array 
-&#128073; condition here is if nums[mid] > nums[end) check if the mid value is greater than greatest element
+Further evidence [Video 2](https://youtu.be/flc19LGlCDE)
+Practice This approach with [Medium Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+Watch this how we use exotic BS in [this hard problem](https://youtu.be/5PoVGnbju0Y) 
+Practice this [Hard problem from leetcode](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+
+## Rotated sorted array search
+Using the same exotic search we can find the minm index in a [rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+&#128073; condition here is if nums[mid] > nums[end) check if the mid value is greater than greatest element.
+
 ```java
-	int end = nums.length - 1; // <==== See this end
+	int end = nums.length - 1; // <==== See this end [ -1, not in exotic search ]
 	while(start < end) {
 	    int mid = start + (end - start) / 2 ;
 	    if(nums[mid] > nums[end]) { // <=== if mid greater than end [largest]
@@ -90,9 +98,3 @@ public int search(int[] nums, int target) {
 	return found ;
 }
 ```
-
-Further evidence [Video 2](https://youtu.be/flc19LGlCDE)
-Practice This approach with [Medium Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-
-Watch this how we use exotic BS in [this hard problem](https://youtu.be/5PoVGnbju0Y) 
-Practice this [Hard problem from leetcode](https://leetcode.com/problems/create-sorted-array-through-instructions/)
