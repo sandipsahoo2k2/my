@@ -3,7 +3,7 @@
 - https://www.facebook.com/interviewdose
 - [Join Chat](https://discord.gg/hEw7kbwu)
 - https://www.linkedin.com/in/sandeepsahoo
-- [Writers / Publishers](https://topmate.io/ersandeep/644263)
+- [Bloggers / Publishers](https://topmate.io/ersandeep/644263)
 
 **Don't miss a valuable time with me.**
   <!-- a href="https://topmate.io/ersandeep/396579">
