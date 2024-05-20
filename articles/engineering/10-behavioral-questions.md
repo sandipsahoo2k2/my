@@ -11,6 +11,8 @@ I've been actively working on my delegation skills by seeking guidance from ment
 
 I've also been practicing delegating tasks in _small increments and providing clear instructions in the Jira.._
 
+There is a saying 0 to 1 is my initiative but 1 to inf is leadership or delegation.
+
 2. **Situation - Removing Ambiguity**
 As a senior engineer I always have to deal with a lot of ambiguity. At times when we don't clearly communicate or understand the requirement.
 
