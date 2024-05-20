@@ -32,15 +32,30 @@ We had this requirement for upgrade devices - Where we would pull the image info
 It is usually a tediuous process for our team and ASA device team were not ready to do a very simple job from their end.
 
 ## 3. Time I had disaggrement with a team member ?
+* There was a situation when there was a problem when we were not deleting the Change Log for some devices. I was asked to fix  it.. It was not deleted because we never cerated it in the first place. I found that because of the reason we were deleting the devices references forcible hence the post processors were not called . I fixed it, it was deleted.
+  
+* Update settings using a framework which was done in the intial phase of the dev, premature lots of lots of unnecessary code. I found a simpler approach and also built and integrated my own framework which uses the one time parsed instance and added the capabilities to easily update the settings.
 
+* Creating a new API for migration was the idea of some people suggestions. Which was not atall a good idea because it adds a lots of extra work. exposing a functional end point of for a feature is not a good idea when its not used after the job is done.
+What I did was the use the existing framework but do the batch in backend instead of the UI framework.
 
 ## 4. Time when the project was delayed ?
+ASA Shared policy is a perfect example where I am working now.
+We had plenty of time and we estimated this to be as equal or less time as another feature called shared settings. 
+Similar work - create shared policy, share with other linked devices. Discovery  was not there where we dont have to deal with discoveing the devices with the same ploicy digest. The main problem here is Migartion of older devices to the newer policy.
+
+Upon researhing/spiking I got to know tht its not simple, we are going to affect the bread and butter of CDO. We have to be extra careful. We had to deal with clients with over 1500 devices also devices having thousands of lines of config.
+
+So I setup a plan 
+1 - UI migartion ( DO it yourself Migartion )
+2 - Internal Clients Migartion
+3- Paying customers
+4 - Paying customers with Devices more than 1000 devices.
+
+This task is going to be huge. every week we have relase and i have to co-ordinated with ops team for thursday migration.
 
 ## 1. Tell me a time when you were not able to meet a time commitment
-  - Situation - 
-  - Task - 
-  - Action -
-  - Result  -
+  Above is a greate example..
 
 ## 2. Tell me a time when you were stuck and how did you get wayout / unblocked
   - Situation - 
