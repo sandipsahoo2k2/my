@@ -41,6 +41,8 @@ It is usually a tediuous process for our team and ASA device team were not ready
 * Creating a new API for migration was the idea of some people suggestions. Which was not atall a good idea because it adds a lots of extra work. exposing a functional end point of for a feature is not a good idea when its not used after the job is done.
 What I did was the use the existing framework but do the batch in backend instead of the UI framework.
 
+* Using DynamoDB instead of the aws scheduler it self for storing the scheduled job information. it's redundant data.
+
 ## 4. Time when the project was delayed ?
 ASA Shared policy is a perfect example where I am working now.
 We had plenty of time and we estimated this to be as equal or less time as another feature called shared settings. 
