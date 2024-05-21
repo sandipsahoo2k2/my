@@ -67,3 +67,10 @@ You might be sometimes asked which row and column the input will go and sit then
 7. To **convert a list** _to one dimentional array_ of int -> `list.stream().mapToInt(i -> i).toArray()`
 
 8. When ever you need to use a frequency characters for english alphabets use int[] charFrequency = new int[128] <--- size = 128 because all valid characters will fit within ascii value 128 including lower case, upper case and numbers.
+9. You must know how to create numbers from string and also how to do add operations on string chars. [Practice this prolem](https://leetcode.com/problems/add-strings)
+    
+   > e.g where x1 = '2' and x2 = '8'
+   > 
+   > int value = (x1 + x2 + carry) % 10;
+   > 
+   > carry = (x1 + x2 + carry) / 10;
