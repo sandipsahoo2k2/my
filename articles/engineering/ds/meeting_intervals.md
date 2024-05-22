@@ -81,4 +81,20 @@ Meeting rooms ii - Use Array sort with PQ Sort with endTime - https://leetcode.c
 
 [Meeting rooms ii Solution](https://youtu.be/Mfd3EDnJejY)
 
+#### Generic Overlap Method
+Take a look at a better **Generic Overlap** method that should be used for all such problems
 
+```
+int[] overlap(int[] prev, int[] curr){ //[1,4],[2,3]
+        int start = Math.max(prev[0], curr[0]); //2
+        int end = Math.min(prev[1], curr[1]); //3
+
+        int startMin = Math.min(prev[0], curr[0]); //1
+        int endMax = Math.max(prev[1], curr[1]); //4
+        return new int[]{start, end, startMin, endMax} ;
+    }
+```
+* Look at this method return, test with [1,2][3,4] -> will return [start, end] = [3,2] which is _an invalid entry_ which can be tested by `if(start <= end)` ( as not valid ), which tells that they don't intersect .
+  
+* But now test with [1,4],[3,5] -> will return [start, end] = [3,4] which is valid which means they intersect and if you want to merge them you can use [startMin, endMax] for your answer which is [1,5] .
+* But now test with [1,4],[2,3] -> will return [start, end] = [2,3] which is valid means they intersect and if you want to merge them you can use [startMin, endMax] for your answer which is [1,4] .
