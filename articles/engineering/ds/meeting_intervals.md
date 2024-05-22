@@ -86,10 +86,11 @@ Meeting rooms ii - Use Array sort and PriorityQ Sort with endTime - https://leet
   > we can make use of a min-heap to store the end times of the meetings in various rooms.
   So, every time we want to check if any room is free or not, simply check the topmost element of the min heap as that would be the
   room that would get free the earliest out of all the other rooms currently occupied.
-
-If the room we extracted from the top of the min heap isn't free, then no other room is. So, we can save time here and simply allocate a new room.
-
-[Meeting rooms ii Solution](https://youtu.be/Mfd3EDnJejY)
+  >
+  >If the room we extracted from the top of the min heap isn't free, then no other room is.
+  >So, we can save time here and simply allocate a new room.
+  
+&#9758; [Here is the indepth explanation for this problem](https://youtu.be/Mfd3EDnJejY)
 
 #### Generic Overlap Method
 Take a look at a better **Generic Overlap** method that should be used for all such problems
