@@ -77,7 +77,17 @@ Meeting rooms - detect a overlap and return - https://leetcode.com/problems/meet
   }
 ```
 
-Meeting rooms ii - Use Array sort with PQ Sort with endTime - https://leetcode.com/problems/meeting-rooms-ii
+Meeting rooms ii - Use Array sort and PriorityQ Sort with endTime - https://leetcode.com/problems/meeting-rooms-ii
+
+* How to explain this problem is important
+  >There are two scenarios possible here for any meeting. Either there is no meeting room available and a new one has to be allocated,
+  or a meeting room has freed up and this meeting can take place there.
+  >
+  > we can make use of a min-heap to store the end times of the meetings in various rooms.
+  So, every time we want to check if any room is free or not, simply check the topmost element of the min heap as that would be the
+  room that would get free the earliest out of all the other rooms currently occupied.
+
+If the room we extracted from the top of the min heap isn't free, then no other room is. So, we can save time here and simply allocate a new room.
 
 [Meeting rooms ii Solution](https://youtu.be/Mfd3EDnJejY)
 
