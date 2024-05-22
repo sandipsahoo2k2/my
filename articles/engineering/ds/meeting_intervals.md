@@ -96,5 +96,5 @@ int[] overlap(int[] prev, int[] curr){ //[1,4],[2,3]
 ```
 * Look at this method return, test with [1,2][3,4] -> will return [start, end] = [3,2] which is _an invalid entry_ which can be tested by `if(start <= end)` ( as not valid ), which tells that they don't intersect .
   
-* But now test with [1,4],[3,5] -> will return [start, end] = [3,4] which is valid which means they intersect and if you want to merge them you can use [startMin, endMax] for your answer which is [1,5] .
-* But now test with [1,4],[2,3] -> will return [start, end] = [2,3] which is valid means they intersect and if you want to merge them you can use [startMin, endMax] for your answer which is [1,4] .
+* Now test with [1,4],[3,5] -> will return [start, end] = [3,4] which is valid which means they intersect and if you want to merge them you can use [startMin, endMax] for your answer which is [1,5] .
+* Now test with [1,4],[2,3] -> will return [start, end] = [2,3] which is valid means they intersect and if you want to merge them you can use [startMin, endMax] for your answer which is [1,4] .
