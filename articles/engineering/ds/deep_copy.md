@@ -12,3 +12,30 @@ As the definition says we need to make sure that the exact copy with value it ho
 Trick to solve these problems is to traverse the data structure and push the nodes to a HashMap<CurrentNode, ClonedNode> with key = CurrentNode and Value as ClonedNode.
 and Finally return the reference from HashMap for the given node.
 
+Here is an example how to clone a graph ( Note : always use DFS to clone because it's easy to remember ) 
+```java
+class Solution {
+    Map<Node, Node> map = new HashMap<>();
+    public Node cloneGraph(Node node) {
+        if(node == null){
+            return null ;
+        }
+
+        //if visited return the clone
+        if (map.containsKey(node)) {
+            return map.get(node);
+        }
+
+        Node clonedNode = new Node(node.val, new ArrayList<>());
+        map.put(node, clonedNode); //set visited -> set the cloned node
+
+        for(Node child : node.neighbors){
+            Node clonedChild = cloneGraph(child) ;
+            clonedNode.neighbors.add(clonedChild);
+        }
+
+        return map.get(node) ;
+    }
+}
+```
+
