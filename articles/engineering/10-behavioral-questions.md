@@ -58,6 +58,13 @@ So I setup a plan
 
 This task is going to be huge. every week we have relase and i have to co-ordinated with ops team for thursday migration.
 
+## Most difficult Task / Bug - Webworkers ( Angular )
+Performance Improvement - Hundreds of unnecessary websocket connections getting created with Trade View / 
+Removed dependency of EC2 Server instances used for throttling and grouping of various real-time messages for web clients by writing web- workers API, saving cost and turnaround times for Welling ton management.
+
+## Conflict with senior /managements 
+Distributed Rate limitter vs Jgroup code embedded in our code
+
 ## 1. Tell me a time when you were not able to meet a time commitment
   Above is a greate example..
 
