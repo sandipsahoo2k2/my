@@ -104,7 +104,7 @@ EC2 is a virtual machine that provides resizable compute capacity in the cloud. 
    It can be purchased as a Reservation for up to 70% off On-Demand price.
 
 #### AWS DataSync
- DataSync allows you to copy large datasets with millions of files without having to build custom solutions with open-source tools or licenses and manage expensive commercial network acceleration software. You can use DataSync to migrate active data to AWS, transfer data to the cloud for analysis and processing, archive data to free up on-premises storage capacity or replicate data to AWS for business continuity.
+DataSync allows you to copy large datasets with millions of files without having to build custom solutions with open-source tools or licenses and manage expensive commercial network acceleration software. You can use DataSync to migrate active data to AWS, transfer data to the cloud for analysis and processing, archive data to free up on-premises storage capacity or replicate data to AWS for business continuity.
 
 AWS DataSync enables you to migrate your on-premises data to Amazon S3, Amazon EFS, and Amazon FSx for Windows File Server. You can configure DataSync to make an initial copy of your entire dataset and schedule subsequent incremental transfers of changing data toward Amazon S3. Enabling S3 Object Lock prevents your existing and future records from being deleted or overwritten.
 
@@ -137,19 +137,19 @@ _AWS DataSync is primarily used to migrate existing data to Amazon S3. On the ot
 When we need is high-available storage that can span multiple availability zones. Take note as well that the type of storage needed “file storage” which means that S3 is not the best service to use because it is mainly used for “object storage”, and S3 does not provide the notion of “folders” too. This is why Use **EFS**.
 
 #### AWS Artifact
-AWS Artifact is your go-to, central resource for _compliance-related information_ that matters to you. It provides on-demand access to AWS’ security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
+AWS Artifact is your go-to, **central resource for compliance-related** information that matters to you. It provides on-demand access to AWS’ security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
 
 #### Fargate 
-AWS Fargate is a serverless compute engine for containers that works with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes (EKS).
+AWS Fargate is a **serverless compute engine for containers** that works with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes (EKS).
 #### RedShift
-Amazon Redshift is a fast, fully managed cloud data warehouse that makes it simple and cost-effective to analyze all your data.
+Amazon Redshift is a fast, **fully managed cloud data warehouse** that makes it simple and cost-effective to analyze all your data.
 #### Athena
-Amazon Athena is a serverless, interactive analytics service built on open-source frameworks, supporting open-table and file formats.
+Amazon Athena is a **serverless, interactive analytics** service built on open-source frameworks, supporting open-table and file formats.
 #### Amazon Glue
-AWS Glue is a serverless data integration service that makes data preparation simpler, faster, and cheaper. 
+AWS Glue is a **serverless data integration service** that makes data preparation simpler, faster, and cheaper. 
 #### Amazon Kinesis
 Amazon Kinesis cost-effectively processes and analyzes streaming data at any scale as a fully managed service. With Kinesis, you can ingest real-time data, such as video, audio, application logs, website clickstreams, and IoT telemetry data, for machine learning (ML), analytics, and other applications.
 #### AWS Elastic Beanstalk
-Elastic Beanstalk is a service for deploying and scaling web applications and services
+Elastic Beanstalk is a service for **deploying and scaling** web applications and services
 #### AWS AppSync
-AWS AppSync creates serverless GraphQL and Pub/Sub APIs that simplify application development through a single endpoint to securely query, update, or publish data. 
+AWS AppSync creates **serverless GraphQL and Pub/Sub APIs** that simplify application development through a single endpoint to securely query, update, or publish data. 
