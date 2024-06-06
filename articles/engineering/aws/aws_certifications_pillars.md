@@ -146,7 +146,7 @@ Amazon Redshift is a fast, **fully managed cloud data warehouse** that makes it 
 #### Athena
 Amazon Athena is a **serverless, interactive analytics** service built on open-source frameworks, supporting open-table and file formats.
 #### Amazon Glue
-AWS Glue is a **serverless data integration service** that makes data preparation simpler, faster, and cheaper. 
+AWS Glue is a **serverless data integration service** that makes data preparation simpler, faster, and cheaper. AWS Glue is a fully managed extract, transform, and load **(ETL)** service that makes it easy for customers to prepare and load their data for analytics
 #### Amazon Kinesis
 Amazon Kinesis cost-effectively processes and **analyzes streaming data** at any scale as a fully managed service. With Kinesis, you can ingest real-time data, such as video, audio, application logs, website clickstreams, and IoT telemetry data, for machine learning (ML), analytics, and other applications.
 #### AWS Elastic Beanstalk
