@@ -1,4 +1,5 @@
-![2](https://github.com/user-attachments/assets/e4baeff8-7853-4ca5-897f-bbc02be51a0c)
+
+![1](https://github.com/user-attachments/assets/ad7d7d9b-784b-4d6b-a85f-63d4842c433e)
 
 ### Visit John Doe's Homepage (ft. Single-Page Resume)
 
