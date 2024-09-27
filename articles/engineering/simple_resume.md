@@ -24,7 +24,7 @@ You will be surprised how fast John Doe built this resume and published, we just
 
 That's it you are done with creating your simple yet powerful page to showcase your skills anywhere you want !! 
 
-You can now go to your linked In -> edit your Intro, scroll down in the dialog and update your website with the link https://publichome.page/<YOUR_GITHUB_USERNAME> and a link text as shown below.
+You can now go to your linked In -> edit your Intro, scroll down in the dialog and update your website with the link https://publichome.page/YOUR_GITHUB_USERNAME and a link text as shown below.
 
 
 Lastly you can press Ctrl + P on the page and can print the pdf version of the resume too.
