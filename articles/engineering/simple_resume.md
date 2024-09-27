@@ -1,3 +1,5 @@
+![2](https://github.com/user-attachments/assets/e4baeff8-7853-4ca5-897f-bbc02be51a0c)
+
 ### Visit John Doe's Homepage (ft. Single-Page Resume)
 
 In today’s fast-paced world single-page applications are on high demand isn't it ? That's why angular, react or Vue as a skills are in high demand too — Why should your resume be any different ? A clean, concise single-page resume is the modern way to stand out online. 
@@ -25,6 +27,8 @@ You will be surprised how fast John Doe built this resume and published, we just
 That's it you are done with creating your simple yet powerful page to showcase your skills anywhere you want !! 
 
 You can now go to your linked In -> edit your Intro, scroll down in the dialog and update your website with the link https://publichome.page/YOUR_GITHUB_USERNAME and a link text as shown below.
+
+![image](https://github.com/user-attachments/assets/5f15b1a1-fbdc-4f30-8b16-eecbc28fb1d1)
 
 
 Lastly you can press Ctrl + P on the page and can print the pdf version of the resume too.
