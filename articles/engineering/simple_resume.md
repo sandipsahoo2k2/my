@@ -34,6 +34,6 @@ You can now go to your linked In -> edit your Intro, scroll down in the dialog a
 
 Lastly you can press Ctrl + P on the page and can print the pdf version of the resume too.
 
-You can build anything you want, not necessarily a resume or portfolio. It's all about writing texts in the homepage, no need to know any complex language syntax or use any tool or host. publichome.page framework is ultra fast, lean and can fit very well for students, professionals, authors, social celebrities or solopreneurs , you name it and it fits! You might wonder that interviewdose.com where you are reading this article is 100% made with publichome.page platform, you can build a whole jeopardy 100% serverless I bet !
+You can build anything you want, not necessarily a resume or portfolio. It's all about writing texts in the homepage, no need to know any complex language syntax or use any tool or host. publichome.page framework is ultra fast, lean and can fit very well for students, professionals, authors, social celebrities or solopreneurs , you name it and it fits! You might wonder that [interviewdose.com](interviewdose.com) where you are reading this article is 100% made with publichome.page platform, you can build a whole jeopardy 100% serverless I bet !
 
 Don't hesitate to share your feedback or you want any specific feature to add in your public homepage, cheers !!
