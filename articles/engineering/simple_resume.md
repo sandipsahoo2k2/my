@@ -26,11 +26,11 @@ You will be surprised how quickly it can be done. **Let's take a peak at John Do
 - Update Name, Email, Skills, Experience, Education etc and commit !
 
 That's it you are done with creating your simple yet _powerful page to showcase your skills_ anywhere you want !! 
+[Refer this video tutorial](https://youtu.be/KvhbTv1FKdk)
 
 You can now go to your linked In -> edit your Intro, scroll down in the dialog and update your website with the link https://publichome.page/YOUR_GITHUB_USERNAME and a link text as shown below.
 
 ![image](https://github.com/user-attachments/assets/5f15b1a1-fbdc-4f30-8b16-eecbc28fb1d1)
-
 
 Lastly you can press Ctrl + P on the page and can print the pdf version of the resume too.
 
