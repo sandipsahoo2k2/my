@@ -9,7 +9,7 @@ I bet you’ve come across countless single-page portfolios. It’s become a tre
 
 Everyone is unique, and we all have something special to share with the world. So let’s share our personal brand with pride.
 
-You will be surprised how quickly it can be done. **Let's take a peak at John Doe's public homepage**, we just have to copy what he did. You might argue how is it better than others paid and head aching platforms, try it yourself. No tools, no money, and it’s done in no time :) Ok enough talking "let'do it" ->
+You will be surprised how quickly it can be done. **Let's take a peak at John Doe's public homepage**, we just have to copy what he did. You might argue how is it better than others paid and head aching platforms, try it yourself. No tools, no money, and it’s done in no time :) Ok enough talking "let'do it" -> [Follow these steps](https://youtu.be/KvhbTv1FKdk)
 
 - Visit https://publichome.page/simpleresume, to see John Doe's clean and concise resume. 
 
@@ -26,7 +26,6 @@ You will be surprised how quickly it can be done. **Let's take a peak at John Do
 - Update Name, Email, Skills, Experience, Education etc and commit !
 
 That's it you are done with creating your simple yet _powerful page to showcase your skills_ anywhere you want !! 
-[Refer this video tutorial](https://youtu.be/KvhbTv1FKdk)
 
 You can now go to your linked In -> edit your Intro, scroll down in the dialog and update your website with the link https://publichome.page/YOUR_GITHUB_USERNAME and a link text as shown below.
 
