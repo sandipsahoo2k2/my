@@ -1,4 +1,4 @@
-# Unlocking Leadership Phrases to use in Your Next Interview
+# Unlocking Leadership phrases to use in your Next Interview
 
 In an interview setting, particularly for leadership positions, certain keywords and phrases can signal a candidate's leadership abilities, qualities, and mindset. Here are some key leadership words that interviewers often look for:
 
