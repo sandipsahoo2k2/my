@@ -5,7 +5,7 @@ Whether addressing a crowd or having a one-on-one conversation, effective commun
 
 ---
 
-### Why Use VoiceSmith ?
+### Use NAVI ( Next Artificial Voice Intelligence )
 
 - **Practice Speaking:** Improve your ability to express thoughts clearly.
 - **Get Instant Feedback:** Identify areas for improvement right away.
