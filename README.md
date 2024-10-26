@@ -3,7 +3,7 @@
 - Stop grinding 1000s questions !!
 - Practice before your next interview
 - *Mind works just like a* <a href="/articles/engineering/ds/lru_cache" target="_blank">**LRU cache**</a>
-- **Be a confident speaker** [Practice Behavioral questions](/voicesmith)
+- **Practice speaking** [Behavioral interview](/voicesmith)
 - Stay connected <a href="https://www.youtube.com/c/InterviewDose" target="_blank">Subscribe</a>
 
 <table class="table">
