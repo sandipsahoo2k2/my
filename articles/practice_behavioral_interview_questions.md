@@ -6,10 +6,9 @@ Whether addressing a crowd or having a one-on-one conversation, effective commun
 ---
 
 ### Use NAVI ( Next Artificial Voice Intelligence )
-
-- **Practice Speaking:** Improve your ability to express thoughts clearly.
+- Tell me something about yourself.
 - **Get Instant Feedback:** Identify areas for improvement right away.
-- **Boost Your Confidence:** Gain the skills to communicate with ease.
+* Boost Your Confidence Gain the skills to communicate with ease.
 
 ---
 
