@@ -10,7 +10,7 @@ NAVI - [Next Artificial Voice Intelligence](https://publichome.page/voicesmith) 
 * Can you tell me something about yourself ?
 * What's your greatest weakness?
 * Can you describe a challenging situation you faced at work and how you handled it?
-* Tell me about a time you failed and what you learned from it.
+* Tell me about a time you failed and what you learned from it?
 * Can you provide an example of a time you had to adapt to a change at work?
 * Describe a project where you had to meet tight deadlines. How did you manage it?
 * How do you handle constructive criticism?
