@@ -18,10 +18,8 @@ NAVI - [Next Artificial Voice Intelligence](https://publichome.page/voicesmith) 
 * Describe a situation where you had to persuade a team to adopt your idea.
 * How do you prioritize tasks when you have multiple deadlines?
 
----
 
 <div id="phWidget"></div>
 
----
 
 Refer more questions with answers [here](/articles/behavioral_questions)
