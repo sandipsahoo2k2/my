@@ -1,7 +1,7 @@
 <!-- Theme:Classic | ImgAlign:Left | Widget:NAVI -->
-# Let's Speak to Lead !
-Practice with Navi to become a better speaker, make an impact and leap the level in your interview.  
-NAVI ([Next Artificial Voice Intelligence](https://publichome.page/voicesmith)) is a product that can listen to your voice, help you with instant feedback.
+# Let's Speak and Lead !
+Practice with [Navi](https://publichome.page/voicesmith) to become a better speaker, make an impact and leap the level in your interview.  
+NAVI - [Next Artificial Voice Intelligence](https://publichome.page/voicesmith) is a product that can listen to your voice, help you with instant feedback.
 
 ---
 
