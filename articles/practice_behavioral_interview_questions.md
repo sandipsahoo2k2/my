@@ -6,9 +6,9 @@ Whether addressing a crowd or having a one-on-one conversation, effective commun
 ---
 
 ### Use NAVI ( Next Artificial Voice Intelligence )
-- Tell me something about yourself.
-- **Get Instant Feedback:** Identify areas for improvement right away.
-* Boost Your Confidence Gain the skills to communicate with ease.
+* 12
+* 12
+* 34
 
 ---
 
