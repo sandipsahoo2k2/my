@@ -22,4 +22,5 @@ NAVI - [Next Artificial Voice Intelligence](https://publichome.page/voicesmith) 
 <div id="phWidget"></div>
 
 <br>
+
 Refer more questions with answers [here](/articles/behavioral_questions)
