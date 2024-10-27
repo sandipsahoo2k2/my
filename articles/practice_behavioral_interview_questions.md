@@ -6,7 +6,7 @@ NAVI - [Next Artificial Voice Intelligence](https://publichome.page/voicesmith) 
 ---
 
 ### Practice these below frequently asked behavioral questions
-
+<!-- Select options -->
 * Can you tell me something about yourself ?
 * What's your greatest weakness?
 * Can you describe a challenging situation you faced at work and how you handled it?
