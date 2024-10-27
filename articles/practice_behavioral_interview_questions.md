@@ -6,6 +6,7 @@ NAVI - [Next Artificial Voice Intelligence](https://publichome.page/voicesmith) 
 ---
 
 ### Practice these below frequently asked behavioral questions
+
 * Can you tell me something about yourself ?
 * 12
 * 34
