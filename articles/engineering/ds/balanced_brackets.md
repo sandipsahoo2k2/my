@@ -87,7 +87,7 @@ boolean isBalanced(String s) {
 ```
 
 ## Create all possible parenthesis from a given string
-This is a handy question, sometimes asked in interviews, to find all possible parenthesis string by removing 1 element.
+This is a handy question, sometimes asked in interviews, to find all possible parenthesis string by removing 1 element.  
 &#9758;Below code is a simplified version for possible substrings for a given inputcusing substring. 
 
 ```
