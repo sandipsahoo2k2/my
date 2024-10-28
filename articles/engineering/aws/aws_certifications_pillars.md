@@ -46,17 +46,19 @@ Edge locations in AWS are data centers that deliver as low a latency as possible
 #### 10. Difference between NACL and SG?
 <img width="652" alt="image" src="https://github.com/sandipsahoo2k2/my/assets/5547869/772d9afb-5160-4451-8b29-b56b2998b699">
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4698384021209464"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4698384021209464"
-     data-ad-slot="8898564891"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div align="center">
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4698384021209464"
+        crossorigin="anonymous"></script>
+   <ins class="adsbygoogle"
+        style="display:block; text-align:center;"
+        data-ad-layout="in-article"
+        data-ad-format="fluid"
+        data-ad-client="ca-pub-4698384021209464"
+        data-ad-slot="8898564891"></ins>
+   <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+</div>
 
 #### 11. Difference between S3 & Glacier?
 S3 stands for Simple Storage Service and it is Object-based storage, S3 provides secure, durable, highly scalable object storage. This is easy to use with a simple web services interface to store and retrieve any amount of data from anywhere on the web.
