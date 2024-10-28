@@ -200,7 +200,7 @@ brand."
   <script>
        (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
-<div>
+</div>
 
 #### 21. How do you handle ambiguity and uncertainty in a project?
 **Answer:** "I thrive in ambiguous situations by breaking
