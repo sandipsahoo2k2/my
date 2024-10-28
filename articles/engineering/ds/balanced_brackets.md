@@ -15,7 +15,7 @@ A string containing bracket characters is said to be balanced if:
 <u>**Solution Approach :**</u>
 
 We can use a Stack data structures to solve such problems.
-1. <u>Run a loop on each chacarter on the given string</u>
+1. <u>Run a loop on each character on the given string</u>
 
    **if**
 
