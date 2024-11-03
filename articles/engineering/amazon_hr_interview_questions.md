@@ -137,5 +137,7 @@ Ensure your answers are well-structured. Provide examples using metrics or data 
 - <a href="https://www.amazon.jobs/content/en/how-we-hire/interviewing-at-amazon">Interviewing at Amazon</a>
 - <a href="https://www.amazon.jobs/en/landing_pages/in-person-interview">In-Person Interview Tips</a>
 - <a href="https://youtube.com/embed/HvMc-ECHTWk" target="_blank">Amazon HR Interview Tips</a>
+- <a href="https://duaa2xs5z3ldn.cloudfront.net/assets/McsJv4WXKWb_FlRc_LRX21Ro-EvUopwEW-LeadershipPrinciplesSTARtemplate.pdf">Leadership Principles STARtemplate</a>
 
+[![Amazon In-Person Interview Tips](https://img.youtube.com/vi/bgOyaYq8UNI/hqdefault.jpg)](https://www.youtube.com/embed/bgOyaYq8UNI?si=TybDpazLTtaxeIIL)
 [![Amazon In-Person Interview Tips](https://img.youtube.com/vi/Pz0CbXA4mn8/hqdefault.jpg)](https://youtube.com/embed/Pz0CbXA4mn8)
