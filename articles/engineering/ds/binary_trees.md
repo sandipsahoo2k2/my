@@ -294,3 +294,6 @@ public int sumNumbers(TreeNode root) {
         return total ;
     }
 ```
+
+## Stanford page
+[Refer standford page](http://cslibrary.stanford.edu/110/BinaryTrees.html)
