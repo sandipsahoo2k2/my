@@ -133,6 +133,7 @@ Ensure your answers are well-structured. Provide examples using metrics or data 
 - Be forthcoming. Don't embellish or omit parts of the story.
 
 ## Reference
+- <a href="https://www.amazon.jobs/content/en/our-workplace/leadership-principles">Leadership Principle</a>
 - <a href="https://www.amazon.jobs/content/en/how-we-hire/interviewing-at-amazon">Interviewing at Amazon</a>
 - <a href="https://www.amazon.jobs/en/landing_pages/in-person-interview">In-Person Interview Tips</a>
 - <a href="https://youtube.com/embed/HvMc-ECHTWk" target="_blank">Amazon HR Interview Tips</a>
