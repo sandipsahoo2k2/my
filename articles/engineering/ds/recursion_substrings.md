@@ -48,10 +48,11 @@ void forLoop(int[] nums, int index, List<Integer> list, List<List<Integer>> resu
     }
 ```
 
-**Print all substrings for a given array :**
+**Print all substrings for a given array : Option - 1**
 
 If you understood the above structures and understand how these recursive calls work. 
 Now printing all substrings for a given array using recursion can be wriiten as below.
+
 
 ```
 void allSubstring(int[] nums, List<List<Integer>> result) {
@@ -63,10 +64,41 @@ void allSubstring(int[] nums, List<List<Integer>> result) {
 
 If you understood until this far next is how can you take this idea and [solve any DFS problem](https://www.youtube.com/watch?v=5apYEdUv_O4&t=10s).
 
+**Print all substrings for a given array : Option - 2 - useful for number array problems**
+
+We print 1 to n - 1 length substrings in each iteration
+substring reads from left side starting from 0th index until j ( j+ 1 )
+
+Time complexity O(NSquare)
+```
+void allSubstring(String given) {
+  for(int i = 0 ; i < given.length() ; i ++) {
+    for(int j = i; j < given.length() ; j ++) { //<== look at the conditon how similar
+      System.out.println(given.substring(i, j + 1)) ; // <== from i to j + 1 
+    }
+  }
+```
+
+**Print all substrings for a given array : Option - 3 - useful for string / leetcode problems**
+
+We print 1 to n - 1 length substrings in each iteration
+substring reads from right towards 0th index until i ( i + 1 )
+
+```
+void allSubstring(String given) {
+  for(int i = 0 ; i < given.length() ; i ++) {
+    for(int j = i; j >= 0 ; j --) {
+      System.out.println(given.substring(j, i + 1)) ; // <= from j to i + 1
+    }
+  }
+```
+
 &#9758; _Why I am talking about recursion and this particular program here !_
 
 It's one of the most important concept you may need to know for solving any subset or substrings problem in an interview.
 e.g look at this subset program using recursion. [Read more about subsets and backtracking](https://interviewdose.com/i/articles/engineering/ds/subsets.md).
+
+
 
 ```
 public void backtrack(int[] nums, int start, List<Integer> temp, List<List<Integer>> result) {
