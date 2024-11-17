@@ -18,7 +18,7 @@ In reality we must think about how much power we give to AI without it's knowled
 Enchanted - AI is presented as magical beyond human knowledge ( there was a day when peple were seeing wifi as magical and tried different experiements to boost signals without understanding how it works )
 Determinism - AI detects patterns that exists in the world - it is very deterministic.
 
-Its the starting point for humans but the ending point for humans one example is AlphaGo the AI wich beats the go game ..
+Its the starting point for humans but not the ending point for humans ! One example is AlphaGo the AI wich beats the go game ..
 this catully was playing by recognising the patterns from the earlier games on taking a step. 
 So AI can easily be exploited easily by adversarial machine learning .
 
