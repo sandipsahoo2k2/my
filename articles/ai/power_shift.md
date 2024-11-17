@@ -8,7 +8,7 @@ We can depict Data, informatiion, wnowledge and wisdom as pyramid.
       ---By giving data a context data becomes the information--------  
     ------------------data is the base of pyramid------------------------  
 
-This is the human way on operating on data. AI doesnt work like human.. 
+This is the human way on operating on data. AI doesn't work like human.. 
 Data are signals for AI and they structure the data and contextualize it and then act of the actionable data.
 
 Turing test - where AI can fool a human to think as if it's a human.
