@@ -36,4 +36,4 @@ Organizations have responded with pledges to design ‘fair’ and ‘transparen
 These systems sometimes mitigate harm, but are controlled by powerful institutions with their own agendas. At best, they are unreliable; at worst, they masquerade as
 ‘ethics-washing’ technologies that still perpetuate inequity. It is our responsibility to recognize our skewed perspective and listen to those impacted by AI.
 
-We should strive to create a society where we want to live—a society where we are not merely subjects of AI, but where our values, privacy, and opinions are respected and actively integrated into building the system. We should participate or allowed to be participated in building the system, not just using it and pay for it and chant it.
+We should strive to create a society where we want to live—a society where we are not merely subjects of AI, but where our values, privacy, and opinions are respected and actively integrated into building the system. We should participate or allowed to be participated in building the system, not just using it and pay for it and chant about it.
