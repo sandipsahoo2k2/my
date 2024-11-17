@@ -15,8 +15,8 @@ Turing test - where AI can fool a human to think as if it's a human.
 But fooling some one  and thinking someone as human is very different from actually achieving humanity.
 In reality we must think about how much power we give to AI without it's knowledge and wisdom in human sense. 
 
-Enchanted - AI is presented as magical beyong human knowledge ( there was a day when peple were seeing wifi as magical and tried different experiements to boost signals without understanding how it works )
-Determinism - AI detects patterns that exists in the world - its very deterministic 
+Enchanted - AI is presented as magical beyond human knowledge ( there was a day when peple were seeing wifi as magical and tried different experiements to boost signals without understanding how it works )
+Determinism - AI detects patterns that exists in the world - it is very deterministic.
 
 Its the starting point for humans but the ending point for humans one example is AlphaGo the AI wich beats the go game ..
 this catully was playing by recognising the patterns from the earlier games on taking a step. 
