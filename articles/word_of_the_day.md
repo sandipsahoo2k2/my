@@ -1,6 +1,6 @@
 # My word of the day
 
-**Delighhted** : I was delighted to see so many halloween costumes at today's launch.
+**Delighted** : I was delighted to see so many halloween costumes at today's launch.
 
 **Quixotic** : Isn't it quixotic that it's my first day in office and I broke the build !
 
