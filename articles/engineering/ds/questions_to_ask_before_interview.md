@@ -1,4 +1,4 @@
-## Ask these questions to your interviewer before you solve the problem
+## Ask these clarifying questions to your interviewer before you solve any problem
 
 Using clarifying questions demonstrates active listening, showing your genuine interest in the interviewer's perspective.
 Interviews often present challenges, and clarifying questions can help identify the root of the issues, gather essential information, and lead to the best responses. They're your key to solve ds problems with clarity and right approach.
