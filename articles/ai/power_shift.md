@@ -1,6 +1,6 @@
 ## How powershift is occuring in the development of AI
 
-We can depict Data, information, wnowledge and wisdom as pyramid.  
+We can depict Data, information, knowledge and wisdom as pyramid.  
 
                                   -  
           -And By giving insight that knowldege becomes wisdom-  
