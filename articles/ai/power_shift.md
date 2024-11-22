@@ -18,7 +18,9 @@ In reality we must think about how much power we give to AI without it's knowled
 Enchanted - AI is presented as magical beyond human knowledge ( there was a day when people were seeing wifi as magical and tried different experiements to boost signals without understanding how it works )
 Determinism - AI detects patterns that exists in the world - it is very deterministic.
 
-Its the starting point for humans but not the ending point for humans ! One example is AlphaGo the AI wich beats the go game ..
+If we take the example of AlphaGo it just try to match the pattern from the previous matches when the user takes a step and determines the best possible next safe step. Purely based on patterns and without the knowledge like a human.  So it's very easy to do adversarial attacks with machine learning models by intentionally manipulating input data or patterns. Another example could be - it may be possible to trick an AI system to see a STOP sign as an Yield Sign with an adversarial attack. An attacker could wreak havoc on roads populated by self driving cars by manipulating the input and misrecognizing stop signs. Imagine how much of disadvantage or problems this can bring to traffic safety with autonomous vehicles. So in a way we are giving power to a system without Knowledge and it can bring a huge problem in society.
+
+It is the starting point for humans but not the ending point for humans ! One example is AlphaGo the AI wich beats the go game ..
 this catully was playing by recognising the patterns from the earlier games on taking a step. 
 So AI can easily be exploited easily by adversarial machine learning .
 
@@ -37,3 +39,6 @@ These systems sometimes mitigate harm, but are controlled by powerful institutio
 ‘ethics-washing’ technologies that still perpetuate inequity. It is our responsibility to recognize our skewed perspective and listen to those impacted by AI.
 
 We should strive to create a society where we want to live—a society where we are not merely subjects of AI, but where our values, privacy, and opinions are respected and actively integrated into building the system. We should participate or allowed to be participated in building the system, not just using it and pay for it and chant about it.
+
+
+
