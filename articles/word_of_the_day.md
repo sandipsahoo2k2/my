@@ -1,3 +1,4 @@
+<!-- Draft -->
 # My word of the day
 
 **Delighted** : I was delighted to see so many halloween costumes at today's launch.
