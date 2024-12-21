@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/i3B5RYe0J0E" target="_blank">Verify an alien dictionary</a></td>
-      <td><a href="https://youtube.com/embed/MdI6sXCAiso?start=19" target="_blank">Redundant Connection</a></td>
+      <td><a href="https://youtube.com/embed/erZDVZihNAE?start=541" target="_blank">Custom sort string</a></td>
       <td><a href="https://youtube.com/embed/WuBTG71yOek" target="_blank">Similar string group</a></td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
-      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
+      <td><a href="https://youtube.com/embed/MdI6sXCAiso?start=19" target="_blank">Redundant Connection</a></td>
       <td><a href="https://youtu.be/ToKrvskQ15s" target="_blank">First missing positive number</a></td>
     </tr>
     <tr>
