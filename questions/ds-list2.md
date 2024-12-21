@@ -74,7 +74,12 @@
     <tr>
       <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
       <td><a href="https://youtube.com/embed/MdI6sXCAiso?start=19" target="_blank">Redundant Connection</a></td>
-      <td><a href="https://youtu.be/ToKrvskQ15s" target="_blank">First missing positive number</a></td>
+      <td>
+        <a href="https://youtube.com/embed/u0J17e8477U" target="_blank">Serialize & Deserialize N-ary tree</a>
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
     </tr>
     <tr>
       <td>
