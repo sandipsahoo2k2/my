@@ -1,6 +1,6 @@
 ### Prepare just these 100 coding interview questions &#x1F4D6;
 
-- Stop grinding 1000s questions !!
+- Stop grinding 1000s of questions !!
 - Practice before your next interview
 - *Mind works just like a* <a href="/articles/engineering/ds/lru_cache" target="_blank">**LRU cache**</a>
 - **Practice speaking** [Behavioral interviews](/i/articles/practice_behavioral_interview_questions)
@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/vh1AciQLF5w" target="_blank">Range Sum of BST</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -36,13 +36,13 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">*Level order traversal</a>
-      <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+      <a href="/articles/engineering/ds/binary_trees" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
       </a>
       </td>
       <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
       <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -51,7 +51,7 @@
       <td><a href="https://youtube.com/embed/74Mln2rZO30" target="_blank">Max area of island</a></td>
       <td>
         <a href="https://youtube.com/embed/vjMMBIfvXxI" target="_blank">Meeting rooms</a>
-        <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
+        <a href="/articles/engineering/ds/meeting_intervals" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -59,19 +59,19 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/JrrPcXix8zo?start=11" target="_blank">Min depth of a binary tree</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td>
         <a href="https://youtube.com/embed/-K8MyVUBnQQ?start=210" target="_blank">Minimum depth iterative</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td>
         <a href="https://youtube.com/embed/EIfDP5GH7Vs" target="_blank">Serialize & Deserialize binary tree</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -79,14 +79,14 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/mN7YcWj08-M" target="_blank">Interval intersections</a>
-        <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
+        <a href="/articles/engineering/ds/meeting_intervals" target="_blank" style="backgroound">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Check if two strings are anagram</a></td>
       <td>
         <a href="https://youtube.com/embed/u0J17e8477U" target="_blank">Serialize & Deserialize N-ary tree</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
