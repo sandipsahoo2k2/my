@@ -65,13 +65,13 @@
       </td>
       <td>
         <a href="https://youtube.com/embed/-K8MyVUBnQQ?start=210" target="_blank">Minimum depth iterative</a>
-        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td>
         <a href="https://youtube.com/embed/EIfDP5GH7Vs" target="_blank">Serialize & Deserialize binary tree</a>
-        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -79,17 +79,12 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/mN7YcWj08-M" target="_blank">Interval intersections</a>
-        <a href="/articles/engineering/ds/meeting_intervals" target="_blank" style="backgroound">
+        <a href="/articles/engineering/ds/meeting_intervals" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Check if two strings are anagram</a></td>
-      <td>
-        <a href="https://youtube.com/embed/u0J17e8477U" target="_blank">Serialize & Deserialize N-ary tree</a>
-        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
-        </a>
-      </td>
+      <td><a href="https://youtu.be/ToKrvskQ15s" target="_blank">First missing positive number</a></td>
     </tr>
   </tbody>
 </table>
