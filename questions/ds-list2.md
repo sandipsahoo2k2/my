@@ -70,7 +70,7 @@
     <tr>
       <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
       <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
-      <td><a href="https://youtube.com/embed/F5ylYjN40WY" target="_blank">Dice Roll</a></td>
+      <td><a href="https://youtu.be/ToKrvskQ15s" target="_blank">First missing positive number</a></td>
     </tr>
     <tr>
       <td>
