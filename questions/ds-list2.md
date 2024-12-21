@@ -18,7 +18,7 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/jZ5Vi2w1WUo" target="_blank">Sum of Left leaves</a>
-        <a href="/articles/engineering/ds/binary_trees" style="background">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -27,7 +27,11 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
-      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
+      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a>
+        <a href="/articles/engineering/ds/topological_sorting" target="_blank" style="background">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
       <td>
         <a href="https://youtube.com/embed/0EjPBPRLyjE" target="_blank">Distance of node from root</a>
         <a href="/articles/engineering/ds/binary_trees" style="background">
@@ -58,7 +62,7 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a>
-        <a href="/articles/engineering/ds/binary_trees" style="background">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -69,7 +73,6 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/v=9D2V-IUSH0g" target="_blank">Merge two sorted list</a></td>
-      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
       <td><a href="https://youtu.be/ToKrvskQ15s" target="_blank">First missing positive number</a></td>
     </tr>
     <tr>
@@ -160,7 +163,11 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/xeMzm4sWtTs" target="_blank">Delete a node from Circular list</a></td>
-      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">*Course schedule</a></td>
+      <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">*Course schedule</a>
+        <a href="/articles/engineering/ds/topological_sorting" target="_blank" style="background">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Valid anagram</a></td>
