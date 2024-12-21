@@ -1,9 +1,9 @@
 ### Prepare just these 100 coding interview questions &#x1F4D6;
 
-- Stop grinding 1000s questions !!
+- Stop grinding 1000s of questions !!
 - Practice before your next interview
 - *Mind works just like a* <a href="/articles/engineering/ds/lru_cache" target="_blank">**LRU cache**</a>
-- No strings attached ! Love this ? [Join our Elite club](/publish)
+- No strings attached! Love this? [Join our Elite club](/publish)
 - Stay connected <a href="https://www.youtube.com/c/InterviewDose" target="_blank">Subscribe</a>
 
 <table class="table">
@@ -18,7 +18,7 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/jZ5Vi2w1WUo" target="_blank">Sum of Left leaves</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -30,7 +30,7 @@
       <td><a href="https://youtube.com/embed/N4jQQPg1tvA" target="_blank">Course Schedule</a></td>
       <td>
         <a href="https://youtube.com/embed/0EjPBPRLyjE" target="_blank">Distance of node from root</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -44,13 +44,13 @@
       <td><a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a></td>
       <td>
           <a href="https://youtube.com/embed/0EjPBPRLyjE?start=4" target="_blank">*Total distance of a Tree</a>
-          <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+          <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
           </a>
       </td>
       <td>
         <a href="https://youtube.com/embed/_KAjEdomX7M" target="_blank">Sum of distances in Tree</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -58,7 +58,7 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/0C8nLoIQvfA" target="_blank">Print Binary Tree by levels</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -75,7 +75,7 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">Level order traversal</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -84,7 +84,7 @@
       </td>
       <td>
         <a href="https://youtube.com/embed/W0PTd05dZJQ" target="_blank">Distance of a node from root</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -92,7 +92,7 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/ThQstg4Ik2E" target="_blank">Sum of all nodes</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -103,13 +103,13 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a>
-        <a href="/articles/engineering/ds/binary_search" style="backgroound">
+        <a href="/articles/engineering/ds/binary_search" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td>
         <a href="https://youtube.com/embed/I6viYY0mS6I?start=581" target="_blank">Binary Search</a>
-        <a href="/articles/engineering/ds/binary_search" style="backgroound">
+        <a href="/articles/engineering/ds/binary_search" target="_blank" style="background">
           <i class="fa-solid fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
@@ -117,13 +117,13 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/Mfd3EDnJejY" target="_blank">Meeting rooms ii</a>
-        <a href="/articles/engineering/ds/meeting_intervals" style="backgroound">
+        <a href="/articles/engineering/ds/meeting_intervals" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td>
         <a href="https://interviewdose.com/i/articles/engineering/ds/binary_search" target="_blank">First and Last element</a>
-        <a href="/articles/engineering/ds/binary_search" style="backgroound">
+        <a href="/articles/engineering/ds/binary_search" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -135,7 +135,7 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/Wrjg_nKEbzw" target="_blank">Find the max element in a binary tree</a>
-        <a href="/articles/engineering/ds/binary_trees" style="backgroound">
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
@@ -144,7 +144,7 @@
     <tr>
       <td>
         <a href="https://youtube.com/embed/VWGk_Mo_gRU" target="_blank">Valid parenthesis</a>
-        <a href="/articles/engineering/ds/balanced_brackets" style="backgroound">
+        <a href="/articles/engineering/ds/balanced_brackets" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
