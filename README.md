@@ -58,14 +58,14 @@
       <td><a href="https://youtube.com/embed/8KGSnEQ9s8Q" target="_blank">Decode ways</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/JrrPcXix8zo?start=11" target="_blank">Min depth of a binary tree</a>
+      <td><a href="https://youtube.com/embed/flc19LGlCDE" target="_blank">Min depth of a binary tree</a>
         <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
       <td>
-        <a href="https://youtube.com/embed/-K8MyVUBnQQ?start=210" target="_blank">Minimum depth iterative</a>
-        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
+        <a href="https://youtube.com/embed/-K8MyVUBnQQ?start=210" target="_blank">First and Last element in a sorted array</a>
+        <a href="/articles/engineering/ds/binary_search" target="_blank" style="background">
           <i class="fa-regular fa-note-sticky" style="color: black;"></i>
         </a>
       </td>
