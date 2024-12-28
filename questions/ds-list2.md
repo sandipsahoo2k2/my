@@ -185,6 +185,12 @@
     </tr>
     <tr>
       <td><a href="https://youtube.com/embed/4RCk18Y4zZw" target="_blank">Valid anagram</a></td>
+      <td>
+        <a href="https://youtube.com/embed/-K8MyVUBnQQ?start=210" target="_blank">Minimum depth iterative</a>
+        <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+        </a>
+      </td>
     </tr>
     <td><a href="https://youtube.com/embed/ZTD9Zb2BwC4" target="_blank">Check if a number is Happy</a></td>
   </tbody>
