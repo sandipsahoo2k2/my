@@ -37,13 +37,13 @@
     <tr>
       <td><a href="https://youtube.com/embed/9hGwYdjcfRU" target="_blank">*Level order traversal</a>
       <a href="/articles/engineering/ds/binary_trees" style="background">
-          <i class="fa-solid fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
       </a>
       </td>
       <td><a href="https://youtube.com/embed/HkEUD60fNhI" target="_blank">Preorder Traversal(iterative)</a></td>
       <td><a href="https://youtube.com/embed/x6oAGPNqGzY" target="_blank">Vertical order traversal</a>
         <a href="/articles/engineering/ds/binary_trees" target="_blank" style="background">
-          <i class="fa-solid fa-note-sticky" style="color: black;"></i>
+          <i class="fa-solid fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
     </tr>
@@ -51,7 +51,7 @@
       <td>
         <a href="https://youtube.com/embed/mN7YcWj08-M" target="_blank">Interval intersection</a>
         <a href="/articles/engineering/ds/meeting_intervals" target="_blank" style="background">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td>
