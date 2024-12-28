@@ -66,7 +66,7 @@
       <td>
         <a href="https://youtube.com/embed/-K8MyVUBnQQ?start=210" target="_blank">First and Last element in a sorted array</a>
         <a href="/articles/engineering/ds/binary_search" target="_blank" style="background">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td>
