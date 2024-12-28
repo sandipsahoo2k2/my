@@ -108,12 +108,18 @@
       <td>
         <a href="https://youtube.com/embed/4baFHiSEkgg?end=1704" target="_blank">* Create BST from sorted list</a>
       </td>
+      <td>
+        <a href="https://youtube.com/embed/4baFHiSEkgg?end=1704" target="_blank">* Create sorted array through instructions</a>
+        <a href="/articles/engineering/ds/binary_search" target="_blank" style="background">
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
+        </a>
+      </td>
     </tr>
     <tr>
       <td>
         <a href="https://youtube.com/embed/17tZD-BIEcI" target="_blank">A number is power of 2</a>
         <a href="/articles/engineering/ds/binary_search" target="_blank" style="background">
-          <i class="fa-regular fa-note-sticky" style="color: black;"></i>
+          <i class="fa-regular fa-note-sticky" style="color: #FFD43B;"></i>
         </a>
       </td>
       <td>
@@ -164,7 +170,7 @@
       <td><a href="https://youtube.com/embed/-dbtvD0GkcE?start=350" target="_blank">Valid palindrome</a></td>
     </tr>
     <tr>
-      <td><a href="https://youtube.com/embed/YlIHZNUnwNY" target="_blank">Find the max repetation</a></td>
+      <td><a href="https://youtube.com/embed/YlIHZNUnwNY" target="_blank">Find the max repetition</a></td>
       <td><a href="https://youtube.com/embed/zb4Mw_FFBaA" target="_blank">*1 Edit distance</a></td>
     </tr>
     <tr>
