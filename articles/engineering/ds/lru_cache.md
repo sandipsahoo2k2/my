@@ -143,6 +143,13 @@ class LRUCache {
 If you understand this can you build a LFU cache? Here is a link to the practice problem https://leetcode.com/problems/lfu-cache/
 
 ## Least Frequently Used (LFU) Cache
-LFU Cache is very similar to LRU cache, the difference is it keeps track of time and Frequency of the key and removes the key with minimum frequency if there are multiple entries at that time.
+LFU Cache is very similar to LRU cache, the difference is it keeps track of time and Frequency of the key and removes the key with the minimum frequency. As we have to keep this extra information we need two data structures
+```
+    // key: original key, value: frequency and original value.
+    private Map<Integer, Pair<Integer, Integer>> cache;
+    // key: frequency, value: All keys that have the same frequency.
+    private Map<Integer, LinkedHashSet<Integer>> frequencies;
+```
+
 
 
