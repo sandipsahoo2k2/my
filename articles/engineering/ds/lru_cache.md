@@ -1,8 +1,7 @@
 ## Least recently used (LRU) Cache
 
-I use to get confused with the name as a least english speaker :)
-In Short, this is a Cache replacement algorithm used in computer science and yes computer mimics brain and we forget the things which we don't use or refresh often ! isn't it ?
-LRU Cache are designed exactly keeping this in mind. It's one of the most frequently used cache replacement algorithm.
+LRU Cache is an algorithm used in many software products e.g. browser, website cache, etc. Computer mimics the brain and we forget the things that we don't use or refresh often! isn't it ?
+LRU Cache is designed exactly keeping this in mind. It's one of the most frequently used cache replacement algorithms.
 
 [What is Least Recently Used (LRU) cache](https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU)
 
@@ -13,7 +12,7 @@ As the name suggests when the cache memory is full, LRU picks the data that is l
 
 Let's design a simple LRU cache that follows the constraints of a LRU cache.
 
-With following use cases:
+With the following use cases:
 
 * LRUCache(int capacity) Initialize the LRU cache with positive size capacity.
 * int get(int key) Return the value of the key if the key exists, otherwise return -1.
@@ -21,7 +20,7 @@ With following use cases:
 * If the number of keys exceeds the capacity from this operation, evict the least recently used key.
 * The functions get and put must each run in O(1) average time complexity.
 
-In Java there is an implementation of HashMap which is **_LinkedHashMap_** has this support already. Even in an interview environment if time / interviewer permits speak about it and use it too. Look at the method **_removeEldestEntry_** implementation in below example. Also see the constructor last parameter **accessOrder** - the ordering mode - true for access-order, false for insertion-order .
+In Java there is an implementation of HashMap which is **_LinkedHashMap_** has this support already. Even in an interview environment if time/interviewer permits speak about it and use it too. Look at the method **_removeEldestEntry_** implementation in the below example. Also see the constructor's last parameter **accessOrder** - the ordering mode - true for access-order, false for insertion-order .
 
     LinkedHashMap cache = new LinkedHashMap<>(size, 0.75f, true) {
             @Override
@@ -30,18 +29,18 @@ In Java there is an implementation of HashMap which is **_LinkedHashMap_** has t
             }
         };
 
-To fetch the nodes by key in O(1) time we will use a HashMap and to refresh the nodes position from anywhere to front
-and evict the ndoes from the end, DoublyLink list is the best data structure we can use.
+To fetch the nodes by key in O(1) time we will use a HashMap to refresh the nodes position from anywhere to the front
+and evict the nodes from the end, DoublyLink list is the best data structure we can use.
 
-In short these are some of the use cases for Doubly LinkLists we have to implement
-* Add to head of the list
+In short, these are some of the use cases for Doubly LinkLists we have to implement
+* Add to the head of the list
 * Remove node from the list ( to support refresh )
-* Evict from the tail of the list when size of the cache crosses the desired
-* To refresh the nodes, we need to remove an existing node and put it infront of head
+* Evict from the tail of the list when the size of the cache crosses the desired
+* To refresh the nodes, we need to remove an existing node and put it in front of head
 
 **Here is an implementation for LRU cache:**
 
-Note : _We are creating head and tail dummy node with a invalid key and value. Never change the head and tail in this implementation they will always point to dummy node and we return head.next or tail.prev if we must._
+Note: _We are creating head and tail dummy node with an invalid key and value. Never change the head and tail in this implementation they will always point to the dummy node and we return head.next or tail.prev if we must._
 
     //head.next is the real head
     head = new Node(-1, -1) ;
@@ -141,5 +140,9 @@ class LRUCache {
 }
 ```
 
+If you understand this can you build a LFU cache? Here is a link to the practice problem https://leetcode.com/problems/lfu-cache/
+
+## Least Frequently Used (LFU) Cache
+LFU Cache is very similar to LRU cache, the difference is it keeps track of time and Frequency of the key and removes the key with minimum frequency if there are multiple entries at that time.
 
 
