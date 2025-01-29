@@ -1,7 +1,8 @@
 ## My Contacts
 - https://www.youtube.com/interviewdose?sub_confirmation=1
 - https://www.linkedin.com/in/sandeepsahoo
-- [Bloggers / Publishers](https://topmate.io/ersandeep/644263)
+- [JobSeekers / Mentorship ](https://adplist.org/mentors/sandeep-sahoo)
+- [Creators / Solopreneurs](https://topmate.io/ersandeep/644263)
 
 **Don't miss a valuable time with me.**
   <!-- a href="https://topmate.io/ersandeep/396579">
