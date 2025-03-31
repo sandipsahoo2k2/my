@@ -12,7 +12,7 @@
 
 ### Your Stage Awaits! ✨ 
 
-👉 **Want to Speak?** Email [interviewdose@gmail.com](mailto:interviewdose@gmail.com) to claim your slot  
+👉 **Want to Speak?** [Contact](www.interviewdose.com/contact) or Email [interviewdose@gmail.com](mailto:interviewdose@gmail.com) to book your spot  
 👉 **We have two categories** You can speak for **Tech or Non-Tech** Topic
 👉 **Prefer to Listen?** Just show up—every session is a masterclass!
 
