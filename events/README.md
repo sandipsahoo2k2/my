@@ -12,9 +12,9 @@
 
 ### Your Stage Awaits! ✨ 
 
-👉 **Want to Speak?** [Contact](www.interviewdose.com/contact) or Email [interviewdose@gmail.com](mailto:interviewdose@gmail.com) to book your spot  
-👉 **We have two categories** You can speak for **Tech or Non-Tech** Topic
-👉 **Prefer to Listen?** Just show up—every session is a masterclass!
+👉 **Want to Speak?** [Contact](www.interviewdose.com/contact) or Email [interviewdose@gmail.com](mailto:interviewdose@gmail.com) to book your spot    
+👉 **Two categories** You can speak for **Tech or Non-Tech** Topics  
+👉 **Prefer to Listen?** Just show up—every session is a masterclass!  
 
 *"This isn't just practice. It's your unfair advantage."* 💡 
 
@@ -37,6 +37,6 @@ We welcome **Tech** or **Non-Tech** topics
 | AI/ML  | Product Launch |
 | Data Science | Public Speaking |
 
-All Meetings are virtual and delivered through [Zoom call.](https://www.zoom.com/)
+All Meetings are virtual and delivered through [Zoom call.](https://www.zoom.com/)  
 
-*No expertise required - just bring your enthusiasm!* ✨
+*No expertise required - just bring your enthusiasm!* ✨  
