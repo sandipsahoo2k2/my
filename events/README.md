@@ -10,7 +10,7 @@
 ✔ **Zero pressure & supportive space** — perfect for beginners & pros alike  
 ✔ **Flexible! Weekend warriors?** — Let’s chat, you choose your time!
 
-### Your Stage Awaits! ‧₊˚
+### Your Stage Awaits! ✨ 
 
 👉 **Want to Speak?** Email [interviewdose@gmail.com](mailto:interviewdose@gmail.com) to claim your slot  
 👉 **Prefer to Listen?** Just show up—every session is a masterclass!  
