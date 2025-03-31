@@ -7,5 +7,3 @@ Join us weekly for 15–30 minute presentations on any topic you're passionate a
 Ready to level up? Reach out to interviewdose@gmail.com, and we’ll schedule your session! 🎤✨
 
 Whether you're an expert or just eager to learn, we invite you to participate, engage, and grow together. Let’s be part of this platform where knowledge meets opportunity—come be a part of it!
-
-#PracticeMakesConfident #SpeakWithImpact
