@@ -13,8 +13,28 @@
 ### Your Stage Awaits! ✨ 
 
 👉 **Want to Speak?** Email [interviewdose@gmail.com](mailto:interviewdose@gmail.com) to claim your slot  
-👉 **Prefer to Listen?** Just show up—every session is a masterclass!  
+👉 **We have two categories** You can speak for **Tech or Non-Tech** Topic
+👉 **Prefer to Listen?** Just show up—every session is a masterclass!
 
-*"This isn't just practice. It's your unfair advantage."* 💡  
+*"This isn't just practice. It's your unfair advantage."* 💡 
 
 **See you in the next sprint!** ‧₊˚ 
+
+### 🎤 Choose Your Category!
+
+We welcome **Tech** or **Non-Tech** topics
+
+**Why participate?**
+- 🗣️ Practice speaking with confidence
+- 📊 Learn to structure compelling narratives
+- 👥 Get comfortable engaging audiences
+
+**Topic Examples:**
+| Tech Topics | Non-Tech Topics |
+|------------|----------------|
+| System Design | Leadership |
+| Web Development | Storytelling |
+| AI/ML  | Product Launch |
+| Data Science | Public Speaking |
+
+*No expertise required - just bring your enthusiasm!* ✨
