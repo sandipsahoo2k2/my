@@ -33,7 +33,7 @@ We welcome **Tech** or **Non-Tech** topics
 | Tech Topics | Non-Tech Topics |
 |------------|----------------|
 | System Design | Leadership |
-| Web Development | Storytelling |
+| Web Dev | Storytelling |
 | AI/ML  | Product Launch |
 | Data Science | Public Speaking |
 
