@@ -1,4 +1,4 @@
-## Sprint-1 [ Rate Limiters ]
-Mr Rahul gave a presentation on Rate Limiters and its design. He covered many aspects on Rate limiters and also live demoed a working implementation for a Token bucket algorithm.
+## Sprint-1 [ 03/30/2025 - Rate Limiters ]
+Mr Rahul gave a presentation on Rate Limiters and their design. He covered many aspects of Rate limiters and also live demoed a working implementation of a Token bucket algorithm.
 
 Reference : https://blog.bytebytego.com/p/rate-limiting-fundamentals
