@@ -1,4 +1,4 @@
-## Upcoming event 
+## Join or Listen to our next sprint
 
 Whether you're preparing for interviews or looking to grow as a professional, strong **presentation skills** and communication skills are key to success. InterviewDose presents a unique, supportive platform where you can practice and refine these essential skills in a live setting.
 
