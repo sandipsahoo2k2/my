@@ -16,4 +16,4 @@
 
 *"This isn't just practice. It's your unfair advantage."* 💡  
 
-**See you in the sprint!** ✨ 
+**See you in the next sprint!** ✨ 
