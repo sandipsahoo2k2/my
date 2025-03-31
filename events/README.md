@@ -1,4 +1,4 @@
-### Join Our Next Sprint!
+### Join Our Stage!
 
 **Strong presentation and communication skills** can make or break your career, whether you're pursuing leadership, sharing big ideas, or preparing for interviews. At **InterviewDose**, we've built a **simple yet collaborative** platform where you can **Practice, Polish, and Perfect** these skills in a live, supportive environment.
 
