@@ -3,5 +3,6 @@
 [Sandeep](www.interviewdose.com/contacts) will be presenting on Deep Page an MVP Idea on AI Search capability.   
 He will cover the nuts and bolts of a simple RAG application and how he leveraged Docker, Chroma, and SentenceTransformers with Python to achieve it.
 
-**Note:**
-To make the most of the meeting, we encourage you to join live, as recordings may not always be available.
+**Notes:**
+- Please like or comment to support his stage 🚀
+- To make the most of the meeting, we encourage you to join live, as recordings may not always be available.
