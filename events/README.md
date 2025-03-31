@@ -4,10 +4,12 @@
 
 ### Why Join?
 
-✔ **Weekly 15-30 min sessions** — Present your expertise (or curiosity!) on any topic  
+✔ **Weekly 15-30 min sessions** — Present your expertise (or curiosity!) on any topic
+✔ ** pressure, 100% growth** — perfect for beginners & pros alike  
 ✔ **Personal feedback** to sharpen your delivery & confidence  
 ✔ **Learn from peers** — gain fresh insights & inspiration  
 ✔ **Zero pressure, 100% growth** — perfect for beginners & pros alike  
+✔ **Flexible! Weekend warriors?** — Let’s chat, you choose your time!
 
 ### Your Stage Awaits!
 
