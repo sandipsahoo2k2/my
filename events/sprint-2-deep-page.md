@@ -13,7 +13,7 @@ Checkout this MVP on [DeepPage](http://publichome.page/chat)
 
 
 
-_**04/05/2025 9-AM IST - Friday 11.30PM EST Zoom link will be available here**_
+_**Saturday 4th April 2025 9-AM IST (Friday 11.30Pm EST) Zoom link will be available here**_
 
 **Notes:**
 - Please like or comment to support his stage 🚀
