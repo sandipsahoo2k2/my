@@ -12,7 +12,7 @@ Checkout this MVP on [DeepPage](http://publichome.page/chat)
 
 
 
-_**Saturday 5th April 2025 9-AM IST (4h-April-Friday-11.30Pm-EST) Zoom link will be available here**_
+_**Saturday 5th April 2025 9-AM IST (4h-April-Friday-11.30Pm-EST)**_
 
 Time: Apr 4, 2025 11:30 PM Eastern Time (US and Canada)
 Join Zoom Meeting
