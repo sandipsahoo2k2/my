@@ -14,6 +14,13 @@ Checkout this MVP on [DeepPage](http://publichome.page/chat)
 
 _**Saturday 5th April 2025 9-AM IST (4h-April-Friday-11.30Pm-EST) Zoom link will be available here**_
 
+Time: Apr 4, 2025 11:30 PM Eastern Time (US and Canada)
+Join Zoom Meeting
+https://us04web.zoom.us/j/79885447643?pwd=WMuRcRzaiyzadAZja1KabJRhqNY6Y4.1
+
+Meeting ID: 798 8544 7643
+Passcode: 7FAQVd
+
 **Notes:**
 - Please like or comment to support his stage 🚀
 - To make the most of the meeting, we encourage you to join live, as recordings may not always be available.
