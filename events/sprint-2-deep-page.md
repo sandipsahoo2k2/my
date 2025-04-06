@@ -2,6 +2,7 @@
 
 [Sandeep](www.interviewdose.com/contacts) will be presenting on "DeepPage" an MVP Idea on AI Search capability. 
 He will cover the nuts and bolts of this RAG application and how he leveraged Docker and few Popular AI Frameworks to achieve it.
+Here you can read more about deeppeek design - https://www.linkedin.com/pulse/take-deepeek-my-publichomepagechat-sandeep-sahoo-nxrme
 
 Checkout this MVP on [DeepPage](http://publichome.page/chat)
 
