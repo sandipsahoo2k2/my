@@ -29,6 +29,14 @@ input which can't be mapped to a bucket will go to the last bucket. Here is the 
 
 ```
 public static void batch(int[] inputs, int totalBuckets, int bucket_size) {
+
+        Map<Integer, List<Integer>> map = new HashMap<>() ;
+        for(int l : inputs) {
+            List<Integer> list = map.getOrDefault(l, new ArrayList<>()) ;
+            list.add(l) ;
+            map.put(l , list) ;
+        }
+
         int buckets[] = new int[totalBuckets + 1] ;
         for(Integer key : map.keySet()) {
             int row = key / bucket_size ;
@@ -41,14 +49,7 @@ public static void batch(int[] inputs, int totalBuckets, int bucket_size) {
         }
     }
 ```
-<!--
-        Map<Integer, List<Integer>> map = new HashMap<>() ;
-        for(int l : latency) {
-            List<Integer> list = map.getOrDefault(l, new ArrayList<>()) ;
-            list.add(l) ;
-            map.put(l , list) ;
-        }
-        -->
+
 Most important take away from this problem is _when you devide by the bucket_size you get the index_ of the bucket.
 You might be sometimes asked which row and column the input will go and sit then
 
