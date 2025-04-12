@@ -59,16 +59,17 @@ You might be sometimes asked which row and column the input will go and sit then
 
 2. For **sorting** ararys with premitive which is quite common use Arrays.sort(anArray) but for reverse sort its not possible even with Arrays.sort(data, Collections.reverseOrder()) so use Arrays.stream(anArray).boxed().toArray(Integer[]::new) then sort.
    
-4. Remember the syntax for inbuilt **binarySearch(anArray)** method if time doesn't permit use this method - when you are solving a big problem.
+3. Remember the syntax for inbuilt **binarySearch(anArray)** method if time doesn't permit use this method - when you are solving a big problem.
 
-5. Always remember to check the index is bound inside the window in a **while loop** -> while(i >= 0 && i < arr.length )
+4. Always remember to check the index is bound inside the window in a **while loop** -> while(i >= 0 && i < arr.length )
 
-6. To **convert a list** _to two dimentional array_ you can use toArray(new int[0][]) method <= look at the syntax.
+5. To **convert a list** _to two dimentional array_ you can use toArray(new int[0][]) method <= look at the syntax.
 
-7. To **convert a list** _to one dimentional array_ of int -> `list.stream().mapToInt(i -> i).toArray()`
+6. To **convert a list** _to one dimentional array_ of int -> `list.stream().mapToInt(i -> i).toArray()`
 
-8. When ever you need to use a frequency characters for english alphabets use int[] charFrequency = new int[128] <--- size = 128 because all valid characters will fit within ascii value 128 including lower case, upper case and numbers.
-9. You must know how to create numbers from string and also how to do add operations on string chars. [Practice this problem](https://leetcode.com/problems/add-strings)
+7. When ever you need to use a frequency characters for english alphabets use int[] charFrequency = new int[128] <--- size = 128 because all valid characters will fit within ascii value 128 including lower case, upper case and numbers.
+   
+8. You must know how to create numbers from string and also how to do add operations on string chars. [Practice this problem](https://leetcode.com/problems/add-strings)
     
    > e.g where x1 = '2' and x2 = '8'
    > 
