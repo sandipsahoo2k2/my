@@ -48,7 +48,7 @@ public static void batch(int[] inputs, int totalBuckets, int bucket_size) {
             list.add(l) ;
             map.put(l , list) ;
         }
-        ->
+        -->
 Most important take away from this problem is _when you devide by the bucket_size you get the index_ of the bucket.
 You might be sometimes asked which row and column the input will go and sit then
 
