@@ -15,7 +15,7 @@
 
 * Your resume should be clear and one to two pages with proper spacing.
 * Highlight the skills you want to show.
-* Hide everything else which doesn't matter for your next interview.
+* Remove everything else which doesn't matter for your next interview.
 * Have two to four bullets for your experience in an org not more.
 * Quantify your project and record how it imapcted the users or customers.
 * Have a professional, clean linkedin profile.
@@ -23,6 +23,7 @@
 * If you use AWS/GCP/Azure in your project definitely highlight in your profile.
 * If you don't have a professional experience in cloud technology, you must do a certifications and add it in your resume.
 * Must visit [John Doe's Homepage](https://interviewdose.com/articles/engineering/simple_resume). Build a resume and link it to your LinkedIn.
+* Refer [McCombs Technical Resume](https://docs.google.com/document/d/1XNtSNtsIoByFpsnH4mmpdQGa_ygoJtYBeDZc_1uLbOc/edit?tab=t.0)
 * Refer sample resumes from [UT Austin](https://careerengagement.utexas.edu/undergraduate-students/prepare/resumes-cover-letters/)
 * Download a sample PDF for reference - [freshman_2_4_years_CV.pdf](https://github.com/sandipsahoo2k2/my/files/14816895/freshman_2_4_years_CV.pdf)
 
