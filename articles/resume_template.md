@@ -22,7 +22,7 @@
 * Try to concisely showcase your achivements and skills in LinkedIn.
 * If you use AWS/GCP/Azure in your project definitely highlight in your profile.
 * If you don't have a professional experience in cloud technology, you must do a certifications and add it in your resume.
-* Must visit [John Doe's Homepage](https://interviewdose.com/articles/engineering/simple_resume). Build a resume and link it to your LinkedIn.
+* Must visit [John Doe's Homepage](https://interviewdose.com/articles/how_to_create_your_e_resume). Build a resume and link it to your LinkedIn.
 * Refer [McCombs Technical Resume](https://docs.google.com/document/d/1XNtSNtsIoByFpsnH4mmpdQGa_ygoJtYBeDZc_1uLbOc/edit?tab=t.0)
 * Refer sample resumes from [UT Austin](https://careerengagement.utexas.edu/undergraduate-students/prepare/resumes-cover-letters/)
 * Download a sample PDF for reference - [freshman_2_4_years_CV.pdf](https://github.com/sandipsahoo2k2/my/files/14816895/freshman_2_4_years_CV.pdf)
