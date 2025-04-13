@@ -26,3 +26,5 @@ class MultiHeadAttn(nn.Module):
         result = rearrange(result, "b h m d -> b m (h d)")
         return self.out_proj(result)
 ```
+
+- Advantage of using sinusoidal positional embeddings over absolute positional embeddings are because they more interpretable. There are many variants but rotary embedding is the goto embeddings that is most popular in llm because They extrapolate well to longer sequences. They are mix of sinusoidal and absolute .
