@@ -28,3 +28,22 @@ class MultiHeadAttn(nn.Module):
 ```
 
 - Advantage of using sinusoidal positional embeddings over absolute positional embeddings are because they more interpretable. There are many variants but rotary embedding is the goto embeddings that is most popular in llm because They extrapolate well to longer sequences. They are mix of sinusoidal and absolute .
+
+Below is an example for sinosoidal embeddings.
+
+```
+class PositionalEmbedding(nn.Module):
+    def __init__(self, embed_dim: int):
+        super().__init__()
+        self.freq = torch.exp(torch.arange(0, embed_dim, 2).float() / 2)
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        x = x[..., None:] * self.freq[None, None, :].to(x.device)
+        
+        return torch.cat([torch.sin(x), torch.cos(x)], dim=-1).view(x.shape[:-2], -1)
+
+```
+
+### What is a Transformer ?
+Transformer is nothing but a MultiHeadAttn with a Positional embedding with a multi layer perceptron ( MLP ) 
+MLP = LinearLayer + Relu + LinearLayer
