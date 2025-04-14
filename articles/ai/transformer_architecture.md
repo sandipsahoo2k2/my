@@ -1,9 +1,9 @@
-<!-- Draft -->
 ## How to build a multihead attention ?
 
 Multi head attnetion is nothing but multiplying weights to different layers of a network.
 
 ```
+from einops import rearrange
 class MultiHeadAttn(nn.Module):
     def __init__(self, embed_dim: int, num_heads: int):
         super().__init__()
@@ -14,7 +14,6 @@ class MultiHeadAttn(nn.Module):
         self.n_heads = num_heads
 
     def forward(self, q, k, v) -> torch.Tensor:
-        from einops import rearrange
         p_q, p_k, p_v = self.in_proj_q(q), self.in_proj_k(k), self.in_proj_v(v)
         r_q = rearrange(p_q, "b m (h d) -> b h m d", h=self.n_heads)
         r_k = rearrange(p_k, "b n (h d) -> b h n d", h=self.n_heads)
