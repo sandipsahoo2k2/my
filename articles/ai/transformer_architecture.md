@@ -49,3 +49,4 @@ MLP = LinearLayer + Relu + LinearLayer
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1998ca6a-2780-4f90-8897-bcc0b1336394" />
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/22c44677-a073-4d81-8ae1-c9580016f472" />
