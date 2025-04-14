@@ -46,7 +46,7 @@ class PositionalEmbedding(nn.Module):
 
 ```
 
-Vanila Multi layer perceptron can use Identity as an encoder and series of linear and relu but to predict the x, y, coordinate color we should use a better encoder which is sinosoidal e.g
+Vanila Multi layer perceptron (MLP) can use Identity as an encoder and series of linear and relu but to predict the x, y, coordinate color we should use a better encoder which is sinosoidal e.g
 
 ```
 class Rose(nn.Module):
