@@ -51,3 +51,39 @@ MLP = LinearLayer + Relu + LinearLayer
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1998ca6a-2780-4f90-8897-bcc0b1336394" />
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/22c44677-a073-4d81-8ae1-c9580016f472" />
+
+```
+class TransformerLayer(nn.Module):
+    def __init__(self, embed_dim: int, num_heads: int):
+        super().__init__()
+        self.attn = MultiHeadAttn(embed_dim, num_heads, batch_first=True)
+
+        self.mlp = nn.Sequential(
+            nn.Linear(embed_dim, embed_dim * 4),
+            nn.ReLU(),
+            nn.Linear(embed_dim * 4, embed_dim),
+        )
+        self.in_norm = nn.LayerNorm(embed_dim)
+        self.mlp_norm = nn.LayerNorm(embed_dim)
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        x_norm = self.in_norm(x)
+        x = x + self.attn(x_norm, x_norm, x_norm)[0]
+        x = x + self.mlp(self.mlp_norm(x))
+        return x
+    
+class Transformer(torch.nn.Module):
+    def __init__(
+        self,
+        embed_dim: int = 128,
+        num_heads: int = 8,
+        num_layers: int = 4
+    ):
+        super().__init__()
+        self.network = nn.Sequential(
+            *[TransformerLayer(embed_dim, num_heads) for _ in range(num_layers)]
+        )
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        return self.network(x)
+```
