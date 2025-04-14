@@ -47,3 +47,6 @@ class PositionalEmbedding(nn.Module):
 ### What is a Transformer ?
 Transformer is nothing but a MultiHeadAttn with a Positional embedding with a multi layer perceptron ( MLP ) 
 MLP = LinearLayer + Relu + LinearLayer
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1998ca6a-2780-4f90-8897-bcc0b1336394" />
+
