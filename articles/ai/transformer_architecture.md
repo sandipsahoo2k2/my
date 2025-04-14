@@ -27,6 +27,8 @@ class MultiHeadAttn(nn.Module):
         return self.out_proj(result)
 ```
 
+- Positional embedings are used to break permutations invariance
+- They encode location related information
 - Advantage of using sinusoidal positional embeddings over absolute positional embeddings are because they more interpretable. There are many variants but rotary embedding is the goto embeddings that is most popular in llm because They extrapolate well to longer sequences. They are mix of sinusoidal and absolute .
 
 Below is an example for sinosoidal embeddings.
@@ -41,6 +43,32 @@ class PositionalEmbedding(nn.Module):
         x = x[..., None:] * self.freq[None, None, :].to(x.device)
         
         return torch.cat([torch.sin(x), torch.cos(x)], dim=-1).view(x.shape[:-2], -1)
+
+```
+
+Vanila Multi layer perceptron can use Identity as an encoder and series of linear and relu but to predict the x, y, coordinate color we should use a better encoder which is sinosoidal e.g
+
+```
+class Rose(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.enc = PositionalEmbedding(12) # we replaced the torch.nn.Identity() with positional embedding to better predict
+        self.net = torch.nn.Sequential(
+            nn.Linear(2, 256),
+            nn.ReLU(),
+            nn.Linear(256, 128),
+            nn.ReLU(),
+            nn.Linear(128, 64),
+            nn.ReLU(),
+            nn.Linear(64, 3),
+        )
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        return self.net(self.enc(x))
+    
+    """
+    rose tensor is input, x, y cordinate is our data to predict the color of pixel at that location
+    """
 
 ```
 
