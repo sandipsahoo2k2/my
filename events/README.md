@@ -1,6 +1,6 @@
 ### Join Our Stage!
 
-**Strong presentation and communication skills** can make or break your career, whether you're pursuing leadership, sharing big ideas, or preparing for interviews. At **[InterviewDose](https://youtu.be/9yzg_I2qhu4)**, we've built a **simple yet collaborative** platform where you can **Practice, Polish, and Perfect** these skills in a live, supportive environment.
+**Strong presentation skills** can make or break your career, whether you're pursuing leadership, sharing big ideas, or preparing for interviews. At **[InterviewDose](https://youtu.be/9yzg_I2qhu4)**, we've built a **simple yet collaborative** platform where you can **Practice, Polish, and Perfect** these skills in a live, supportive environment.
 
 ### Why Join?
 
@@ -33,9 +33,9 @@ We welcome **Tech** or **Non-Tech** topics
 | Tech Topics | Non-Tech Topics |
 |------------|----------------|
 | System Design | Leadership |
-| Web Dev | Storytelling |
-| AI/ML  | Product Launch |
-| Data Science | Public Speaking |
+| Web Dev | Product Launch |
+| AI/ML  | Public Speaking |
+| Data Science | Storytelling |
 
 All Meetings are virtual and delivered through [Zoom call.](https://www.zoom.com/)  
 
