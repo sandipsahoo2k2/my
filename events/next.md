@@ -43,7 +43,7 @@ https://us04web.zoom.us/j/79535615234?pwd=rg6mgVnWsfk6TX9T9CghGcyNMk4KM1.1
 
 - Keep it simple and engaging  
 - Tell a story or share real-world examples  
-- Practice with a friend or mirror before going live
+- Practice, Practice and Practice with us
 
 ---
 
