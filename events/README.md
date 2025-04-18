@@ -37,6 +37,6 @@ We welcome **Tech** or **Non-Tech** topics
 | AI/ML  | Public Speaking |
 | Data Science | Storytelling |
 
-All Meetings are virtual and delivered through [Zoom call.](https://www.zoom.com/)  
+All Meetings are virtual and delivered through [Zoom call.](/events/next)  
 
 *No expertise required - just bring your enthusiasm!* ✨  
