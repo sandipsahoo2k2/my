@@ -1,6 +1,6 @@
 ## 🎤 Join Stage-X
 
-Welcome to our **Weekly Presentation Event** — your chance to share knowledge, practice public speaking, and shine in front of a supportive audience!
+Welcome to our **Weekly Presentation Event** — your chance to share knowledge, practice public speaking, and shine in a professionalenvironment !
 
 ## 📅 When & Where
 
