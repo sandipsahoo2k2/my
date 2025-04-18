@@ -1,4 +1,4 @@
-## Sprint-2 [ 04/05/2025 - Tech Topic - Deep Page]
+## Stage-2 [ 04/05/2025 - Tech Topic - Deep Page]
 
 [Sandeep](www.interviewdose.com/contacts) presented on "DeepPage" an MVP Idea on AI Search capability - now called deeppeek.
 He will cover the nuts and bolts of this RAG application and how he leveraged Docker and few Popular AI Frameworks to achieve it.
