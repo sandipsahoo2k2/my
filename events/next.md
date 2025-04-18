@@ -22,7 +22,7 @@ https://us04web.zoom.us/j/79535615234?pwd=rg6mgVnWsfk6TX9T9CghGcyNMk4KM1.1
    Choose any topic you're passionate about — tech, design, storytelling, your hobby, or anything that inspires.
 
 2. **Prepare & Present**  
-   Prepare a short 5–10 minute presentation. Slides are optional but encouraged.
+   Prepare a short 5–10 minute presentation. Slides are optional but encouraged or you can use live draw with [excalidraw](https://docs.excalidraw.com/)
 
 3. **Get Feedback**  
    Receive constructive feedback from peers and mentors to help you improve.
