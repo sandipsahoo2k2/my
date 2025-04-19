@@ -14,9 +14,6 @@ Weekly: https://us04web.zoom.us/meeting/up0odOyurz4oGdCHj5bxLyYd-fc_g8s5hVik/ics
 Join Zoom Meeting
 https://us04web.zoom.us/j/79535615234?pwd=rg6mgVnWsfk6TX9T9CghGcyNMk4KM1.1
 
-Meeting ID: 795 3561 5234
-Passcode: 6vYHJ7
-
 **Meeting ID:** 795 3561 5234
 **Passcode:** 6vYHJ7
 
