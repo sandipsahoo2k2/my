@@ -2,7 +2,7 @@
 
 Mr Rahul Presentated a system design on drop-box design
 
-<img width="1710" alt="Screenshot 2025-04-19 at 1 54 11 AM" src="https://github.com/user-attachments/assets/a7298528-0375-43b2-bac1-e94ca5040de7" />
+<img width="600" alt="Screenshot 2025-04-19 at 1 54 11 AM" src="https://github.com/user-attachments/assets/a7298528-0375-43b2-bac1-e94ca5040de7" />
 
 References:
 * https://docs.excalidraw.com/
