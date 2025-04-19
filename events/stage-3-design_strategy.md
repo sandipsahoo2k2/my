@@ -1,10 +1,10 @@
 ## Stage-3 [ 04/18/2025 - Growth - Presentation]
 
-[Mr Rahul](https://www.linkedin.com/in/rahul-jain-44969352/) will give a presentation on design strategies.
+Mr Rahul will Presentated a system design on drop-box design.
 
 References:
 * https://docs.excalidraw.com/
-* https://medium.com/@patrikkaura/the-fundamentals-of-rate-limiting-how-it-works-and-why-you-need-it-fd86d39e358d
+* https://www.hellointerview.com/learn/system-design/problem-breakdowns/dropbox
 
 **Topic: Growth Stage-X**  
 **Time**: Apr 18, 2025 11:30 PM Eastern Time (US and Canada)  
