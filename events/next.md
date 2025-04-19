@@ -1,6 +1,6 @@
 ## 🎤 Join Stage-X
 
-Welcome to our **Weekly Presentation Event** — your chance to share knowledge, practice public speaking, and shine in a professionalenvironment !
+Welcome to our **Weekly Stage Events** — your chance to share knowledge, _**practice presentations**_, _**system design**_, _**pitch ideas**_ and shine in a professionalenvironment !
 
 ## 📅 When & Where
 
@@ -18,7 +18,7 @@ Weekly: https://us04web.zoom.us/meeting/up0odOyurz4oGdCHj5bxLyYd-fc_g8s5hVik/ics
    Choose any topic you're passionate about — tech, design, storytelling, your hobby, or anything that inspires.
 
 2. **Prepare & Present**  
-   Prepare a short 5–10 minute presentation. Slides are optional but encouraged or you can use live draw with [excalidraw](https://docs.excalidraw.com/)
+   Prepare a short 5-10 pitch or 15–30 minutes presentation. Slides are optional but encouraged or you can use live draw with [excalidraw](https://docs.excalidraw.com/)
 
 3. **Get Feedback**  
    Receive constructive feedback from peers and mentors to help you improve.
