@@ -10,7 +10,7 @@ Welcome to our **Weekly Stage Events** — your chance to share knowledge, _**pr
 Weekly: https://us04web.zoom.us/meeting/up0odOyurz4oGdCHj5bxLyYd-fc_g8s5hVik/ics?icsToken=DIPXofVmwDP6Cj7BVgAALAAAAFLjW34myrPgm8p6Q2i0ccOKXseL4AdYqj-psz3LauQkBMogtFEsuOhc-uA-SwIsJsOgJiuiK9iQICgewjAwMDAwMQ&meetingMasterEventId=uG5nkv3BTHe3cNyvc1cwUQ  
 
 - **Location | Zoom Meeting** -
-  Meeting Link **_Use recurring link above : One time will be published on Friday_**
+  Meeting Link **_Use recurring link above : Next will be published on Friday_**
 
 ## 📝 How It Works
 
