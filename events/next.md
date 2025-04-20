@@ -2,7 +2,7 @@
 
 Welcome to our **Weekly Stage Events** — your chance to share knowledge, _**practice presentations**_, _**system design**_, _**pitch ideas**_ and shine in a professionalenvironment !  
 
-Want to know more about next events [Chat Here](https://discord.gg/CX3YDKeZ)
+Want to know more about next events [Chat Here](https://discord.gg/EAGsQxdCTY)
 
 ## 📅 When & Where
 
