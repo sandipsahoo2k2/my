@@ -1,6 +1,6 @@
 ## 🎤 Join Stage-X
 
-Welcome to our **Weekly Stage Events** — your chance to share knowledge, _**practice presentations**_, _**system design**_, _**pitch ideas**_ and shine in a professionalenvironment !
+Welcome to our **Weekly Stage Events** — your chance to share knowledge, _**practice presentations**_, _**system design**_, _**pitch ideas**_ and shine in a professionalenvironment ! Want to know more about next events https://discord.gg/CX3YDKeZ ?
 
 ## 📅 When & Where
 
