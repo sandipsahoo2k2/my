@@ -10,7 +10,7 @@ It divides houses into only two categories. The predicted price for any house un
 
 In simple terms to improve the prediction we can add more decision trees to the decision making process.
 
-### Using Pandas to Get Familiar With Your Data
+### Pandas to Get Familiar With Your Data
 The first step in any machine learning project is familiarize yourself with the data for which Pandas is the primary tool data scientists use.
 
 `import pandas as pd`
@@ -26,7 +26,7 @@ data = pd.read_csv(melbourne_file_path)
 data.describe()
 ```
 
-### Choosing "Features"
+### "Features" in a model
 
 The columns that are inputted into our model (and later used to make predictions) are called "features."
 This is an important step for model building and training.
@@ -47,7 +47,7 @@ That is the 25% value (pronounced "25th percentile"). The 50th and 75th percenti
 
 `X.dropna(axis=0)` will drop the missing values. `X.head()` will give top 5 records for X dataframe.
 
-### Building Your Model
+### Steps for a Model
 You will use the `scikit-learn` library to create your models. 
 Scikit-learn is easily the most popular library for modeling the types of data typically stored in DataFrames.
 
