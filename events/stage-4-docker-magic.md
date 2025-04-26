@@ -1,6 +1,8 @@
 ## Stage-4 [ 04/25/2025 - docker-magic ]
 
 Sandeep will present on why docker and show a live demo on deploying a product in docker.
+Join here : https://us04web.zoom.us/j/71403109305?pwd=arX4zDNKSDdTouosumQA7aSHu4gRUG.1
+
 
 <img width="600" alt="Drop-box Design" src="https://github.com/user-attachments/assets/4c8795ba-6a06-48da-9a36-af5f2e596604" />
 
