@@ -47,7 +47,7 @@ That is the 25% value (pronounced "25th percentile"). The 50th and 75th percenti
 
 `X.dropna(axis=0)` will drop the missing values. `X.head()` will give top 5 records for X dataframe.
 
-### Steps for a Model
+### Steps for a ML Model
 You will use the `scikit-learn` library to create your models. 
 Scikit-learn is easily the most popular library for modeling the types of data typically stored in DataFrames.
 
@@ -71,4 +71,11 @@ model.fit(X, y) # X = dataframe that you created from features from a large set 
 print(model.predict(X))
 
 ```
+
+## What is overfitting and underfitting 
+
+**Decision trees** leave you with a difficult decision.   
+A deep tree with lots of leaves will **overfit** because each prediction is coming from historical data from only the few houses at its leaf. But a shallow tree with few leaves will perform poorly and **underfit** because it fails to capture as many distinctions in the raw data.
+
+The **random forest** uses many trees, and _it makes a prediction **by averaging the predictions of each component** tree_. It generally has much better predictive accuracy than a single decision tree and it works well with default parameters.
 
