@@ -3,8 +3,7 @@
 Sandeep will present on why docker and show a live demo on deploying a product in docker.
 Join here : https://us04web.zoom.us/j/71403109305?pwd=arX4zDNKSDdTouosumQA7aSHu4gRUG.1
 
-
-<img width="600" alt="Docker magic" target="_blank" src="https://i3.ytimg.com/vi/h04OH2CyYJI/maxresdefault.jpg" />
+<a href="https://youtu.be/h04OH2CyYJI"><img width="600" alt="Docker magic" target="_blank" src="https://i3.ytimg.com/vi/h04OH2CyYJI/maxresdefault.jpg" /></a>
 
 References:
 * https://docs.excalidraw.com/
