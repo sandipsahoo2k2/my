@@ -46,6 +46,8 @@ Weekly: https://us04web.zoom.us/meeting/up0odOyurz4oGdCHj5bxLyYd-fc_g8s5hVik/ics
 ---
 
 *Your voice matters.*  
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/186759ed-2945-4821-ba03-3767b1d6ca85" />
+
 
 References Tools:
 * https://docs.excalidraw.com/
