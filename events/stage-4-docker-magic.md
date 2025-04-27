@@ -4,11 +4,11 @@ Sandeep will present on why docker and show a live demo on deploying a product i
 Join here : https://us04web.zoom.us/j/71403109305?pwd=arX4zDNKSDdTouosumQA7aSHu4gRUG.1
 
 
-<img width="600" alt="Drop-box Design" src="https://github.com/user-attachments/assets/4c8795ba-6a06-48da-9a36-af5f2e596604" />
+<img width="600" alt="Docker magic" target="_blank" src="https://i3.ytimg.com/vi/h04OH2CyYJI/maxresdefault.jpg" />
 
 References:
 * https://docs.excalidraw.com/
-* https://www.hellointerview.com/learn/system-design/problem-breakdowns/dropbox
+* https://youtu.be/h04OH2CyYJI
 
 **Topic: Growth Stage-X**  
 **Time**: Every week on Fri, 110 occurrence(s)  
