@@ -52,9 +52,11 @@ Weekly: https://us04web.zoom.us/meeting/up0odOyurz4oGdCHj5bxLyYd-fc_g8s5hVik/ics
 References Tools:
 * https://docs.excalidraw.com/
 
+<!--
 ## 🏆 Presentation mastery certificates !!
 
 - You can download a presentation mastry certificate on successfully delivery on your presentations [here](/here)
 - Minimum two presentations are required to secure the Level-1 mastry.
-- You can speak or deliver as many presentations as you can ( After all practice makes a man perfect )
+- You can speak or deliver as many presentations as you can ( After all practice makes a man perfect ) 
+-->
 
