@@ -35,6 +35,8 @@ public ListNode reverseList(ListNode head) {
     }
 ```
 
+Another beautiful problem where you can use reverse a linklist is [Check if a list is palindrome or not](https://leetcode.com/problems/palindrome-linked-list)
+
 ### Sort colors ( Dutch flag problem )
 This problem is also called Dutch flag problem, where we are asked to sort the members of an array where only 3 numbers are present repeatedly in any order.
 e.g _Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue._
