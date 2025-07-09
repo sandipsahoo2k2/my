@@ -1,3 +1,8 @@
+## Upcoming event
+
+[How to Use interviewdose for your next Tech-interview ?](https://adplist.org/session/use-interviewdose-for-your-next-tech-interview)
+**Friday 8PM EDT**
+
 ## 🎤 Join Stage-X
 
 Welcome to our **Weekly Stage Events** — your chance to share knowledge, _**practice presentations**_, _**system design**_, _**pitch ideas**_ and shine in a professionalenvironment !  
