@@ -103,6 +103,8 @@ Problems featuring in-place reversal of linked list pattern:
 Reverse a Sub-list (medium)
 Reverse every K-element Sub-list (medium)
 
+Refer : https://interviewdose.com/articles/engineering/ds/sliding_window
+
 ## 5. Tree BFS
 
 This pattern is based on the Breadth First Search (BFS) technique to traverse a tree and uses a queue to keep track of all the nodes of a level before jumping onto the next level. Any problem involving the traversal of a tree in a level-by-level order can be efficiently solved using this approach.
@@ -116,6 +118,8 @@ Problems featuring Tree BFS pattern:
 
 Binary Tree Level Order Traversal (easy)
 Zigzag Traversal (medium)
+
+Refer : https://interviewdose.com/articles/engineering/ds/binary_trees
 
 ## 6. Tree DFS
 
@@ -135,6 +139,8 @@ Problems featuring Tree DFS pattern:
 
 Sum of Path Numbers (medium)
 All Paths for a Sum (medium)
+
+Refer : https://interviewdose.com/articles/engineering/ds/binary_trees
 
 ## 7. Subsets
 
@@ -157,6 +163,8 @@ Problems featuring Subsets pattern:
 
 Subsets With Duplicates (easy)
 String Permutations by changing case (medium)
+
+https://interviewdose.com/articles/engineering/ds/subsets
 
 ## 8. Modified binary search
 
