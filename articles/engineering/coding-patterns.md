@@ -79,6 +79,7 @@ The Merge Intervals pattern is an efficient technique to deal with overlapping i
 In a lot of problems, you may be asked to reverse the links between a set of nodes of a linked list. Often, the constraint is that you need to do this in-place, i.e., using the existing node objects and without using extra memory. This is where the above mentioned pattern is useful.
 
 Refer : https://interviewdose.com/articles/engineering/ds/three_pointers
+
 SuccessSheet :
 ```
 public ListNode fn(ListNode head) {
