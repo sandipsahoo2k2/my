@@ -17,7 +17,7 @@ Maximum sum subarray of size ‘K’ (easy)
 Longest substring with ‘K’ distinct characters (medium)  
 String anagrams (hard)  
 
-Refer : https://interviewdose.com/articles/engineering/ds/sliding_window
+Dive into my full article : https://interviewdose.com/articles/engineering/ds/sliding_window
 
 ## 2. Two Pointers, Fast and Slow pointers
 
@@ -78,7 +78,7 @@ The Merge Intervals pattern is an efficient technique to deal with overlapping i
 
 In a lot of problems, you may be asked to reverse the links between a set of nodes of a linked list. Often, the constraint is that you need to do this in-place, i.e., using the existing node objects and without using extra memory. This is where the above mentioned pattern is useful.
 
-Refer : https://interviewdose.com/articles/engineering/ds/three_pointers
+Dive into my full article : https://interviewdose.com/articles/engineering/ds/three_pointers
 
 SuccessSheet :
 ```
@@ -104,7 +104,7 @@ Problems featuring in-place reversal of linked list pattern:
 Reverse a Sub-list (medium)
 Reverse every K-element Sub-list (medium)
 
-Refer : https://interviewdose.com/articles/engineering/ds/sliding_window
+Dive into my full article : https://interviewdose.com/articles/engineering/ds/sliding_window
 
 ## 5. Tree BFS
 
@@ -120,7 +120,7 @@ Problems featuring Tree BFS pattern:
 Binary Tree Level Order Traversal (easy)
 Zigzag Traversal (medium)
 
-Refer : https://interviewdose.com/articles/engineering/ds/binary_trees
+Dive into my full article : https://interviewdose.com/articles/engineering/ds/binary_trees
 
 ## 6. Tree DFS
 
@@ -141,7 +141,7 @@ Problems featuring Tree DFS pattern:
 Sum of Path Numbers (medium)
 All Paths for a Sum (medium)
 
-Refer : https://interviewdose.com/articles/engineering/ds/binary_trees
+Dive into my full article : https://interviewdose.com/articles/engineering/ds/binary_trees
 
 ## 7. Subsets
 
@@ -165,13 +165,13 @@ Problems featuring Subsets pattern:
 Subsets With Duplicates (easy)
 String Permutations by changing case (medium)
 
-https://interviewdose.com/articles/engineering/ds/subsets
+Dive into my full article : https://interviewdose.com/articles/engineering/ds/subsets
 
 ## 8. Modified binary search
 
 Whenever you are given a sorted array, linked list, or matrix, and are asked to find a certain element, the best algorithm you can use is the Binary Search. This pattern describes an efficient way to handle all problems involving Binary Search.
 
-Refer : https://interviewdose.com/articles/engineering/ds/binary_search
+Read In Depth : https://interviewdose.com/articles/engineering/ds/binary_search
 
 Problems featuring the Modified Binary Search pattern:
 
@@ -180,7 +180,7 @@ Search in a Sorted Infinite Array (medium)
 
 ## 9. Top K elements
 
-Refer : https://interviewdose.com/articles/engineering/ds/binary_tree
+Dive into my full article : https://interviewdose.com/articles/engineering/ds/binary_tree
 
 Any problem that asks us to find the top/smallest/frequent ‘K’ elements among a given set falls under this pattern.
 
@@ -220,7 +220,7 @@ public int[] fn(int[] arr, int k) {
 
 Topological Sort is used to find a linear ordering of elements that have dependencies on each other. For example, if event ‘B’ is dependent on event ‘A’, ‘A’ comes before ‘B’ in topological ordering.
 
-Refer : https://interviewdose.com/articles/engineering/ds/topological_sorting
+Dive into my full article : https://interviewdose.com/articles/engineering/ds/topological_sorting
 
 How to identify the Topological Sort pattern:
 
