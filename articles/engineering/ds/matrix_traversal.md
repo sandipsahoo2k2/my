@@ -16,6 +16,58 @@ The solution is to simply do the modulo to find the exact new position for an el
 
 Similar question with direction to _right_ : https://leetcode.com/problems/rotate-array
 
+```
+public void rotateLeft(int[] nums, int k) {
+        int[] temp = Arrays.copyOfRange(nums, 0, k);
+        System.out.println(Arrays.toString(temp));
+        
+        for(int i = 0 ; (i + k) < nums.length ; i++)
+        {
+            nums[i] = nums[i + k] ;
+        }
+        
+        System.out.println(Arrays.toString(nums));
+        
+        for(int i = 0 ; i < k ; i++)
+        {
+            nums[nums.length-k + i] = temp[i] ;
+        }
+    }
+    
+    public void rotateRight(int[] nums, int k) {
+        if(k > nums.length)
+            return;
+        
+        int[] temp = Arrays.copyOfRange(nums, nums.length - k, nums.length);
+        
+        for(int i = nums.length - 1 ; (i - k) >= 0 ; i--)
+        {
+            nums[i] = nums[i - k] ;
+        }
+        
+        for(int i = 0 ; i < k ; i++)
+        {
+            nums[i] = temp[i] ;
+        }
+    }
+```
+**Most simplest way**
+
+```
+    
+    public void rotate(int[] nums, int k) {
+        
+        int[] a = new int[nums.length];
+        
+        for (int i = 0; i < nums.length; i++) {
+            a[(i + k) % nums.length] = nums[i];
+        }
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = a[i];
+        }
+    }
+```
+
 ## Matrix traversal 
 What I mean by matrix here is generally a two dimentional matrix. 
 There are usually two direction that we can follow to traverse all the cells in a mtrix.
