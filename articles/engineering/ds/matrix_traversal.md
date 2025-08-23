@@ -54,7 +54,6 @@ public void rotateLeft(int[] nums, int k) {
 **Most simplest way**
 
 ```
-    
     public void rotate(int[] nums, int k) {
         
         int[] a = new int[nums.length];
@@ -66,6 +65,19 @@ public void rotateLeft(int[] nums, int k) {
             nums[i] = a[i];
         }
     }
+
+ //Left rotation: a[(i - k + n) % n] = nums[i] (adding n ensures no negative index)
+  public void rotateLeft(int[] nums, int k) {
+    int n = nums.length;
+    int[] a = new int[n];
+    
+    for (int i = 0; i < n; i++) {
+        a[(i - k + n) % n] = nums[i];
+    }
+    for (int i = 0; i < n; i++) {
+        nums[i] = a[i];
+    }
+}
 ```
 
 ## Matrix traversal 
