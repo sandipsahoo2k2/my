@@ -80,13 +80,16 @@ public void rotateLeft(int[] nums, int k) {
 }
 ```
 **In-Place Left Rotation Algorithm using reverse() **
-nums = [1,2,3,4,5], k = 2
 
-1.Reverse first 2 → [2,1,3,4,5]
-2.Reverse remaining → [2,1,5,4,3]
-3.Reverse whole → [3,4,5,1,2]
+nums = [1,2,3,4,5], k = 2  
+
+1.Reverse first 2 → [2,1,3,4,5]  
+2.Reverse remaining → [2,1,5,4,3]  
+3.Reverse whole → [3,4,5,1,2]  
 
 **In-Place Right Rotation**
+
+```
 public void rotateRightInPlace(int[] nums, int k) {
     int n = nums.length;
     k = k % n;  // handle if k > n
@@ -100,6 +103,7 @@ public void rotateRightInPlace(int[] nums, int k) {
     // Step 3: reverse the entire array
     reverse(nums, 0, n - 1);
 }
+```
 
 ## Matrix traversal 
 What I mean by matrix here is generally a two dimentional matrix. 
