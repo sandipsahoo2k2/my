@@ -11,14 +11,18 @@ Because for an interview environment its easy to explain. It's by default linear
 
 **Below are the steps to solve such problem.**
 
-1. Create a graph(Adgecency list) from the input, usually input is a 2d array. Create a graph `List<Integer> gph[] = new ArrayList[size]`
-2. Find the inDegrees from the input and add the nodes to Queue which has inDegree zero.
-3. Perform BFS For each node until Queue is not empty 
+1. Create a graph(Adgecency list) from the input, usually input is a 2d array.  
+   Create a graph `List<List<Integer>> adj = new ArrayList<>() ;
+        for(int i = 0 ; i < numCourses ; i++) {
+            adj.add(new ArrayList<>());
+        }`
+3. Find the inDegrees from the input and add the nodes to Queue which has inDegree zero.
+4. Perform BFS For each node until Queue is not empty 
       > poll from the quque <-- add it to the result  
       > for each child of the nodes neighbours  
       >> decrement inDegree count <-- important  
       >> if( inDegree == 0) -> add it to the queue
-4. finally the result contains the vertex in order.
+5. finally the result contains the vertex in order.
 
 T: O(V + E) where V = number of vertices and E is number of edges  
 S: O(V + E)
