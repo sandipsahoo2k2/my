@@ -103,4 +103,4 @@ public int search(int[] nums, int target) {
 ```
 
 For finding peak element condition is  
-`if(nums[mid] < nums[mid+1])` Practice [Find peak element](https://leetcode.com/problems/find-peak-element/description/)
+`if(nums[mid] < nums[mid+1])` Practice [Find peak element](https://leetcode.com/problems/find-peak-element/)
