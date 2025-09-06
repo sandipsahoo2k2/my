@@ -37,5 +37,44 @@ Practice questions :
 * [Check if it is possible to finish all courses](https://leetcode.com/problems/course-schedule)
 * [return the topological ordering](https://leetcode.com/problems/course-schedule-ii)
 
+```
+public int[] findOrder(int numCourses, int[][] prerequisites) {
+        int[] inDegrees = new int[numCourses] ;
 
+      //Look here for creating adj list
+        List<List<Integer>> adj = new ArrayList<>() ;
+        for(int i = 0 ; i < numCourses ; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        for(int[] course : prerequisites) {
+            adj.get(course[1]).add(course[0]);
+            inDegrees[course[0]] ++ ;
+        }
+
+        Queue<Integer> dq = new ArrayDeque<>() ;
+        for(int i = 0 ; i < numCourses ;i++) {
+            if(inDegrees[i] == 0) {
+                dq.offer(i) ;
+            }
+        }
+
+        int level = 0 ;
+        int i = 0 ;
+        int [] result = new int[numCourses] ;
+        while(!dq.isEmpty()) {
+            int node = dq.poll();
+            result[i++] = node ; 
+            for(int course : adj.get(node)){
+                inDegrees[course] -- ;
+                if(inDegrees[course] == 0) {
+                    dq.offer(course) ;
+                }
+            }
+            level ++ ;
+        }
+
+        return level == numCourses ? result : new int[0];
+    }
+```
 
