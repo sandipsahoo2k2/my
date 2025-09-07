@@ -10,7 +10,7 @@ Queue<TreeNode> queue = new ArrayDeque<>();
     queue.offer(root);
 
     int level = 0 ;
-    while (!queue.isEmpty()) {
+    while (!queue.isEmpty()) { // this is the place you can add extra condition 
 
         int levelSize = queue.size(); // look this size separated
         
@@ -66,6 +66,47 @@ public int coinChange(int[] coins, int amount) {
 Refer : https://leetcode.com/problems/letter-combinations-of-a-phone-number
 
 ```
+
+public List<String> letterCombinations(String digits) {
+        if(digits.length() == 0) {
+            return new ArrayList<>() ;
+        }
+        Map<Character, String> options = new HashMap<>() ;
+        options.put('2', "abc");
+        options.put('3', "def");
+        options.put('4', "ghi");
+        options.put('5', "jkl");
+        options.put('6', "mno");
+        options.put('7', "pqrs");
+        options.put('8', "tuv");
+        options.put('9', "wxyz");
+
+        List<String> result = new ArrayList<>() ;
+
+        Queue<String> dq = new ArrayDeque<>() ;
+        dq.offer("") ;
+        int level = 0 ;
+        int i = 0 ;
+        while(!dq.isEmpty() && i < digits.length()) { //Look at this extra condition
+
+            //for(int i = 0 ; i < digits.length() ; i ++) { //this is commented as it won't work
+
+                int size = dq.size() ;
+                for(int j = 0 ; j < size ; j ++) {
+                    String current = dq.poll() ;
+                    for(char ch : options.get(digits.charAt(i)).toCharArray()){
+                        dq.offer(current + ch) ;
+                    }
+                }
+                level ++ ;
+                i++ ;
+
+            //}
+        }
+
+        result.addAll(dq);
+        return result ;
+    }
 
 ```
 
