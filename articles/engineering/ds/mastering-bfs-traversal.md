@@ -1,5 +1,74 @@
-<!-- Draft -->
-## Graph traversal approach ( DFS and BFS )
+## Master this BFS solution for every BFS problem you write
+
+BFS traversal is solved using Queue. Follow this **exact** approach to write BFS problem. 
+It is surpising to see that, even almost all HARD problem with permutaion and combinations can be solved using BFS !!
+So pay special attention to this logic.
+
+```
+
+Queue<TreeNode> queue = new ArrayDeque<>();
+    queue.offer(root);
+
+    int level = 0 ;
+    while (!queue.isEmpty()) {
+
+        int levelSize = queue.size(); // look this size separated
+        
+        for (int i = 0; i < levelSize; i++) { //use this for loop
+            TreeNode currentNode = queue.poll(); //inside loop -> poll()
+            
+            if (currentNode.left != null) {
+                queue.offer(currentNode.left);
+            }
+            if (currentNode.right != null) {
+                queue.offer(currentNode.right);
+            }
+        }
+        level ++ ; //increase the level / step count
+    }
+
+```
+
+Refer : https://leetcode.com/problems/coin-change/
+
+```
+public int coinChange(int[] coins, int amount) {
+
+        Set<Integer> cache = new HashSet<>() ;
+        Queue<Integer> dq = new ArrayDeque<>() ;
+        dq.offer(amount) ;
+        int level = 0 ;
+        while(!dq.isEmpty()) {
+
+            int length = dq.size() ;
+            for(int i = 0 ; i < length ; i ++) {
+
+                int target = dq.poll() ;
+                if(target == 0) {
+                    return level ;
+                }
+
+                for(int j = 0 ; j < coins.length ;j++) {
+                    int next = target - coins[j];
+                    if(next >= 0 && !cache.contains(next)) {
+                        dq.offer(next) ;
+                        cache.add(next) ;
+                    }
+                }
+            }
+            level ++ ;
+        }
+
+        return -1 ;
+    }
+```
+
+Refer : https://leetcode.com/problems/letter-combinations-of-a-phone-number
+
+```
+
+```
+
 Leetcode practice link : https://leetcode.com/problems/valid-palindrome-iii
 
 Staright forward BFS solution by deleting 1 character and exploring the nodes.
