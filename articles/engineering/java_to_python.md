@@ -1,5 +1,8 @@
 # Java vs Python — Interview Cheat Sheet
 
+This is almost the complete list of key difference or reference of methods key words that you need to know if you are coiming from java. 
+If you have good hold of a language and Transitioning to AI you must master Python for your interview. This [link here](quick_python_reference.md) might be a quick review for your next interview.
+
 ## Key Language Constructs
 
 | Concept | Java | Python |
